@@ -3,7 +3,7 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-234832 total unique domains | 201099 (86%) included | 3329 (1%) removed | 30404 (13%) dead
+235284 total unique domains | 201816 (86%) included | 2951 (1%) removed | 30517 (13%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | https://dbl.oisd.nl/basic
@@ -22,8 +22,8 @@
  14 |      43% |  11% |     46% | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
  15 |      20% |   0% |     80% | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
  16 |      89% |   8% |      3% | https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
- 17 |      76% |  12% |     14% | https://v.firebog.net/hosts/static/w3kbl.txt
- 18 |     100% |   0% |     16% | personal.txt
+ 17 |      75% |  12% |     14% | https://v.firebog.net/hosts/static/w3kbl.txt
+ 18 |     100% |   0% |      0% | personal.txt
  19 |     100% |   0% |      0% | fake.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
@@ -31,16 +31,16 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### MULTI
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-dead.txt)
 ```
-1198500 total unique domains | 916305 (76%) included | 2638 (0%) removed | 279557 (23%) dead
+1174271 total unique domains | 909514 (77%) included | 2283 (0%) removed | 262474 (22%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |      85% |  15% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-  2 |      59% |  41% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
-  3 |      67% |  33% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+  1 |      86% |  14% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+  2 |      61% |  39% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
+  3 |      69% |  31% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
   4 |      77% |  22% |      1% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   5 |      97% |   0% |      3% | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
-  6 |      90% |   8% |      3% | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-  7 |      91% |   5% |      4% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+  6 |      89% |   8% |      3% | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+  7 |      90% |   5% |      4% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
   8 |      96% |   4% |      0% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
   9 |      97% |   2% |      1% | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
  10 |      58% |  42% |      0% | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
