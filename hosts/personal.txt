@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 28 Aug 2022 18:12 UTC
-# Version: 2022.0828.1812.36
+# Last modified: 29 Aug 2022 01:21 UTC
+# Version: 2022.0829.0121.46
 # Syntax: Hosts
-# Domains: 311
+# Domains: 360
 #
 0.0.0.0 26sgmin39.de
 0.0.0.0 www.26sgmin39.de
@@ -20,6 +20,7 @@
 0.0.0.0 997ad.xyz
 0.0.0.0 api.997ad.xyz
 0.0.0.0 www.997ad.xyz
+0.0.0.0 eu-west-1.new-telemetry.insights.video.a2z.com
 0.0.0.0 ad-cdn.name
 0.0.0.0 www.ad-cdn.name
 0.0.0.0 track.adform.net
@@ -31,8 +32,10 @@
 0.0.0.0 www.ads4trk.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 aff-tracker.com
+0.0.0.0 tracking.aggrosoft.de
 0.0.0.0 track.adformnet.akadns.net
 0.0.0.0 track-eu.adformnet.akadns.net
+0.0.0.0 track.cj.akadns.net
 0.0.0.0 aloofvest.com
 0.0.0.0 alphaads.de
 0.0.0.0 www.alphaads.de
@@ -40,6 +43,7 @@
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com
 0.0.0.0 prod-ew1-telemetry-cs-bucket.s3.eu-west-1.amazonaws.com
+0.0.0.0 track.americansongwriter.com
 0.0.0.0 amp.analytics-debugger.com
 0.0.0.0 app-measurement.com
 0.0.0.0 region1.app-measurement.com
@@ -62,6 +66,7 @@
 0.0.0.0 sdtagging.azureedge.net
 0.0.0.0 app-fnsp-matomo-analytics-prod.azurewebsites.net
 0.0.0.0 live-tfs-omnilytics.azurewebsites.net
+0.0.0.0 wsmetrics.batch.com
 0.0.0.0 analytics.bestofluck.io
 0.0.0.0 analytics.bfops.io
 0.0.0.0 photos1.blogger.com
@@ -74,9 +79,14 @@
 0.0.0.0 pixel.bsmartdata.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 gtrack.buzzerilla.com
+0.0.0.0 track.buzzerilla.com
+0.0.0.0 trklc.canadapetcare.com
 0.0.0.0 track.capitaloneshopping.com
+0.0.0.0 tracking-sales-pop.carecart.io
 0.0.0.0 childlikeform.com
 0.0.0.0 amp-analytics.chip.de
+0.0.0.0 smetrics.cinemaxx.de
 0.0.0.0 clarity.ms
 0.0.0.0 www.clarity.ms
 0.0.0.0 cleverpush.com
@@ -91,6 +101,9 @@
 0.0.0.0 crashlytics.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 www.crashlytics.com
+0.0.0.0 crossdevicetracking.com
+0.0.0.0 retag.crossdevicetracking.com
+0.0.0.0 www.crossdevicetracking.com
 0.0.0.0 trx.dgtrk2.com
 0.0.0.0 smetrics.dhl.de
 0.0.0.0 googleads.g.doubleclick.net
@@ -103,6 +116,9 @@
 0.0.0.0 webanalytics.drk-blutspende.de
 0.0.0.0 dynatrace.com
 0.0.0.0 www.dynatrace.com
+0.0.0.0 dyntracker.de
+0.0.0.0 ad.dyntracker.de
+0.0.0.0 www.dyntracker.de
 0.0.0.0 ei8ihtrk.com
 0.0.0.0 www.ei8ihtrk.com
 0.0.0.0 ejectbagsindefinite.com
@@ -142,6 +158,9 @@
 0.0.0.0 gotrackier.com
 0.0.0.0 mmads.gotrackier.com
 0.0.0.0 www.gotrackier.com
+0.0.0.0 hitrackthat.com
+0.0.0.0 clk.hitrackthat.com
+0.0.0.0 www.hitrackthat.com
 0.0.0.0 svc-2-analytics-usf.hotyon.com
 0.0.0.0 hpanalytics.net
 0.0.0.0 downloads.hpanalytics.net
@@ -161,6 +180,8 @@
 0.0.0.0 script.ioam.de
 0.0.0.0 www.ioam.de
 0.0.0.0 iocnt.net
+0.0.0.0 ist-track.com
+0.0.0.0 www.ist-track.com
 0.0.0.0 isthereanythingleft.com
 0.0.0.0 www.isthereanythingleft.com
 0.0.0.0 jadeepso.net
@@ -170,14 +191,18 @@
 0.0.0.0 kirchenaustritt24.de
 0.0.0.0 www.kirchenaustritt24.de
 0.0.0.0 klclick2.com
+0.0.0.0 trk.klclick2.com
 0.0.0.0 sanalytics.ksta.de
 0.0.0.0 track.ksta.de
 0.0.0.0 kuponacdn.de
 0.0.0.0 retrack-kupona.kuponacdn.de
 0.0.0.0 www.kuponacdn.de
 0.0.0.0 eic.cdpbeacon.lgtvcommon.com
+0.0.0.0 trk.lgw.io
 0.0.0.0 metrics.lidl.com
+0.0.0.0 f1tracks.lnk.to
 0.0.0.0 webhook.logentries.com
+0.0.0.0 trk.mail.ru
 0.0.0.0 mastersincash.com
 0.0.0.0 ptcdn.mastersincash.com
 0.0.0.0 www.mastersincash.com
@@ -186,7 +211,9 @@
 0.0.0.0 discovery.meethue.com
 0.0.0.0 mjrhficjcbf.com
 0.0.0.0 www.mjrhficjcbf.com
+0.0.0.0 mndtrk.com
 0.0.0.0 cdn.mndtrk.com
+0.0.0.0 www.mndtrk.com
 0.0.0.0 ivwtracking.mopo.de
 0.0.0.0 muwootch.com
 0.0.0.0 mycleverpush.com
@@ -208,10 +235,14 @@
 0.0.0.0 h-87rxrdob.online-metrix.net
 0.0.0.0 h-emirates.online-metrix.net
 0.0.0.0 tagger.opecloud.com
+0.0.0.0 smetrics.pandora.net
+0.0.0.0 smetrics.payback.de
+0.0.0.0 smetrics.payback.net
 0.0.0.0 analytics-ingestion.pbpms.de
 0.0.0.0 track.ph-connect.de
 0.0.0.0 analytics.prensaiberica.es
 0.0.0.0 analytics-cdn.prensaiberica.es
+0.0.0.0 tracking.projekte-leicht-gemacht.de
 0.0.0.0 proxyrarbg.org
 0.0.0.0 www.proxyrarbg.org
 0.0.0.0 emirates-app.quantummetric.com
@@ -258,12 +289,14 @@
 0.0.0.0 rarbgway.org
 0.0.0.0 www.rarbgway.org
 0.0.0.0 pixel.renovai.com
+0.0.0.0 pixel.retter.ai
 0.0.0.0 metrics.rewe.de
 0.0.0.0 ribsaiji.com
 0.0.0.0 rndskittytor.com
 0.0.0.0 notify-bugs-fra1.rtl.de
 0.0.0.0 session-bugs-fra1.rtl.de
 0.0.0.0 sanalytics.rundschau-online.de
+0.0.0.0 tracking.s24.com
 0.0.0.0 pro-web-metrics.alias.s24cloud.net
 0.0.0.0 scarfsmash.com
 0.0.0.0 sb.scorecardresearch.com
@@ -275,6 +308,7 @@
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 www.sentry-cdn.com
 0.0.0.0 fgn.cdn.serverable.com
+0.0.0.0 track.shoptopdeal.com
 0.0.0.0 smartclip.net
 0.0.0.0 www.smartclip.net
 0.0.0.0 sparta-tracking.xyz
@@ -292,16 +326,26 @@
 0.0.0.0 www.tracify.ai
 0.0.0.0 trackhit.net
 0.0.0.0 ssl.trackhit.net
+0.0.0.0 trackier.net
+0.0.0.0 refpay.trackier.net
+0.0.0.0 www.trackier.net
 0.0.0.0 trackvrs.com
 0.0.0.0 www.trackvrs.com
+0.0.0.0 tradetracker.net
+0.0.0.0 sc.tradetracker.net
+0.0.0.0 tc.tradetracker.net
+0.0.0.0 www.tradetracker.net
 0.0.0.0 serviceschipotlecom.trafficmanager.net
 0.0.0.0 analytics.trbna.com
+0.0.0.0 trkkn.com
 0.0.0.0 cdn.trkkn.com
+0.0.0.0 www.trkkn.com
 0.0.0.0 trknk.com
 0.0.0.0 tvping.com
 0.0.0.0 track.tvping.com
 0.0.0.0 tvtelemetrie.com
 0.0.0.0 cdn.tvtelemetrie.de
+0.0.0.0 look-viacom.tvtelemetrie.com
 0.0.0.0 wsviacom.tvtelemetrie.com
 0.0.0.0 www.tvtelemetrie.com
 0.0.0.0 webtracking.fe.union-investment.de
@@ -311,10 +355,15 @@
 0.0.0.0 www.usedpaby.live
 0.0.0.0 useonlin.com
 0.0.0.0 www.useonlin.com
+0.0.0.0 vjd2trk.com
+0.0.0.0 www.vjd2trk.com
+0.0.0.0 gtrack.wackojaco.com
+0.0.0.0 track.wackojaco.com
 0.0.0.0 analytics.wasserstand-niederoesterreich.at
 0.0.0.0 track.production.webgains.team
 0.0.0.0 webroutetrk.com
 0.0.0.0 www.webroutetrk.com
+0.0.0.0 tracking-api.xsolla.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 bo-tracking.zettle.com
 0.0.0.0 zodertracker.com
