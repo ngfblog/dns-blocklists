@@ -7,8 +7,8 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro | Normal | Light | [Fake](https://github.com/hagezi/dns-blocklists#fake---protects-against-internet-scams-traps--fakes) | [TIF](https://github.com/hagezi/dns-blocklists#threat-intelligence-feeds---increases-security-significantly) | [Bypass](https://github.com/hagezi/dns-blocklists#dohvpntorproxy-bypass---prevent-methods-to-bypass-your-dns) | [Safesearch](https://github.com/hagezi/dns-blocklists#safesearch-not-supported---prevent-the-use-of-search-engines-that-do-not-support-safesearch) | [DDNS](https://github.com/hagezi/dns-blocklists#dynamic-dns-blocking---protects-against-the-malicious-use-of-dynamic-dns-services) | [Personal](https://github.com/hagezi/dns-blocklists#personal---my-manually-maintained-blacklist) | 
 |:--------|---:|:------:|:-----:|:----:|:---:|:------:|:----------:|:--------:|:--------:|:--------:|
-| [Light](https://github.com/hagezi/dns-blocklists#multi-light---light-protection)             | 201099<br>87859     |   |   | = | X |   |   |   |   | X |
-| [Normal](https://github.com/hagezi/dns-blocklists#multi-normal---all-round-protection)       | 916305<br>313116     |   | = | X | X | P |   |   |   | X |
+| [Light](https://github.com/hagezi/dns-blocklists#multi-light---light-protection)             | 201816<br>94121     |   |   | = | X |   |   |   |   | X |
+| [Normal](https://github.com/hagezi/dns-blocklists#multi-normal---all-round-protection)       | 909514<br>322496     |   | = | X | X | P |   |   |   | X |
 | [Pro](https://github.com/hagezi/dns-blocklists#multi-pro---extended-protection)              | 1260263<br>445061         | = | X | X | X | P |   |   |   | X |
 | [Pro++<br>(BETA)](https://github.com/hagezi/dns-blocklists#multi-pro---beta-experimental)    | 1610364<br>598839 | + | X | X | X | X |   |   |   | X |
            
@@ -20,7 +20,7 @@
          
 ### ***Multi LIGHT*** - **Light protection**
       
-**Entries:** *201099 domains/hosts - 87859 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *201816 domains/hosts - 94121 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -33,7 +33,7 @@
 
 ### ***Multi NORMAL*** - **All-round protection**
       
-**Entries:** *916305 domains/hosts - 313116 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
+**Entries:** *909514 domains/hosts - 322496 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
           
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -46,7 +46,7 @@
 
 ### ***Multi PRO*** - **Extended protection**
       
-**Entries:** *1260263 domains/hosts - 445061 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1260263 domains/hosts - 445061 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -61,7 +61,7 @@
 
 *More aggressive version of the Multi PRO blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains.*
 
-**Entries:** *1610364 domains/hosts - 598839 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1610364 domains/hosts - 598839 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -79,7 +79,7 @@
 ### ***Fake - Protects against internet scams, traps & fakes!***
 *An blocklist for blocking fake stores, -news, -science, -streaming, rip-offs, cost traps and co.*         
         
-**Entries:** *12570 domains/hosts - 6561 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#fake)
+**Entries:** *12570 domains/hosts - 6561 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#fake)
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -97,7 +97,7 @@
 ### ***Threat Intelligence Feeds - Increases security significantly!***
 *An blocklist for blocking malware, crypto, coin, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.*         
         
-**Entries:** *412770 domains/hosts - 354858 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#tif)
+**Entries:** *412770 domains/hosts - 354858 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#tif)
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -115,7 +115,7 @@
 ### ***DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS!***
 *An blocklist for blocking DNS over HTTPS, VPN, TOR, Proxies. Prevent method to bypass your DNS. To ensure the bootstrap is your DNS server you must redirect or block standard DNS outbound (TCP/UDP 53) and block all DNS over TLS (TCP 853) outbound.*         
         
-**Entries:** *950 domains/hosts - 859 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh-vpn-proxy-bypass)
+**Entries:** *950 domains/hosts - 859 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh-vpn-proxy-bypass)
             
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -133,7 +133,7 @@
 ### ***Safesearch not supported - Prevent the use of search engines that do not support safesearch!***
 *An blocklist for blocking search engines that do not support safesearch.*         
         
-**Entries:** *137 domains/hosts - 134 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#nosafesearch)
+**Entries:** *137 domains/hosts - 134 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#nosafesearch)
             
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -151,7 +151,7 @@
 ### ***Dynamic DNS blocking - Protects against the malicious use of dynamic DNS services!***
 *An blocklist for blocking dynamic DNS services to protect against malicious use in phishing campaigns and others.*         
         
-**Entries:** *774 domains/hosts - 772 compressed domains* | [Sources](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#dyndns)
+**Entries:** *774 domains/hosts - 772 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#dyndns)
             
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -169,7 +169,7 @@
 ### ***Personal - My manually maintained blacklist***
 *Contains blockable hosts that I found during DNS monitoring. Ads, Tracking, Badware and more.*         
         
-**Entries:** *372 domains/hosts - 234 compressed domains*
+**Entries:** *306 domains/hosts - 208 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
