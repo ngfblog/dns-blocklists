@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 29 Aug 2022 01:21 UTC
-# Version: 2022.0829.0121.46
+# Last modified: 29 Aug 2022 06:37 UTC
+# Version: 2022.0829.0637.27
 # Syntax: DNSMasq
-# Domains: 238
+# Domains: 234
 #
 address=/26sgmin39.de/#
 address=/2a4snhmtm.de/#
@@ -28,8 +28,6 @@ address=/track-eu.adformnet.akadns.net/#
 address=/track.cj.akadns.net/#
 address=/aloofvest.com/#
 address=/alphaads.de/#
-address=/device-metrics-us.amazon.com/#
-address=/device-metrics-us-2.amazon.com/#
 address=/prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com/#
 address=/prod-ew1-telemetry-cs-bucket.s3.eu-west-1.amazonaws.com/#
 address=/track.americansongwriter.com/#
@@ -45,7 +43,6 @@ address=/ipm-provider.ff.avast.com/#
 address=/shepherd.ff.avast.com/#
 address=/ipmcdn.avast.com/#
 address=/ncc.avast.com/#
-address=/web.diagnostic.networking.aws.dev/#
 address=/adv-cloudfilse.azureedge.net/#
 address=/cdnnwlive.azureedge.net/#
 address=/fp-cdn.azureedge.net/#
@@ -64,8 +61,7 @@ address=/cdn.braze.eu/#
 address=/sdk.iad-01.braze.com/#
 address=/metrics.brightcove.com/#
 address=/pixel.bsmartdata.com/#
-address=/notify.bugsnag.com/#
-address=/sessions.bugsnag.com/#
+address=/bugsnag.com/#
 address=/gtrack.buzzerilla.com/#
 address=/track.buzzerilla.com/#
 address=/trklc.canadapetcare.com/#
@@ -76,14 +72,13 @@ address=/amp-analytics.chip.de/#
 address=/smetrics.cinemaxx.de/#
 address=/clarity.ms/#
 address=/cleverpush.com/#
-address=/d3p8zr0ffa9t17.cloudfront.net/#
-address=/dxz5jxhrrzigf.cloudfront.net/#
 address=/vsanalytics.visualsoft.co.uk/#
 address=/metrics.cottonbird.de/#
 address=/crashlytics.com/#
 address=/crossdevicetracking.com/#
 address=/trx.dgtrk2.com/#
 address=/smetrics.dhl.de/#
+address=/fls.doubleclick.net/#
 address=/googleads.g.doubleclick.net/#
 address=/googleads4.g.doubleclick.net/#
 address=/pubads.g.doubleclick.net/#
@@ -102,22 +97,24 @@ address=/mobile-events.eservice.emarsys.net/#
 address=/epagogerepines.com/#
 address=/trackers.peerius.episerver.networking/#
 address=/tracking.ernstings-family.de/#
+address=/etracker.com/#
+address=/etracker.de/#
 address=/sanalytics.express.de/#
-address=/metrics.fitanalytics.com/#
-address=/metrics-nl.fitanalytics.com/#
-address=/metrics-sandbox-orig.fitanalytics.com/#
+address=/fitanalytics.com/#
 address=/floweryflavor.com/#
 address=/getsentry.com/#
 address=/tracker.remp-beam.golem.de/#
-address=/region1.analytics.google.com/#
+address=/analytics.google.com/#
 address=/pagead-googlehosted.l.google.com/#
 address=/www-google-analytics.l.google.com/#
 address=/google-analytics.com/#
 address=/pagead2.googleadservices.com/#
 address=/androidtvchannels-pa.googleapis.com/#
 address=/crashlyticsreports-pa.googleapis.com/#
+address=/firebaselogging-pa.googleapis.com/#
 address=/googleoptimize.com/#
 address=/googlesyndication.com/#
+address=/googletagservices.com/#
 address=/gotrackier.com/#
 address=/hitrackthat.com/#
 address=/svc-2-analytics-usf.hotyon.com/#
@@ -143,7 +140,7 @@ address=/eic.cdpbeacon.lgtvcommon.com/#
 address=/trk.lgw.io/#
 address=/metrics.lidl.com/#
 address=/f1tracks.lnk.to/#
-address=/webhook.logentries.com/#
+address=/logentries.com/#
 address=/trk.mail.ru/#
 address=/mastersincash.com/#
 address=/mc-scanner.com/#
@@ -204,8 +201,7 @@ address=/sanalytics.rundschau-online.de/#
 address=/tracking.s24.com/#
 address=/pro-web-metrics.alias.s24cloud.net/#
 address=/scarfsmash.com/#
-address=/sb.scorecardresearch.com/#
-address=/udm.scorecardresearch.com/#
+address=/scorecardresearch.com/#
 address=/selfishsnake.com/#
 address=/tmptrk.sensic.net/#
 address=/trk.sensic.net/#
