@@ -157,6 +157,7 @@ cdn.optimizely.com
 *.msedge.net
 *.pipe.aria.microsoft.com
 *.teams.live.com
+*.teams.microsoft.com
 *.vortex.data.microsoft.com
 *api.*.microsoft.com
 *events-data.trafficmanager.net
@@ -561,9 +562,8 @@ plugin.mediavoice.com
 # Videos on auto-motor-und-sport.de
 cdn.stroeerdigitalgroup.de
 
-# Videos / Adblock detection on autosport.com
-# !!! Will not be unblocked, the domain is used for ads/tracking and is quite common !!!
-# static.adsafeprotected.com
+# Videos / Adblock detection on autosport.com, formel1.de, ...
+static.adsafeprotected.com
 
 # Breaks site layput on bankofamerica.com
 staticweb.bankofamerica.com
@@ -928,4 +928,14 @@ wfcdn.de
 i.wfcdn.de
 j.wfcdn.de
 scr.wfcdn.de
+
+# Videos on fcbinside.de
+embed.dugout.com
+
+# Videos on fitbook.de
+cdn.bitmovin.com
+
+# Breaks login on videoland.com
+# https://github.com/AdAway/adaway.github.io/issues/343
+socialize.eu1.gigya.com
 
