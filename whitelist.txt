@@ -141,6 +141,13 @@ userlocation.googleapis.com
 # Not used for tracking, metrics, analytics
 *.metric.gstatic.com
 
+# Breaks site layouts, videos and more on various sites
+googletagmanager.com
+googletagservices.com
+www-googletagmanager.l.google.com
+www.googletagmanager.com
+www.googletagservices.com
+
 # Gaming
 *.epicgames.com
 # Used by EA Desktop. Symptom: Missing download button
@@ -633,8 +640,7 @@ img.connatix.com
 vid.connatix.com
 
 # Videos on huffingtonpost.it / iltalehti.fi
-# !!! Will not be unblocked, the domain is used for bypass google analytics and is quite common !!!
-# www.googletagmanager.com
+#+ www.googletagmanager.com
 
 # Videos on WOW / Sky Ticket / Hulu
 dpm.demdex.net
@@ -768,8 +774,7 @@ save.tv
 scnlog.me
 
 # Click article Links on scotsman.com
-# !!! Will not be unblocked, the domain is used for bypass google analytics and is quite common !!!
-# www.googletagmanager.com
+#+ www.googletagmanager.com
 
 # Breaks site layout on share-videos.se
 static.share-videos.se
@@ -890,7 +895,7 @@ hgc-cf-cache-1.svonm.com
 # Site layout on cinemaxx.de
 # !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
 #securepubads.g.doubleclick.net
-#googletagservices.com
+#+ googletagservices.com
 
 # co.de / subdomains.com
 co.de
@@ -951,4 +956,9 @@ videos.kino.de
 
 # https://github.com/nextdns/metadata/issues/1058
 learn.cisecurity.org
+
+# Videos on RTL.de
+rtl-relay.iocnt.net
+data-191b2429e8.rtl.de
+#+ googletagmanager.com
 
