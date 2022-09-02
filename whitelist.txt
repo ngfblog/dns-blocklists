@@ -492,7 +492,8 @@ audid-api.taobao.com
 # !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
 #tv.ads.spotx.tv
 #*.2mdn.net
-#...
+#*.smartclip.net
+# ...
 
 # https://github.com/notracking/hosts-blocklists/issues/788
 dcf.espn.com
@@ -963,4 +964,19 @@ rtl-relay.iocnt.net
 relay-client-c03.iocnt.net
 data-191b2429e8.rtl.de
 #+ googletagmanager.com
+
+# Site layout on https://www.mybestbrands.de/
+cdn-eu.dynamicyield.com
+cdn*.dynamicyield.com
+
+# Breaks site layout on MyDirtyHobby
+*.mdhcdn.com
+cdn1-s-ha-e15.mdhcdn.com
+cdn1-s-ha-e17t.mdhcdn.com
+cdn1-s-ha-e18.mdhcdn.com
+
+# Videos on moviepilot.de
+# !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
+# cdn.lib.getjad.io
+# securepubads.g.doubleclick.net
 
