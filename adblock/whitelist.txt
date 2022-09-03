@@ -986,3 +986,13 @@
 ! https://github.com/WaLLy3K/wally3k.github.io/issues/147
 @@|content.ibanking-services.com^
 
+! Blocks the IPTV service provided by https://nimitv.com/en.html - https://github.com/AdAway/adaway.github.io/issues/346
+@@|static.cloudflareinsights.com^
+
+! Searchbar on weather.com not accessible - https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1034#event-7315828826
+@@|mparticle.map.fastly.net^
+@@|mparticle.weather.com^
+
+! https://github.com/AdAway/adaway.github.io/issues/345
+@@|cdn-settings.appsflyersdk.com^
+
