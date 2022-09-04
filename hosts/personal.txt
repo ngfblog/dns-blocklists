@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 02 Sep 2022 07:53 UTC
-# Version: 2022.0902.0753.00
+# Last modified: 04 Sep 2022 20:02 UTC
+# Version: 2022.0904.2002.49
 # Syntax: Hosts
-# Domains: 414
+# Domains: 390
 #
 0.0.0.0 26sgmin39.de
 0.0.0.0 www.26sgmin39.de
@@ -20,6 +20,8 @@
 0.0.0.0 997ad.xyz
 0.0.0.0 api.997ad.xyz
 0.0.0.0 www.997ad.xyz
+0.0.0.0 new-telemetry.insights.video.a2z.com
+0.0.0.0 eu-west-1.new-telemetry.insights.video.a2z.com
 0.0.0.0 ad-cdn.name
 0.0.0.0 www.ad-cdn.name
 0.0.0.0 shopify.admetrics.events
@@ -38,6 +40,8 @@
 0.0.0.0 dav360analytics.alpenverein.de
 0.0.0.0 alphaads.de
 0.0.0.0 www.alphaads.de
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 cmp-tracking-service-1636672816.eu-central-1.elb.amazonaws.com
 0.0.0.0 tracker-loadbalancer-1440587428.eu-central-1.elb.amazonaws.com
 0.0.0.0 prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com
@@ -48,6 +52,7 @@
 0.0.0.0 region1.app-measurement.com
 0.0.0.0 track.applicaster.com
 0.0.0.0 serverside-tracking.ew.r.appspot.com
+0.0.0.0 web.diagnostic.networking.aws.dev
 0.0.0.0 rfpipk7l.r.eu-west-1.awstrack.me
 0.0.0.0 adv-cloudfilse.azureedge.net
 0.0.0.0 cdnnwlive.azureedge.net
@@ -68,19 +73,11 @@
 0.0.0.0 analytics.bomiv.com
 0.0.0.0 borrelioseweb.de
 0.0.0.0 www.borrelioseweb.de
-0.0.0.0 branch.io
-0.0.0.0 www.branch.io
-0.0.0.0 braze.eu
 0.0.0.0 cdn.braze.eu
-0.0.0.0 sdk.fra-01.braze.eu
-0.0.0.0 sdk.iad-01.braze.com
-0.0.0.0 www.braze.eu
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 pixel.bsmartdata.com
-0.0.0.0 bugsnag.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
-0.0.0.0 www.bugsnag.com
 0.0.0.0 gtrack.buzzerilla.com
 0.0.0.0 track.buzzerilla.com
 0.0.0.0 trklc.canadapetcare.com
@@ -91,21 +88,17 @@
 0.0.0.0 smetrics.cinemaxx.de
 0.0.0.0 clarity.ms
 0.0.0.0 www.clarity.ms
-0.0.0.0 cleverpush.com
-0.0.0.0 api.cleverpush.com
 0.0.0.0 production.cleverpush.com
-0.0.0.0 static.cleverpush.com
-0.0.0.0 www.cleverpush.com
 0.0.0.0 clicktut.site
 0.0.0.0 www.clicktut.site
 0.0.0.0 realtimeanalytics.yext.com.cdn.cloudflare.net
+0.0.0.0 d3p8zr0ffa9t17.cloudfront.net
+0.0.0.0 dxz5jxhrrzigf.cloudfront.net
 0.0.0.0 vsanalytics.visualsoft.co.uk
 0.0.0.0 event-tracking-services.global.commerce-connector.com
 0.0.0.0 metrics.cottonbird.de
 0.0.0.0 content.cptrack.de
-0.0.0.0 crashlytics.com
 0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 www.crashlytics.com
 0.0.0.0 crossdevicetracking.com
 0.0.0.0 retag.crossdevicetracking.com
 0.0.0.0 www.crossdevicetracking.com
@@ -153,8 +146,6 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 androidtvchannels-pa.googleapis.com
-0.0.0.0 crashlyticsreports-pa.googleapis.com
-0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 www.googleoptimize.com
 0.0.0.0 googlesyndication.com
@@ -168,6 +159,12 @@
 0.0.0.0 gsadserver.de
 0.0.0.0 banner.gsadserver.de
 0.0.0.0 www.gsadserver.de
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 metrics.dt.hicloud.com
@@ -189,12 +186,7 @@
 0.0.0.0 api.instabug.com
 0.0.0.0 api-apm.instabug.com
 0.0.0.0 www.instabug.com
-0.0.0.0 ioam.de
-0.0.0.0 config.ioam.de
-0.0.0.0 de.ioam.de
 0.0.0.0 irqs.ioam.de
-0.0.0.0 script.ioam.de
-0.0.0.0 www.ioam.de
 0.0.0.0 isthereanythingleft.com
 0.0.0.0 www.isthereanythingleft.com
 0.0.0.0 jadeepso.net
@@ -217,9 +209,6 @@
 0.0.0.0 trk.lgw.io
 0.0.0.0 metrics.lidl.com
 0.0.0.0 f1tracks.lnk.to
-0.0.0.0 logentries.com
-0.0.0.0 webhook.logentries.com
-0.0.0.0 www.logentries.com
 0.0.0.0 trk.mail.ru
 0.0.0.0 pixel.marin-emarketing.de
 0.0.0.0 email-link-tracking.maropost.com
@@ -242,11 +231,8 @@
 0.0.0.0 sanalytics.myspreadshop.de
 0.0.0.0 sanalytics.myspreadshop.net
 0.0.0.0 nessainy.net
-0.0.0.0 newrelic.com
 0.0.0.0 insights-collector.newrelic.com
-0.0.0.0 js-agent.newrelic.com
 0.0.0.0 metric-api.newrelic.com
-0.0.0.0 www.newrelic.com
 0.0.0.0 nextleveltracking.eu
 0.0.0.0 tag.nextleveltracking.eu
 0.0.0.0 www.nextleveltracking.eu
@@ -255,7 +241,6 @@
 0.0.0.0 trk.ometria.com
 0.0.0.0 h-87rxrdob.online-metrix.net
 0.0.0.0 h-emirates.online-metrix.net
-0.0.0.0 tagger.opecloud.com
 0.0.0.0 smetrics.pandora.net
 0.0.0.0 smetrics.payback.de
 0.0.0.0 smetrics.payback.net
@@ -322,10 +307,7 @@
 0.0.0.0 sanalytics.rundschau-online.de
 0.0.0.0 pro-web-metrics.alias.s24cloud.net
 0.0.0.0 scarfsmash.com
-0.0.0.0 scorecardresearch.com
-0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 udm.scorecardresearch.com
-0.0.0.0 www.scorecardresearch.com
 0.0.0.0 selfishsnake.com
 0.0.0.0 tmptrk.sensic.net
 0.0.0.0 1661231169368785289dd3374e26e4230b1c1f4f2204d8cc0fbd372d.tmptrk.sensic.net
@@ -337,18 +319,11 @@
 0.0.0.0 cc8d85ae17ec93abce1d60caeb7d5e762f58ae38b8d0781701659b2a.trk.sensic.net
 0.0.0.0 d882b648e97dfbaad3dbddf94008ebedce2c3b84b705dcb1b53c0183.trk.sensic.net
 0.0.0.0 d89902f97b5d616aaf7bf3ce4a5ae4e03712c2a42327c9350b800ce6.trk.sensic.net
-0.0.0.0 sentry.io
-0.0.0.0 www.sentry.io
-0.0.0.0 sentry-cdn.com
-0.0.0.0 browser.sentry-cdn.com
-0.0.0.0 www.sentry-cdn.com
 0.0.0.0 fgn.cdn.serverable.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 track.shoptopdeal.com
 0.0.0.0 tm.simptrack.com
 0.0.0.0 tm708.simptrack.com
-0.0.0.0 smartclip.net
-0.0.0.0 www.smartclip.net
 0.0.0.0 analytics.smp-it-media.de
 0.0.0.0 web-tracker.smsbump.com
 0.0.0.0 beacon.sojern.com
@@ -386,6 +361,7 @@
 0.0.0.0 merchant.tradetracker.com
 0.0.0.0 sc.tradetracker.net
 0.0.0.0 www.tradetracker.com
+0.0.0.0 serviceschipotlecom.trafficmanager.net
 0.0.0.0 analytics.trbna.com
 0.0.0.0 trkkn.com
 0.0.0.0 cdn.trkkn.com

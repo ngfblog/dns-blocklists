@@ -4,16 +4,17 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 02 Sep 2022 07:53 UTC
-! Version: 2022.0902.0753.00
+! Last modified: 04 Sep 2022 20:02 UTC
+! Version: 2022.0904.2002.49
 ! Syntax: AdBlock
-! Domains: 266
+! Domains: 272
 !
 ||26sgmin39.de^
 ||2a4snhmtm.de^
 ||53244ds.xyz^
 ||7e1e8f3eba.com^
 ||997ad.xyz^
+||new-telemetry.insights.video.a2z.com^
 ||ad-cdn.name^
 ||shopify.admetrics.events^
 ||analytics.bit.admin.ch^
@@ -28,6 +29,8 @@
 ||aloofvest.com^
 ||dav360analytics.alpenverein.de^
 ||alphaads.de^
+||device-metrics-us.amazon.com^
+||device-metrics-us-2.amazon.com^
 ||cmp-tracking-service-1636672816.eu-central-1.elb.amazonaws.com^
 ||tracker-loadbalancer-1440587428.eu-central-1.elb.amazonaws.com^
 ||prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com^
@@ -37,6 +40,7 @@
 ||app-measurement.com^
 ||track.applicaster.com^
 ||serverside-tracking.ew.r.appspot.com^
+||web.diagnostic.networking.aws.dev^
 ||rfpipk7l.r.eu-west-1.awstrack.me^
 ||adv-cloudfilse.azureedge.net^
 ||cdnnwlive.azureedge.net^
@@ -55,12 +59,11 @@
 ||photos1.blogger.com^
 ||analytics.bomiv.com^
 ||borrelioseweb.de^
-||branch.io^
-||braze.eu^
-||sdk.iad-01.braze.com^
+||cdn.braze.eu^
 ||metrics.brightcove.com^
 ||pixel.bsmartdata.com^
-||bugsnag.com^
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
 ||gtrack.buzzerilla.com^
 ||track.buzzerilla.com^
 ||trklc.canadapetcare.com^
@@ -70,14 +73,16 @@
 ||amp-analytics.chip.de^
 ||smetrics.cinemaxx.de^
 ||clarity.ms^
-||cleverpush.com^
+||production.cleverpush.com^
 ||clicktut.site^
 ||realtimeanalytics.yext.com.cdn.cloudflare.net^
+||d3p8zr0ffa9t17.cloudfront.net^
+||dxz5jxhrrzigf.cloudfront.net^
 ||vsanalytics.visualsoft.co.uk^
 ||event-tracking-services.global.commerce-connector.com^
 ||metrics.cottonbird.de^
 ||content.cptrack.de^
-||crashlytics.com^
+||firebase-settings.crashlytics.com^
 ||crossdevicetracking.com^
 ||trx.dgtrk2.com^
 ||smetrics.dhl.de^
@@ -113,12 +118,16 @@
 ||google-analytics.com^
 ||pagead2.googleadservices.com^
 ||androidtvchannels-pa.googleapis.com^
-||crashlyticsreports-pa.googleapis.com^
-||firebaselogging-pa.googleapis.com^
 ||googleoptimize.com^
 ||googlesyndication.com^
 ||gotrackier.com^
 ||gsadserver.de^
+||beacons.gvt2.com^
+||beacons2.gvt2.com^
+||beacons3.gvt2.com^
+||beacons4.gvt2.com^
+||beacons5.gvt2.com^
+||beacons.gcp.gvt2.com^
 ||beacons5.gvt3.com^
 ||metrics2.data.hicloud.com^
 ||metrics.dt.hicloud.com^
@@ -132,7 +141,7 @@
 ||tracker.ihk-muenchen.de^
 ||telemetry.sdk.inmobi.com^
 ||instabug.com^
-||ioam.de^
+||irqs.ioam.de^
 ||isthereanythingleft.com^
 ||jadeepso.net^
 ||tracking.kadewe.de^
@@ -149,7 +158,6 @@
 ||trk.lgw.io^
 ||metrics.lidl.com^
 ||f1tracks.lnk.to^
-||logentries.com^
 ||trk.mail.ru^
 ||pixel.marin-emarketing.de^
 ||email-link-tracking.maropost.com^
@@ -165,13 +173,13 @@
 ||sanalytics.myspreadshop.de^
 ||sanalytics.myspreadshop.net^
 ||nessainy.net^
-||newrelic.com^
+||insights-collector.newrelic.com^
+||metric-api.newrelic.com^
 ||nextleveltracking.eu^
 ||nonfattoplike.com^
 ||trk.ometria.com^
 ||h-87rxrdob.online-metrix.net^
 ||h-emirates.online-metrix.net^
-||tagger.opecloud.com^
 ||smetrics.pandora.net^
 ||smetrics.payback.de^
 ||smetrics.payback.net^
@@ -216,18 +224,15 @@
 ||sanalytics.rundschau-online.de^
 ||pro-web-metrics.alias.s24cloud.net^
 ||scarfsmash.com^
-||scorecardresearch.com^
+||udm.scorecardresearch.com^
 ||selfishsnake.com^
 ||tmptrk.sensic.net^
 ||trk.sensic.net^
-||sentry.io^
-||sentry-cdn.com^
 ||fgn.cdn.serverable.com^
 ||beacon.shazam.com^
 ||track.shoptopdeal.com^
 ||tm.simptrack.com^
 ||tm708.simptrack.com^
-||smartclip.net^
 ||analytics.smp-it-media.de^
 ||web-tracker.smsbump.com^
 ||beacon.sojern.com^
@@ -250,6 +255,7 @@
 ||cdn.tradetracker.net^
 ||media.tradetracker.net^
 ||sc.tradetracker.net^
+||serviceschipotlecom.trafficmanager.net^
 ||analytics.trbna.com^
 ||trkkn.com^
 ||trknk.com^

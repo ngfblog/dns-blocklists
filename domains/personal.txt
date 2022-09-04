@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 02 Sep 2022 07:53 UTC
-# Version: 2022.0902.0753.00
+# Last modified: 04 Sep 2022 20:02 UTC
+# Version: 2022.0904.2002.49
 # Syntax: Domains
-# Domains: 414
+# Domains: 390
 #
 26sgmin39.de
 www.26sgmin39.de
@@ -20,6 +20,8 @@ www.53244ds.xyz
 997ad.xyz
 api.997ad.xyz
 www.997ad.xyz
+new-telemetry.insights.video.a2z.com
+eu-west-1.new-telemetry.insights.video.a2z.com
 ad-cdn.name
 www.ad-cdn.name
 shopify.admetrics.events
@@ -38,6 +40,8 @@ aloofvest.com
 dav360analytics.alpenverein.de
 alphaads.de
 www.alphaads.de
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
 cmp-tracking-service-1636672816.eu-central-1.elb.amazonaws.com
 tracker-loadbalancer-1440587428.eu-central-1.elb.amazonaws.com
 prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com
@@ -48,6 +52,7 @@ app-measurement.com
 region1.app-measurement.com
 track.applicaster.com
 serverside-tracking.ew.r.appspot.com
+web.diagnostic.networking.aws.dev
 rfpipk7l.r.eu-west-1.awstrack.me
 adv-cloudfilse.azureedge.net
 cdnnwlive.azureedge.net
@@ -68,19 +73,11 @@ photos1.blogger.com
 analytics.bomiv.com
 borrelioseweb.de
 www.borrelioseweb.de
-branch.io
-www.branch.io
-braze.eu
 cdn.braze.eu
-sdk.fra-01.braze.eu
-sdk.iad-01.braze.com
-www.braze.eu
 metrics.brightcove.com
 pixel.bsmartdata.com
-bugsnag.com
 notify.bugsnag.com
 sessions.bugsnag.com
-www.bugsnag.com
 gtrack.buzzerilla.com
 track.buzzerilla.com
 trklc.canadapetcare.com
@@ -91,21 +88,17 @@ amp-analytics.chip.de
 smetrics.cinemaxx.de
 clarity.ms
 www.clarity.ms
-cleverpush.com
-api.cleverpush.com
 production.cleverpush.com
-static.cleverpush.com
-www.cleverpush.com
 clicktut.site
 www.clicktut.site
 realtimeanalytics.yext.com.cdn.cloudflare.net
+d3p8zr0ffa9t17.cloudfront.net
+dxz5jxhrrzigf.cloudfront.net
 vsanalytics.visualsoft.co.uk
 event-tracking-services.global.commerce-connector.com
 metrics.cottonbird.de
 content.cptrack.de
-crashlytics.com
 firebase-settings.crashlytics.com
-www.crashlytics.com
 crossdevicetracking.com
 retag.crossdevicetracking.com
 www.crossdevicetracking.com
@@ -153,8 +146,6 @@ ssl.google-analytics.com
 www.google-analytics.com
 pagead2.googleadservices.com
 androidtvchannels-pa.googleapis.com
-crashlyticsreports-pa.googleapis.com
-firebaselogging-pa.googleapis.com
 googleoptimize.com
 www.googleoptimize.com
 googlesyndication.com
@@ -168,6 +159,12 @@ www.gotrackier.com
 gsadserver.de
 banner.gsadserver.de
 www.gsadserver.de
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
+beacons.gcp.gvt2.com
 beacons5.gvt3.com
 metrics2.data.hicloud.com
 metrics.dt.hicloud.com
@@ -189,12 +186,7 @@ instabug.com
 api.instabug.com
 api-apm.instabug.com
 www.instabug.com
-ioam.de
-config.ioam.de
-de.ioam.de
 irqs.ioam.de
-script.ioam.de
-www.ioam.de
 isthereanythingleft.com
 www.isthereanythingleft.com
 jadeepso.net
@@ -217,9 +209,6 @@ eic.cdpbeacon.lgtvcommon.com
 trk.lgw.io
 metrics.lidl.com
 f1tracks.lnk.to
-logentries.com
-webhook.logentries.com
-www.logentries.com
 trk.mail.ru
 pixel.marin-emarketing.de
 email-link-tracking.maropost.com
@@ -242,11 +231,8 @@ www.mysexymatches.com
 sanalytics.myspreadshop.de
 sanalytics.myspreadshop.net
 nessainy.net
-newrelic.com
 insights-collector.newrelic.com
-js-agent.newrelic.com
 metric-api.newrelic.com
-www.newrelic.com
 nextleveltracking.eu
 tag.nextleveltracking.eu
 www.nextleveltracking.eu
@@ -255,7 +241,6 @@ www.nonfattoplike.com
 trk.ometria.com
 h-87rxrdob.online-metrix.net
 h-emirates.online-metrix.net
-tagger.opecloud.com
 smetrics.pandora.net
 smetrics.payback.de
 smetrics.payback.net
@@ -322,10 +307,7 @@ session-bugs-fra1.rtl.de
 sanalytics.rundschau-online.de
 pro-web-metrics.alias.s24cloud.net
 scarfsmash.com
-scorecardresearch.com
-sb.scorecardresearch.com
 udm.scorecardresearch.com
-www.scorecardresearch.com
 selfishsnake.com
 tmptrk.sensic.net
 1661231169368785289dd3374e26e4230b1c1f4f2204d8cc0fbd372d.tmptrk.sensic.net
@@ -337,18 +319,11 @@ bdccb08d3ca8a0b470abfa63d4ed8fb75b62b6f38bf09ad6c44f87f5.trk.sensic.net
 cc8d85ae17ec93abce1d60caeb7d5e762f58ae38b8d0781701659b2a.trk.sensic.net
 d882b648e97dfbaad3dbddf94008ebedce2c3b84b705dcb1b53c0183.trk.sensic.net
 d89902f97b5d616aaf7bf3ce4a5ae4e03712c2a42327c9350b800ce6.trk.sensic.net
-sentry.io
-www.sentry.io
-sentry-cdn.com
-browser.sentry-cdn.com
-www.sentry-cdn.com
 fgn.cdn.serverable.com
 beacon.shazam.com
 track.shoptopdeal.com
 tm.simptrack.com
 tm708.simptrack.com
-smartclip.net
-www.smartclip.net
 analytics.smp-it-media.de
 web-tracker.smsbump.com
 beacon.sojern.com
@@ -386,6 +361,7 @@ media.tradetracker.net
 merchant.tradetracker.com
 sc.tradetracker.net
 www.tradetracker.com
+serviceschipotlecom.trafficmanager.net
 analytics.trbna.com
 trkkn.com
 cdn.trkkn.com
