@@ -70,7 +70,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### PRO.PLUS
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-dead.txt)
 ```
-2060134 total unique domains | 1756407 (85%) included | 19020 (1%) removed | 284707 (14%) dead
+2061523 total unique domains | 1757821 (85%) included | 19017 (1%) removed | 284685 (14%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      99% |   1% |      0% | https://dbl.oisd.nl/
@@ -131,6 +131,57 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  56 |      86% |  11% |      3% | https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
  57 |      98% |   2% |      0% | https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
  58 |      68% |  32% |      0% | https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
+ 59 |      91% |   9% |      0% | https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt
+ 60 |      62% |  38% |      0% | https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
+ 61 |      93% |   2% |      5% | https://secure.fanboy.co.nz/fanboy-annoyance.txt
+ 62 |      90% |   2% |      7% | https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+ 63 |     100% |   0% |      0% | https://stanev.org/abp/adblock_bg.txt
+ 64 |      69% |  31% |      0% | https://www.void.gr/kargig/void-gr-filters.txt
+ 65 |      84% |   9% |      8% | https://www.zoso.ro/pages/rolist.txt
+ 66 |      93% |   5% |      2% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+ 67 |      95% |   5% |      0% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
+ 68 |      79% |  20% |      1% | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+ 69 |      75% |  17% |      9% | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
+ 70 |      85% |  15% |      0% | https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+ 71 |      92% |   3% |      5% | https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
+ 72 |      97% |   1% |      2% | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
+ 73 |      98% |   1% |      1% | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+ 74 |      97% |   2% |      1% | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+ 75 |      97% |   2% |      1% | https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
+ 76 |      65% |   6% |     29% | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
+ 77 |      85% |  11% |      4% | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+ 78 |      75% |  14% |     11% | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+ 79 |      77% |  11% |     11% | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+ 80 |     100% |   0% |      0% | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
+ 81 |      87% |  12% |      1% | https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
+ 82 |      84% |  12% |      4% | https://v.firebog.net/hosts/static/w3kbl.txt
+ 83 |      58% |  42% |      0% | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+ 84 |      92% |   8% |      0% | https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
+ 85 |     100% |   0% |      0% | https://v.firebog.net/hosts/Admiral.txt
+ 86 |      87% |  11% |      2% | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+ 87 |      87% |  11% |      2% | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
+ 88 |      88% |  12% |      0% | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+ 89 |      93% |   5% |      2% | https://adaway.org/hosts.txt
+ 90 |      96% |   1% |      3% | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
+ 91 |      94% |   4% |      2% | https://raw.githubusercontent.com/jawz101/subdomain_blocklists/main/hosts.txt
+ 92 |      96% |   3% |      1% | https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
+ 93 |      92% |   6% |      2% | https://raw.githubusercontent.com/tiuxo/hosts/master/ads
+ 94 |      79% |  20% |      1% | https://someonewhocares.org/hosts/hosts
+ 95 |      93% |   6% |      1% | https://winhelp2002.mvps.org/hosts.txt
+ 96 |      90% |   6% |      4% | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+ 97 |      77% |  19% |      4% | https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
+ 98 |      93% |   6% |      1% | https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+ 99 |      99% |   0% |      1% | https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts.txt
+100 |      94% |   5% |      1% | https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+101 |      95% |   1% |      4% | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+102 |      88% |  12% |      0% | https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+103 |     100% |   0% |      0% | tiktok-fingerprinting.txt
+104 |      98% |   2% |      0% | black.list.additional
+105 |     100% |   0% |      0% | personal.txt
+106 |     100% |   0% |      0% | fake.txt
+107 |     100% |   0% |      0% | light.txt
+108 |     100% |   0% |      0% | multi.txt
+109 |     100% |   0% |      0% | tif.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
