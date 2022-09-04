@@ -142,12 +142,11 @@ userlocation.googleapis.com
 *.metric.gstatic.com
 
 # Breaks site layouts, videos and more on some sites
-# !!! Will not be unblocked, the domain is used for ads/tracking, bypass google analytics and is quite common !!!
-# googletagmanager.com
-# googletagservices.com
-# www-googletagmanager.l.google.com
-# www.googletagmanager.com
-# www.googletagservices.com
+googletagmanager.com
+googletagservices.com
+www-googletagmanager.l.google.com
+www.googletagmanager.com
+www.googletagservices.com
 
 # Gaming
 *.epicgames.com
@@ -266,6 +265,7 @@ s.youtube.com
 # Misc (Breaking)
 assets.dwell.com
 assets.mmsrg.com
+cdn.opecloud.com
 compass.pressekompass.net
 content.aimatch.com
 i1.wp.com
@@ -276,7 +276,7 @@ mycliplister.com
 pcapredict.com
 sp-ao.shortpixel.ai
 sportsbet.com.au
-cdn.opecloud.com
+tagger.opecloud.com
 
 # NextDNS
 *.nextdns.io
@@ -999,4 +999,7 @@ cdn-settings.appsflyersdk.com
 
 # https://github.com/hagezi/dns-blocklists/issues/28
 domaintechnik.at
+
+# https://github.com/ookangzheng/blahdns/issues/271
+tag.aticdn.net
 
