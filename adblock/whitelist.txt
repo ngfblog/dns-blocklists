@@ -141,12 +141,13 @@
 ! Not used for tracking, metrics, analytics
 @@||metric.gstatic.com^
 
-! Breaks site layouts, videos and more on various sites
-@@|googletagmanager.com^
-@@|googletagservices.com^
-@@|www-googletagmanager.l.google.com^
-@@|www.googletagmanager.com^
-@@|www.googletagservices.com^
+! Breaks site layouts, videos and more on some sites
+! !!! Will not be unblocked, the domain is used for ads/tracking, bypass google analytics and is quite common !!!
+! googletagmanager.com
+! googletagservices.com
+! www-googletagmanager.l.google.com
+! www.googletagmanager.com
+! www.googletagservices.com
 
 ! Gaming
 @@||epicgames.com^
@@ -490,9 +491,9 @@
 
 ! AdBlock Detection Rakuten.tv
 ! !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
-!tv.ads.spotx.tv
-!*.2mdn.net
-!*.smartclip.net
+! tv.ads.spotx.tv
+! *.2mdn.net
+! *.smartclip.net
 ! ...
 
 ! https://github.com/notracking/hosts-blocklists/issues/788
@@ -502,10 +503,10 @@
 
 ! https://github.com/notracking/hosts-blocklists/issues/787
 ! !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
-!m1.fwmrm.net
-!m2.fwmrm.net
-!mssl.fwmrm.net
-!mssl.fwmrm.net.edgesuite.net
+! m1.fwmrm.net
+! m2.fwmrm.net
+! mssl.fwmrm.net
+! mssl.fwmrm.net.edgesuite.net
 
 ! https://github.com/notracking/hosts-blocklists/issues/786
 @@|above.com^
@@ -896,7 +897,7 @@
 
 ! Site layout on cinemaxx.de
 ! !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
-!securepubads.g.doubleclick.net
+! securepubads.g.doubleclick.net
 !+ googletagservices.com
 
 ! co.de / subdomains.com
