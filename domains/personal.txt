@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 05 Sep 2022 06:40 UTC
-# Version: 2022.0905.0640.28
+# Last modified: 05 Sep 2022 10:01 UTC
+# Version: 2022.0905.1001.31
 # Syntax: Domains
-# Domains: 456
+# Domains: 527
 #
 26sgmin39.de
 www.26sgmin39.de
@@ -51,16 +51,21 @@ device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 cmp-tracking-service-1636672816.eu-central-1.elb.amazonaws.com
 tracker-loadbalancer-1440587428.eu-central-1.elb.amazonaws.com
+prod-dub-beacon-1484770602.eu-west-1.elb.amazonaws.com
+telemetry-prod-1054754349.us-east-1.elb.amazonaws.com
 prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com
 prod-ew1-telemetry-cs-bucket.s3.eu-west-1.amazonaws.com
+sentry-nlb-e70282e8a06dcc98.elb.us-east-1.amazonaws.com
+sentry10-nlb-b9e4c4ad58875c7f.elb.us-east-1.amazonaws.com
+cits-tracking-prod.americanexpress.com
 track.americansongwriter.com
 amp.analytics-debugger.com
 app-measurement.com
 region1.app-measurement.com
 track.applicaster.com
 serverside-tracking.ew.r.appspot.com
+sentry.avira.net
 web.diagnostic.networking.aws.dev
-rfpipk7l.r.eu-west-1.awstrack.me
 adv-cloudfilse.azureedge.net
 cdnnwlive.azureedge.net
 fp-cdn.azureedge.net
@@ -72,6 +77,7 @@ fa-ppctelemetry-prod.azurewebsites.net
 hosts.fa-ppctelemetry-prod.azurewebsites.net
 live-tfs-omnilytics.azurewebsites.net
 hosts.vggwebsitetrackingprod.azurewebsites.net
+sentry.babydev.de
 wsmetrics.batch.com
 track.bc1920.de
 analytics.bestofluck.io
@@ -82,12 +88,14 @@ borrelioseweb.de
 www.borrelioseweb.de
 branch.io
 www.branch.io
+sentry.brandung-dev.de
 braze.eu
 cdn.braze.eu
 sdk.fra-01.braze.eu
 sdk.iad-01.braze.com
 www.braze.eu
 metrics.brightcove.com
+bs-sentry.brl-server.de
 pixel.bsmartdata.com
 bugsnag.com
 notify.bugsnag.com
@@ -116,16 +124,17 @@ dxz5jxhrrzigf.cloudfront.net
 vsanalytics.visualsoft.co.uk
 event-tracking-services.global.commerce-connector.com
 metrics.cottonbird.de
-content.cptrack.de
 crashlytics.com
 firebase-settings.crashlytics.com
 www.crashlytics.com
 crossdevicetracking.com
 retag.crossdevicetracking.com
 www.crossdevicetracking.com
+sentry.deepl.com
 trx.dgtrk2.com
 smetrics.dhl.de
 sanalytics.disneyplus.com
+frontend-tracking-infra-service.services.dmtech.com
 fls.doubleclick.net
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
@@ -143,11 +152,13 @@ ad.dyntracker.de
 www.dyntracker.de
 ei8ihtrk.com
 www.ei8ihtrk.com
+tracker.einfachbacken.de
 ejectbagsindefinite.com
 www.ejectbagsindefinite.com
 analytics.el-pato.de
 analytics-ingestion-prod.x8um6iuan5.eu-central-1.elasticbeanstalk.com
 mobile-events.eservice.emarsys.net
+sentry.eneba.com
 epagogerepines.com
 tracking.ernstings-family.de
 etracker.com
@@ -155,6 +166,8 @@ etracker.de
 www.etracker.com
 www.etracker.de
 sanalytics.express.de
+eas01-p-e01.sentry.f-i.de
+p-t01.sentry.f-i.de
 fitanalytics.com
 metrics.fitanalytics.com
 metrics-nl.fitanalytics.com
@@ -200,8 +213,11 @@ beacons4.gvt2.com
 beacons5.gvt2.com
 beacons.gcp.gvt2.com
 beacons5.gvt3.com
+tech-sentry.harpersbazaar.de
 metrics2.data.hicloud.com
 metrics.dt.hicloud.com
+gtrack.historictalk.com
+track.historictalk.com
 hitrackthat.com
 clk.hitrackthat.com
 www.hitrackthat.com
@@ -214,6 +230,7 @@ www.hutters.click
 analytics.hybrid-cms.de
 metrics.icloud.com
 analytics.idfnet.net
+sentry.idnow.de
 tracker.ihk-muenchen.de
 telemetry.sdk.inmobi.com
 instabug.com
@@ -231,10 +248,12 @@ www.ist-track.com
 isthereanythingleft.com
 www.isthereanythingleft.com
 jadeepso.net
+analytics.jjshouse.com
 tracking.kadewe.de
 kameleoon.eu
 www.kameleoon.eu
 tracking.cloud.kaufland.de
+sentry-hq.kavosdraugas.lt
 kirchenaustritt24.de
 www.kirchenaustritt24.de
 klclick2.com
@@ -253,6 +272,7 @@ f1tracks.lnk.to
 logentries.com
 webhook.logentries.com
 www.logentries.com
+sentry2.lynx-trader.com
 trk.mail.ru
 pixel.marin-emarketing.de
 email-link-tracking.maropost.com
@@ -262,6 +282,7 @@ www.mastersincash.com
 mc-scanner.com
 www.mc-scanner.com
 discovery.meethue.com
+livechat-metrics.messagebird.com
 telemetry.microsoft.com
 mndtrk.com
 cdn.mndtrk.com
@@ -276,6 +297,7 @@ www.mysexymatches.com
 sanalytics.myspreadshop.de
 sanalytics.myspreadshop.net
 nessainy.net
+seated-canal.netlify.com
 newrelic.com
 insights-collector.newrelic.com
 js-agent.newrelic.com
@@ -287,6 +309,8 @@ www.nextleveltracking.eu
 nonfattoplike.com
 www.nonfattoplike.com
 telemetry.gfe.nvidia.com
+sentry-api.nwse.io
+cdn.ometria.com
 trk.ometria.com
 h-87rxrdob.online-metrix.net
 h-emirates.online-metrix.net
@@ -296,6 +320,7 @@ smetrics.payback.net
 analytics-ingestion.pbpms.de
 analytics-js.perspective.co
 track.ph-connect.de
+pixel.poptok.com
 analytics.prensaiberica.es
 analytics-cdn.prensaiberica.es
 tracking.prf.hn
@@ -345,10 +370,13 @@ rarbgunblocked.org
 www.rarbgunblocked.org
 rarbgway.org
 www.rarbgway.org
+pixel.redgifs.com
 pixel.renovai.com
 pixel.retter.ai
 metrics.rewe.de
 ribsaiji.com
+gtrack.rightlivin.com
+track.rightlivin.com
 beacon.riskified.com
 check.analytics.rlcdn.com
 rndskittytor.com
@@ -374,15 +402,50 @@ cc8d85ae17ec93abce1d60caeb7d5e762f58ae38b8d0781701659b2a.trk.sensic.net
 d882b648e97dfbaad3dbddf94008ebedce2c3b84b705dcb1b53c0183.trk.sensic.net
 d89902f97b5d616aaf7bf3ce4a5ae4e03712c2a42327c9350b800ce6.trk.sensic.net
 sentry.io
+o1048553.ingest.sentry.io
+o10564.ingest.sentry.io
+o108982.ingest.sentry.io
+o113111.ingest.sentry.io
+o1204820.ingest.sentry.io
+o120674.ingest.sentry.io
+o1248831.ingest.sentry.io
+o186545.ingest.sentry.io
+o211375.ingest.sentry.io
+o22381.ingest.sentry.io
+o23229.ingest.sentry.io
+o276434.ingest.sentry.io
+o311478.ingest.sentry.io
+o311855.ingest.sentry.io
+o333253.ingest.sentry.io
+o375540.ingest.sentry.io
+o377622.ingest.sentry.io
+o38419.ingest.sentry.io
+o418887.ingest.sentry.io
+o441978.ingest.sentry.io
+o46187.ingest.sentry.io
+o472398.ingest.sentry.io
+o494922.ingest.sentry.io
+o549342.ingest.sentry.io
+o58632.ingest.sentry.io
+o64374.ingest.sentry.io
+o814246.ingest.sentry.io
+o92392.ingest.sentry.io
+o925052.ingest.sentry.io
+o99668.ingest.sentry.io
+disney.my.sentry.io
+zendesk-eu.my.sentry.io
 www.sentry.io
 sentry-cdn.com
 browser.sentry-cdn.com
+js.sentry-cdn.com
 www.sentry-cdn.com
 fgn.cdn.serverable.com
 beacon.shazam.com
 track.shoptopdeal.com
+simptrack.com
 tm.simptrack.com
 tm708.simptrack.com
+www.simptrack.com
 smartclip.net
 www.smartclip.net
 analytics.smp-it-media.de
@@ -390,6 +453,7 @@ web-tracker.smsbump.com
 beacon.sojern.com
 sparta-tracking.xyz
 track.sparta-tracking.xyz
+sentry.sport1dev.de
 sqrt-5041.de
 cerberus.sqrt-5041.de
 stiffgame.com
@@ -398,6 +462,7 @@ symplr.de
 www.symplr.de
 pixel.team-hp.com
 analytics.tfm.rocks
+sentry.thalia.de
 analytics.ticketmaster.be
 analytics.ticketmaster.de
 analytics.ticketmaster.nl
@@ -411,6 +476,7 @@ refpay.trackier.net
 www.trackier.net
 trackingpages.com
 www.trackingpages.com
+usage.trackjs.com
 cdn-magiclinks.trackonomics.net
 trackvrs.com
 www.trackvrs.com
@@ -442,8 +508,6 @@ www.tvtelemetrie.com
 analytics.uhrzeit.org
 webtracking.fe.union-investment.de
 prd-lender.cdp.internal.unity3d.com
-urlaubstracker.de
-www.urlaubstracker.de
 usedpaby.live
 287.usedpaby.live
 www.usedpaby.live
@@ -456,7 +520,14 @@ analytics.wasserstand-niederoesterreich.at
 track.production.webgains.team
 webroutetrk.com
 www.webroutetrk.com
+sentry.wixpress.com
+sentry-next.wixpress.com
 tracking-api.xsolla.com
+lg-beacons.xumo.com
+lg-channelplus-br-beacons.xumo.com
+lg-channelplus-de-beacons.xumo.com
+lg-channelplus-eu-beacons.xumo.com
+lg-channelplus-mx-beacons.xumo.com
 mc.yandex.ru
 analytics.ycdn.de
 realtimeanalytics.yext.com
