@@ -502,11 +502,10 @@
 @@|players.brightcove.net^
 
 ! https://github.com/notracking/hosts-blocklists/issues/787
-! !!! Will not be unblocked, the domains are used for ads/tracking and are quite common !!!
-! m1.fwmrm.net
-! m2.fwmrm.net
-! mssl.fwmrm.net
-! mssl.fwmrm.net.edgesuite.net
+@@|m1.fwmrm.net^
+@@|m2.fwmrm.net^
+@@|mssl.fwmrm.net^
+@@|mssl.fwmrm.net.edgesuite.net^
 
 ! https://github.com/notracking/hosts-blocklists/issues/786
 @@|above.com^
@@ -1002,4 +1001,16 @@
 
 ! https://github.com/ookangzheng/blahdns/issues/271
 @@|tag.aticdn.net^
+
+! Roblox 
+@@|locale.roblox.com^
+
+! Chip Downloads
+@@|api.chip-secured-download.de^
+
+! Images on beeg.com
+@@|thumbs-015.externulls.com^
+
+! Welt.de - internally hosted ads are displayed when the following domain is blocked
+@@|yagiay.com^
 
