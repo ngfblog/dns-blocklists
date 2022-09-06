@@ -65,7 +65,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### PRO.PLUS
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-dead.txt)
 ```
-2064783 total unique domains | 1763530 (85%) included | 2729 (0%) removed | 298524 (14%) dead
+2087955 total unique domains | 1785275 (86%) included | 4069 (0%) removed | 298611 (14%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      99% |   1% |      0% | https://dbl.oisd.nl/
@@ -83,7 +83,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
  13 |     100% |   0% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
  14 |     100% |   0% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
  15 |      84% |  16% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
- 16 |      75% |  25% |      0% | https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
+ 16 |      75% |  25% |      1% | https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
  17 |      89% |   9% |      1% | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
  18 |      70% |  30% |      0% | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
  19 |      84% |  15% |      1% | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
@@ -170,9 +170,13 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 100 |      95% |   5% |      1% | https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 101 |      98% |   1% |      0% | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 102 |      88% |  11% |      0% | https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
-103 |      98% |   2% |      0% | black.list.additional
-104 |     100% |   0% |      0% | pro.txt
-105 |     100% |   0% |      0% | tif.txt
+103 |      93% |   5% |      3% | https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+104 |      98% |   2% |      0% | black.list
+105 |      98% |   2% |      0% | black.list.additional
+106 |      93% |   2% |      5% | ads-tracking-extension.txt
+107 |     100% |   0% |      0% | tiktok-fingerprinting.txt
+108 |     100% |   0% |      0% | pro.txt
+109 |     100% |   0% |      0% | tif.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
