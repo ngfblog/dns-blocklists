@@ -16,12 +16,13 @@ player-feedback-v1.glomex.com
 
 # Amazon Shopping
 *.images-amazon.com
+c.amazon-adsystem.com
 fls-*.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
 fls-eu.amazon.ae
-fls-eu.amazon.com
 fls-eu.amazon.co.uk
+fls-eu.amazon.com
 fls-eu.amazon.de
 fls-eu.amazon.es
 fls-eu.amazon.fr
@@ -72,6 +73,10 @@ s3.amazonaws.com
 # Amazon Devices
 acsechocaptiveportal.com
 avs-alexa*.amazon.com
+
+# Amazon Video
+d25xi40x97liuc.cloudfront.net
+dmqdd6hw24ucf.cloudfront.net
 
 # Apple
 # https://support.apple.com/en-us/HT210060
@@ -160,6 +165,7 @@ cdn.optimizely.com
 # https://docs.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
 # https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-endpoints?view=o365-worldwide
 *.*-msedge.net
+*.dds.microsoft.com
 *.events.data.microsoft.com
 *.events.data.trafficmanager.net
 *.msedge.net
@@ -172,11 +178,14 @@ cdn.optimizely.com
 *microsoft.online-metrix.net
 activity.windows.com
 arc.msn.com
+assets.activity.windows.com
 atm-settingsfe-prod-geo*.trafficmanager.net
 beacon.*.c-msedge.net
 browser.events.data.microsoft.com
 browser.events.data.trafficmanager.net
 browser.pipe.aria.microsoft.com
+continuum.dds.microsoft.com
+cs.dds.microsoft.com
 g.live.com
 g.msn.com
 go.microsoft.com
@@ -207,6 +216,11 @@ gfwsl.geforce.com
 images.nvidiagrid.net
 nvidia.tt.omtrdc.net
 services.gfe.nvidia.com
+
+# Samsung TV - System update check, ...
+acr0.samsungcloudsolution.com
+cdn.samsungcloudsolution.com
+time.samsungcloudsolution.com
 
 # Spotify
 # Prevent problems with Spotify Premium
@@ -1003,7 +1017,7 @@ domaintechnik.at
 # https://github.com/ookangzheng/blahdns/issues/271
 tag.aticdn.net
 
-# Roblox 
+# Roblox
 locale.roblox.com
 
 # Chip Downloads
@@ -1034,4 +1048,11 @@ tracking-protection.cdn.mozilla.net
 # ChannelPilot - Product Management Tool
 click.cptrack.de
 content.cptrack.de
+
+# Videos on news38.de
+lbnew.consentmanager.net
+consentmanager.mgr.consensu.org
+
+# Mobile phones with Mediatek chip (EPO.DAT)
+*.mediatek.com
 
