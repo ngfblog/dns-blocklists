@@ -75,6 +75,16 @@
 @@|avs-alexa*.amazon.com^
 
 ! Amazon Video
+@@||aiv-cdn.net^
+@@||aiv-cdn.net.c.footprint.net^
+@@||aiv-delivery.net^
+@@||amazonvideo.com^
+@@||atv-ext-*.amazon.com^
+@@||atv-ext.amazon.com^
+@@||atv-ps.amazon.com^
+@@||primevideo.com^
+@@||pv-cdn.net^
+@@||video.a2z.com^
 @@|d25xi40x97liuc.cloudfront.net^
 @@|dmqdd6hw24ucf.cloudfront.net^
 
@@ -102,6 +112,38 @@
 @@|stats.gc.apple.com^
 ! https://github.com/hagezi/dns-blocklists/issues/17
 @@|xp.apple.com^
+
+! Certificates
+@@||digicert.com^
+@@||entrust.net^
+@@||geotrust.com^
+@@||lencr.org^
+@@||verisign.net^
+
+! Discord
+@@||discord.com^
+@@||discord.gg^
+@@||discord.media^
+@@||discordapp.com^
+@@||discordapp.net^
+@@||discordstatus.com^
+
+! Disney+
+@@||disney-plus.net^
+@@||disneyplus.com^
+@@||disneyplus.com.ssl.sc.omtrdc.net^
+@@||dss.map.fastly.net^
+@@||dssott.com^
+@@||dssott.com.akamaized.net^
+@@||search-api-disney.bamgrid.com^
+@@|akamai-san*.exacttarget.com.edgekey.net^
+@@|e12906.dscx.akamaiedge.net^
+@@|exacttarget.com.edgekey.net^
+
+! Disqus
+@@|blog.disqus.com^
+@@|c.disquscdn.com^
+@@|d231vab146qzfb.cloudfront.net^
 
 ! Facebook
 @@|star*.facebook.com^
@@ -156,7 +198,6 @@
 @@|userlocation.googleapis.com^
 ! Not used for tracking, metrics, analytics
 @@||metric.gstatic.com^
-
 ! Breaks site layouts, videos and more on some sites
 @@|googletagmanager.com^
 @@|googletagservices.com^
@@ -179,6 +220,8 @@
 @@||events.data.microsoft.com^
 @@||events.data.trafficmanager.net^
 @@||msedge.net^
+@@||nexusrules.live.com.akadns.net^
+@@||officeapps.live.com^
 @@||pipe.aria.microsoft.com^
 @@||teams.live.com^
 @@||teams.microsoft.com^
@@ -219,6 +262,24 @@
 @@|windowsupdate.s.llnwi.net^
 @@|www.msftconnecttest.com^
 
+! Netflix
+@@||netflix.com^
+@@||netflix.net^
+@@||nflxext.com^
+@@||nflximg.com^
+@@||nflximg.net^
+@@||nflxso.net^
+@@||nflxvideo.net^
+@@|*apiproxy-*.elb.amazonaws.com^
+@@|*beaconserver-*.elb.amazonaws.com^
+@@|*ichnaea-*.elb.amazonaws.com^
+
+! Nintendo Switch
+@@||nintendo.com^
+@@||nintendo.net^
+@@||nintendowifi.net^
+@@|a1843.g.akamai.net^
+
 ! NVidia
 @@|activation.gfe.nvidia.com^
 @@|events.gfe.nvidia.com^
@@ -227,10 +288,27 @@
 @@|nvidia.tt.omtrdc.net^
 @@|services.gfe.nvidia.com^
 
+! Paypal
+@@||paypal-dynamic-*.map.fastly.net^
+@@||paypal.ca^
+@@||paypal.co.uk^
+@@||paypal.com^
+@@||paypal.map.fastly.net^
+@@||paypalobjects.com^
+
 ! Samsung TV - System update check, ...
 @@|acr0.samsungcloudsolution.com^
 @@|cdn.samsungcloudsolution.com^
 @@|time.samsungcloudsolution.com^
+
+! Sony (Playstation)
+@@||playstation.com^
+@@||playstation.com.edgekey.net^
+@@||playstation.com.ssl.d1.sc.omtrdc.net^
+@@||playstation.net^
+@@||sonycoment.loris-e.llnwd.net^
+@@||sonyentertainmentnetwork.com^
+@@||sonyjpnpsg-1.hs.llnwd.net^
 
 ! Spotify
 ! Prevent problems with Spotify Premium
@@ -240,11 +318,44 @@
 @@||scdn.co^
 @@|wl.spotify.com^
 
+! Steam
+@@||s.team^
+@@||steam-chat.com^
+@@||steambroadcast.akamaized.net^
+@@||steamcdn-a.akamaihd.net^
+@@||steamchina.com^
+@@||steamcommunity-a.akamaihd.net^
+@@||steamcommunity.com^
+@@||steamcontent.com^
+@@||steamgames.com^
+@@||steampowered.com^
+@@||steampowered.com.8686c.com^
+@@||steamstatic.com^
+@@||steamstatic.com.8686c.com^
+@@||steamstore-a.akamaihd.net^
+@@||steamusercontent-a.akamaihd.net^
+@@||steamusercontent.com^
+@@||steamuserimages-a.akamaihd.net^
+@@||steamvideo-a.akamaihd.net^
+@@||valvesoftware.com^
+
 ! Twitter
 @@|analytics.twitter.com^
 @@|ads.twitter.com^
 @@|syndication.twitter.com^
 @@|t.co^
+
+! Twitch
+! https://www.netify.ai/resources/applications/twitch
+@@||ext-twitch.tv^
+@@||jtvnw.net^
+@@||live-video.net^
+@@||ttvnw.net^
+@@||twitch.okta.com^
+@@||twitch.map.fastly.net^
+@@||twitch.tv^
+@@||twitchcdn.net^
+@@||twitchsvc.net^
 
 ! Videos on different websites do not start when the following domains are blocked:
 @@||schneevonmorgen.com^
@@ -275,6 +386,16 @@
 @@|video.xxxjmp.com^
 @@|videos-fms.jwpsrv.com^
 @@|videos.porndig.com^
+
+! XBox
+@@||xbox.com^
+@@||xboxab.com^
+@@||xboxab.net^
+@@||xboxlive.com^
+@@||xboxlive.com.akadns.net^
+@@||xboxlive.com.c.footprint.net^
+@@||xboxlive.com.edgekey.net^
+@@||xboxservices.com^
 
 ! Youtube
 @@||googlevideo.com^
@@ -1080,4 +1201,7 @@
 
 ! https://github.com/FadeMind/hosts.extras/issues/54
 @@|pastie.org^
+
+! VOE Videos
+@@|voe.sx^
 
