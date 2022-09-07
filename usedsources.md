@@ -3,12 +3,12 @@
 #### LIGHT
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/light-removed-dead.txt)
 ```
-326741 total unique domains | 274354 (84%) included | 1779 (1%) removed | 50608 (15%) dead
+327017 total unique domains | 273766 (84%) included | 2817 (1%) removed | 50434 (15%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |      99% |   0% |      0% | https://dbl.oisd.nl/basic
+  1 |     100% |   0% |      0% | https://dbl.oisd.nl/basic
   2 |      97% |   1% |      2% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
-  3 |      76% |  24% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  3 |      75% |  24% |      1% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   4 |     100% |   0% |      0% | personal.txt
   5 |     100% |   0% |      0% | fake.txt
 
@@ -17,44 +17,34 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### MULTI
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/multi-removed-dead.txt)
 ```
-1180563 total unique domains | 948709 (80%) included | 2242 (0%) removed | 229612 (19%) dead
+1075641 total unique domains | 863078 (80%) included | 3211 (0%) removed | 209352 (19%) dead
 
  Nr | Included | Dead | Removed | URL/File
-  1 |      99% |   0% |      0% | https://dbl.oisd.nl/basic
+  1 |     100% |   0% |      0% | https://dbl.oisd.nl/basic
   2 |      97% |   1% |      2% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
-  3 |      76% |  24% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  4 |      96% |   4% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+  3 |      75% |  24% |      1% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+  4 |      95% |   4% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
   5 |      65% |  35% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
   6 |      74% |  26% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
-  7 |      84% |  16% |      0% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-  8 |      81% |  19% |      0% | https://easylist.to/easylist/easylist.txt
-  9 |      97% |   2% |      0% | https://easylist.to/easylist/easyprivacy.txt
+  7 |      83% |  16% |      1% | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  8 |      80% |  19% |      0% | https://easylist.to/easylist/easylist.txt
+  9 |      97% |   2% |      1% | https://easylist.to/easylist/easyprivacy.txt
  10 |     100% |   0% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
- 11 |      90% |  10% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+ 11 |      89% |  10% |      1% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
  12 |      81% |  19% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
- 13 |      94% |   6% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+ 13 |      91% |   6% |      3% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
  14 |      92% |   4% |      4% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
  15 |      78% |  22% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
  16 |     100% |   0% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
  17 |     100% |   0% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
- 18 |      92% |   6% |      2% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
- 19 |      95% |   5% |      0% | https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
- 20 |      97% |   1% |      3% | https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-annoyance.txt
- 21 |      97% |   1% |      1% | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
- 22 |      97% |   2% |      1% | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
- 23 |      77% |  11% |     11% | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
- 24 |     100% |   0% |      0% | https://raw.githubusercontent.com/nextdns/metadata/master/security/parked-domains-cname
- 25 |      58% |  42% |      0% | https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
- 26 |      86% |  13% |      1% | https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
- 27 |      81% |  12% |      8% | https://v.firebog.net/hosts/static/w3kbl.txt
- 28 |     100% |   0% |      0% | light.txt
+ 18 |     100% |   0% |      0% | light.txt
 
 For domain and host lists, additionally: matching/missing subdomains (see at the bottom)
 ```
 #### PRO
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro-removed-dead.txt)
 ```
-1318312 total unique domains | 1262699 (96%) included | 601 (0%) removed | 55012 (4%) dead
+1249833 total unique domains | 1195644 (96%) included | 704 (0%) removed | 53485 (4%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      99% |   1% |      0% | https://dbl.oisd.nl/
@@ -65,7 +55,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
 #### PRO.PLUS
 [whitelisted domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-white.txt) | [whitelisted referral domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-referral.txt) | [dead domains](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/data/pro.plus-removed-dead.txt)
 ```
-2057825 total unique domains | 1759831 (86%) included | 20883 (1%) removed | 277111 (13%) dead
+2061051 total unique domains | 1762745 (86%) included | 21048 (1%) removed | 277258 (13%) dead
 
  Nr | Included | Dead | Removed | URL/File
   1 |      99% |   1% |      0% | https://dbl.oisd.nl/
@@ -73,7 +63,7 @@ For domain and host lists, additionally: matching/missing subdomains (see at the
   3 |      65% |  35% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
   4 |      74% |  26% |      0% | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
   5 |      76% |  24% |      0% | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-  6 |      97% |   1% |      1% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
+  6 |      97% |   1% |      2% | https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
   7 |     100% |   0% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
   8 |      90% |  10% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
   9 |      81% |  19% |      0% | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
