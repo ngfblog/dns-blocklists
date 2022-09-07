@@ -7,10 +7,10 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Hosts | Pro | Normal | Light | [Fake](https://github.com/hagezi/dns-blocklists#fake---protects-against-internet-scams-traps--fakes) | [TIF](https://github.com/hagezi/dns-blocklists#threat-intelligence-feeds---increases-security-significantly) | [Bypass](https://github.com/hagezi/dns-blocklists#dohvpntorproxy-bypass---prevent-methods-to-bypass-your-dns) | [Safesearch](https://github.com/hagezi/dns-blocklists#safesearch-not-supported---prevent-the-use-of-search-engines-that-do-not-support-safesearch) | [DDNS](https://github.com/hagezi/dns-blocklists#dynamic-dns-blocking---protects-against-the-malicious-use-of-dynamic-dns-services) | [Personal](https://github.com/hagezi/dns-blocklists#personal---my-manually-maintained-blacklist) | 
 |:--------|---:|:------:|:-----:|:----:|:---:|:------:|:----------:|:--------:|:--------:|:--------:|
-| [Light](https://github.com/hagezi/dns-blocklists#multi-light---light-protection)             | 273766<br>139184     |   |   | = | X |   |   |   |   | X |
-| [Normal](https://github.com/hagezi/dns-blocklists#multi-normal---all-round-protection)       | 863078<br>283045     |   | = | X | X | P |   |   |   | X |
-| [Pro](https://github.com/hagezi/dns-blocklists#multi-pro---extended-protection)              | 1195644<br>423663         | = | X | X | X | P |   |   |   | X |
-| [Pro++](https://github.com/hagezi/dns-blocklists#multi-pro---maximum-protection)    | 1762745<br>638869 | + | X | X | X | X |   |   |   | X |
+| [Light](https://github.com/hagezi/dns-blocklists#multi-light---light-protection)             | 273889<br>139172     |   |   | = | X |   |   |   |   | X |
+| [Normal](https://github.com/hagezi/dns-blocklists#multi-normal---all-round-protection)       | 865557<br>284361     |   | = | X | X | P |   |   |   | X |
+| [Pro](https://github.com/hagezi/dns-blocklists#multi-pro---extended-protection)              | 1201727<br>428794         | = | X | X | X | P |   |   |   | X |
+| [Pro++](https://github.com/hagezi/dns-blocklists#multi-pro---maximum-protection)    | 1757172<br>639332 | + | X | X | X | X |   |   |   | X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
@@ -22,7 +22,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *273766 domains/hosts - 139184 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
+**Entries:** *273889 domains/hosts - 139172 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#light)         
          
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -37,7 +37,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *863078 domains/hosts - 283045 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
+**Entries:** *865557 domains/hosts - 284361 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#multi)        
           
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -52,7 +52,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1195644 domains/hosts - 423663 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1201727 domains/hosts - 428794 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -69,7 +69,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains.*
 
-**Entries:** *1762745 domains/hosts - 638869 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1757172 domains/hosts - 639332 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -177,7 +177,7 @@
 ### ***Personal - My manually maintained blacklist***
 *Contains blockable hosts that I found during DNS monitoring. Ads, Tracking, Badware and more.*         
         
-**Entries:** *454 domains/hosts - 341 compressed domains*
+**Entries:** *452 domains/hosts - 340 compressed domains*
        
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
