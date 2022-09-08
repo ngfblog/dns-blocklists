@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 07 Sep 2022 19:07 UTC
-! Version: 2022.0907.1907.19
+! Last modified: 08 Sep 2022 06:59 UTC
+! Version: 2022.0908.0659.51
 ! Syntax: AdBlock
-! Domains: 354
+! Domains: 332
 !
 ||26sgmin39.de^
 ||2a4snhmtm.de^
@@ -24,6 +24,7 @@
 ||pixel.adsafeprotected.com^
 ||adsymptotic.com^
 ||aff-tracker.com^
+||sentry.afreecatv.com^
 ||tracking.aggrosoft.de^
 ||track.adformnet.akadns.net^
 ||track-eu.adformnet.akadns.net^
@@ -41,15 +42,16 @@
 ||prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com^
 ||prod-ew1-telemetry-cs-bucket.s3.eu-west-1.amazonaws.com^
 ||sentry-nlb-e70282e8a06dcc98.elb.us-east-1.amazonaws.com^
-||sentry10-nlb-b9e4c4ad58875c7f.elb.us-east-1.amazonaws.com^
 ||cits-tracking-prod.americanexpress.com^
 ||track.americansongwriter.com^
 ||amp.analytics-debugger.com^
 ||app-measurement.com^
 ||track.applicaster.com^
 ||serverside-tracking.ew.r.appspot.com^
+||sentry.archive.org^
 ||sentry.avira.net^
 ||web.diagnostic.networking.aws.dev^
+||sentry.awwwards.com^
 ||adv-cloudfilse.azureedge.net^
 ||cdnnwlive.azureedge.net^
 ||fp-cdn.azureedge.net^
@@ -66,6 +68,7 @@
 ||analytics.bestofluck.io^
 ||analytics.bfops.io^
 ||photos1.blogger.com^
+||telemetry.bluedot.io^
 ||analytics.bomiv.com^
 ||borrelioseweb.de^
 ||sentry.brandung-dev.de^
@@ -82,6 +85,7 @@
 ||tracking-sales-pop.carecart.io^
 ||childlikeform.com^
 ||amp-analytics.chip.de^
+||sentry.chip.de^
 ||smetrics.cinemaxx.de^
 ||clarity.ms^
 ||cleverpush.com^
@@ -122,7 +126,6 @@
 ||etracker.de^
 ||sanalytics.express.de^
 ||eas01-p-e01.sentry.f-i.de^
-||p-t01.sentry.f-i.de^
 ||fitanalytics.com^
 ||track.flexlinkspro.com^
 ||floweryflavor.com^
@@ -208,12 +211,12 @@
 ||newrelic.com^
 ||nextleveltracking.eu^
 ||nonfattoplike.com^
+||bugs-notify.nordvpn.com^
+||sentry.nousdigital.net^
 ||telemetry.gfe.nvidia.com^
 ||sentry-api.nwse.io^
 ||cdn.ometria.com^
 ||trk.ometria.com^
-||h-87rxrdob.online-metrix.net^
-||h-emirates.online-metrix.net^
 ||smetrics.pandora.net^
 ||smetrics.payback.de^
 ||smetrics.payback.net^
@@ -267,44 +270,14 @@
 ||selfishsnake.com^
 ||tmptrk.sensic.net^
 ||trk.sensic.net^
-||o1048553.ingest.sentry.io^
-||o10564.ingest.sentry.io^
-||o108982.ingest.sentry.io^
-||o113111.ingest.sentry.io^
-||o1204820.ingest.sentry.io^
-||o120674.ingest.sentry.io^
-||o1248831.ingest.sentry.io^
-||o186545.ingest.sentry.io^
-||o211375.ingest.sentry.io^
-||o22381.ingest.sentry.io^
-||o23229.ingest.sentry.io^
-||o276434.ingest.sentry.io^
-||o311478.ingest.sentry.io^
-||o311855.ingest.sentry.io^
-||o333253.ingest.sentry.io^
-||o375540.ingest.sentry.io^
-||o377622.ingest.sentry.io^
-||o38419.ingest.sentry.io^
-||o418887.ingest.sentry.io^
-||o441978.ingest.sentry.io^
-||o46187.ingest.sentry.io^
-||o472398.ingest.sentry.io^
-||o494922.ingest.sentry.io^
-||o549342.ingest.sentry.io^
-||o58632.ingest.sentry.io^
-||o64374.ingest.sentry.io^
-||o814246.ingest.sentry.io^
-||o92392.ingest.sentry.io^
-||o925052.ingest.sentry.io^
-||o99668.ingest.sentry.io^
-||disney.my.sentry.io^
-||zendesk-eu.my.sentry.io^
+||sentry.io^
 ||sentry-cdn.com^
 ||fgn.cdn.serverable.com^
 ||beacon.shazam.com^
 ||track.shoptopdeal.com^
 ||simptrack.com^
 ||smartclip.net^
+||web-analytics.smile.io^
 ||analytics.smp-it-media.de^
 ||web-tracker.smsbump.com^
 ||beacon.sojern.com^
@@ -312,7 +285,9 @@
 ||sentry.sport1dev.de^
 ||sqrt-5041.de^
 ||stiffgame.com^
+||sentry-public.stripchat.com^
 ||superficialeyes.com^
+||sentry.svix.de^
 ||symplr.de^
 ||pixel.team-hp.com^
 ||analytics.tfm.rocks^
@@ -340,12 +315,15 @@
 ||webtracking.fe.union-investment.de^
 ||prd-lender.cdp.internal.unity3d.com^
 ||usedpaby.live^
+||sentry.k8s.vgnett.no^
 ||vjd2trk.com^
 ||analytics.vnr.de^
+||sentry.vtsmedia.com^
 ||metrics.wacken.com^
 ||gtrack.wackojaco.com^
 ||track.wackojaco.com^
 ||analytics.wasserstand-niederoesterreich.at^
+||sentry.wdo.io^
 ||track.production.webgains.team^
 ||webroutetrk.com^
 ||sentry.wixpress.com^

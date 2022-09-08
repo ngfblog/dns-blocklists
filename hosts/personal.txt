@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 07 Sep 2022 19:07 UTC
-# Version: 2022.0907.1907.19
+# Last modified: 08 Sep 2022 06:59 UTC
+# Version: 2022.0908.0659.51
 # Syntax: Hosts
-# Domains: 511
+# Domains: 528
 #
 0.0.0.0 26sgmin39.de
 0.0.0.0 www.26sgmin39.de
@@ -35,6 +35,7 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 aff-tracker.com
+0.0.0.0 sentry.afreecatv.com
 0.0.0.0 tracking.aggrosoft.de
 0.0.0.0 track.adformnet.akadns.net
 0.0.0.0 track-eu.adformnet.akadns.net
@@ -53,7 +54,6 @@
 0.0.0.0 prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com
 0.0.0.0 prod-ew1-telemetry-cs-bucket.s3.eu-west-1.amazonaws.com
 0.0.0.0 sentry-nlb-e70282e8a06dcc98.elb.us-east-1.amazonaws.com
-0.0.0.0 sentry10-nlb-b9e4c4ad58875c7f.elb.us-east-1.amazonaws.com
 0.0.0.0 cits-tracking-prod.americanexpress.com
 0.0.0.0 track.americansongwriter.com
 0.0.0.0 amp.analytics-debugger.com
@@ -61,8 +61,10 @@
 0.0.0.0 region1.app-measurement.com
 0.0.0.0 track.applicaster.com
 0.0.0.0 serverside-tracking.ew.r.appspot.com
+0.0.0.0 sentry.archive.org
 0.0.0.0 sentry.avira.net
 0.0.0.0 web.diagnostic.networking.aws.dev
+0.0.0.0 sentry.awwwards.com
 0.0.0.0 adv-cloudfilse.azureedge.net
 0.0.0.0 cdnnwlive.azureedge.net
 0.0.0.0 fp-cdn.azureedge.net
@@ -80,6 +82,7 @@
 0.0.0.0 analytics.bestofluck.io
 0.0.0.0 analytics.bfops.io
 0.0.0.0 photos1.blogger.com
+0.0.0.0 telemetry.bluedot.io
 0.0.0.0 analytics.bomiv.com
 0.0.0.0 borrelioseweb.de
 0.0.0.0 www.borrelioseweb.de
@@ -103,6 +106,7 @@
 0.0.0.0 tracking-sales-pop.carecart.io
 0.0.0.0 childlikeform.com
 0.0.0.0 amp-analytics.chip.de
+0.0.0.0 sentry.chip.de
 0.0.0.0 smetrics.cinemaxx.de
 0.0.0.0 clarity.ms
 0.0.0.0 www.clarity.ms
@@ -158,7 +162,6 @@
 0.0.0.0 www.etracker.de
 0.0.0.0 sanalytics.express.de
 0.0.0.0 eas01-p-e01.sentry.f-i.de
-0.0.0.0 p-t01.sentry.f-i.de
 0.0.0.0 fitanalytics.com
 0.0.0.0 metrics.fitanalytics.com
 0.0.0.0 metrics-nl.fitanalytics.com
@@ -259,6 +262,7 @@
 0.0.0.0 metrics.lidl.com
 0.0.0.0 f1tracks.lnk.to
 0.0.0.0 logentries.com
+0.0.0.0 data.logentries.com
 0.0.0.0 webhook.logentries.com
 0.0.0.0 www.logentries.com
 0.0.0.0 sentry2.lynx-trader.com
@@ -295,12 +299,12 @@
 0.0.0.0 tag.nextleveltracking.eu
 0.0.0.0 www.nextleveltracking.eu
 0.0.0.0 nonfattoplike.com
+0.0.0.0 bugs-notify.nordvpn.com
+0.0.0.0 sentry.nousdigital.net
 0.0.0.0 telemetry.gfe.nvidia.com
 0.0.0.0 sentry-api.nwse.io
 0.0.0.0 cdn.ometria.com
 0.0.0.0 trk.ometria.com
-0.0.0.0 h-87rxrdob.online-metrix.net
-0.0.0.0 h-emirates.online-metrix.net
 0.0.0.0 smetrics.pandora.net
 0.0.0.0 smetrics.payback.de
 0.0.0.0 smetrics.payback.net
@@ -387,18 +391,23 @@
 0.0.0.0 cc8d85ae17ec93abce1d60caeb7d5e762f58ae38b8d0781701659b2a.trk.sensic.net
 0.0.0.0 d882b648e97dfbaad3dbddf94008ebedce2c3b84b705dcb1b53c0183.trk.sensic.net
 0.0.0.0 d89902f97b5d616aaf7bf3ce4a5ae4e03712c2a42327c9350b800ce6.trk.sensic.net
+0.0.0.0 sentry.io
+0.0.0.0 o101405.ingest.sentry.io
 0.0.0.0 o1048553.ingest.sentry.io
 0.0.0.0 o10564.ingest.sentry.io
+0.0.0.0 o1081198.ingest.sentry.io
 0.0.0.0 o108982.ingest.sentry.io
 0.0.0.0 o113111.ingest.sentry.io
 0.0.0.0 o1204820.ingest.sentry.io
 0.0.0.0 o120674.ingest.sentry.io
 0.0.0.0 o1248831.ingest.sentry.io
+0.0.0.0 o1337986.ingest.sentry.io
 0.0.0.0 o186545.ingest.sentry.io
 0.0.0.0 o211375.ingest.sentry.io
 0.0.0.0 o22381.ingest.sentry.io
 0.0.0.0 o23229.ingest.sentry.io
 0.0.0.0 o276434.ingest.sentry.io
+0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o311478.ingest.sentry.io
 0.0.0.0 o311855.ingest.sentry.io
 0.0.0.0 o333253.ingest.sentry.io
@@ -410,6 +419,7 @@
 0.0.0.0 o46187.ingest.sentry.io
 0.0.0.0 o472398.ingest.sentry.io
 0.0.0.0 o494922.ingest.sentry.io
+0.0.0.0 o508688.ingest.sentry.io
 0.0.0.0 o549342.ingest.sentry.io
 0.0.0.0 o58632.ingest.sentry.io
 0.0.0.0 o64374.ingest.sentry.io
@@ -419,6 +429,7 @@
 0.0.0.0 o99668.ingest.sentry.io
 0.0.0.0 disney.my.sentry.io
 0.0.0.0 zendesk-eu.my.sentry.io
+0.0.0.0 www.sentry.io
 0.0.0.0 sentry-cdn.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 js.sentry-cdn.com
@@ -432,6 +443,7 @@
 0.0.0.0 www.simptrack.com
 0.0.0.0 smartclip.net
 0.0.0.0 www.smartclip.net
+0.0.0.0 web-analytics.smile.io
 0.0.0.0 analytics.smp-it-media.de
 0.0.0.0 web-tracker.smsbump.com
 0.0.0.0 beacon.sojern.com
@@ -441,7 +453,9 @@
 0.0.0.0 sqrt-5041.de
 0.0.0.0 cerberus.sqrt-5041.de
 0.0.0.0 stiffgame.com
+0.0.0.0 sentry-public.stripchat.com
 0.0.0.0 superficialeyes.com
+0.0.0.0 sentry.svix.de
 0.0.0.0 symplr.de
 0.0.0.0 www.symplr.de
 0.0.0.0 pixel.team-hp.com
@@ -494,13 +508,16 @@
 0.0.0.0 usedpaby.live
 0.0.0.0 287.usedpaby.live
 0.0.0.0 www.usedpaby.live
+0.0.0.0 sentry.k8s.vgnett.no
 0.0.0.0 vjd2trk.com
 0.0.0.0 www.vjd2trk.com
 0.0.0.0 analytics.vnr.de
+0.0.0.0 sentry.vtsmedia.com
 0.0.0.0 metrics.wacken.com
 0.0.0.0 gtrack.wackojaco.com
 0.0.0.0 track.wackojaco.com
 0.0.0.0 analytics.wasserstand-niederoesterreich.at
+0.0.0.0 sentry.wdo.io
 0.0.0.0 track.production.webgains.team
 0.0.0.0 webroutetrk.com
 0.0.0.0 www.webroutetrk.com
