@@ -94,7 +94,6 @@ dmqdd6hw24ucf.cloudfront.net
 *.gc.apple.com
 *.safebrowsing.apple
 *.smoot.apple.com
-apple.tt.omtrdc.net
 appleglobal.*.2o7.net
 cstat.apple.com
 doh.dns.apple.com
@@ -282,7 +281,6 @@ activation.gfe.nvidia.com
 events.gfe.nvidia.com
 gfwsl.geforce.com
 images.nvidiagrid.net
-nvidia.tt.omtrdc.net
 services.gfe.nvidia.com
 
 # Paypal
@@ -401,6 +399,10 @@ videos.porndig.com
 s.youtube.com
 
 # ------------------------------------------------
+
+# Fixing generic issues
+*.omtrdc.net
+*.online-metrix.net
 
 # AdGuard
 *.adguard.com
@@ -1204,4 +1206,7 @@ voe.sx
 
 # https://github.com/bigdargon/hostsVN/issues/327
 sdk-02.moengage.com
+
+# Surveys and more
+*.qualtrics.com
 
