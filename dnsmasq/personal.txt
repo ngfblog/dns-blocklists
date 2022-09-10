@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 10 Sep 2022 19:13 UTC
-# Version: 2022.0910.1913.46
+# Last modified: 10 Sep 2022 19:16 UTC
+# Version: 2022.0910.1916.57
 # Syntax: DNSMasq
-# Domains: 344
+# Domains: 342
 #
 address=/26sgmin39.de/#
 address=/2a4snhmtm.de/#
@@ -96,6 +96,7 @@ address=/frontend-tracking-infra-service.services.dmtech.com/#
 address=/googleads.g.doubleclick.net/#
 address=/googleads4.g.doubleclick.net/#
 address=/pubads.g.doubleclick.net/#
+address=/securepubads.g.doubleclick.net/#
 address=/stats.g.doubleclick.net/#
 address=/static.doubleclick.net/#
 address=/sadobemetrics.dr.dk/#
@@ -121,17 +122,14 @@ address=/tracking.gdatasoftware.com/#
 address=/getsentry.com/#
 address=/sanalytics.gladbachlive.de/#
 address=/tracker.remp-beam.golem.de/#
-address=/region1.analytics.google.com/#
+address=/analytics.google.com/#
 address=/pagead-googlehosted.l.google.com/#
 address=/www-google-analytics.l.google.com/#
-address=/region1.google-analytics.com/#
-address=/ssl.google-analytics.com/#
+address=/google-analytics.com/#
 address=/pagead2.googleadservices.com/#
 address=/androidtvchannels-pa.googleapis.com/#
 address=/googleoptimize.com/#
-address=/ade.googlesyndication.com/#
-address=/pagead2.googlesyndication.com/#
-address=/safeframe.googlesyndication.com/#
+address=/googlesyndication.com/#
 address=/gotrackier.com/#
 address=/gsadserver.de/#
 address=/beacons5.gvt3.com/#
