@@ -4,21 +4,24 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 10 Sep 2022 19:16 UTC
-! Version: 2022.0910.1916.57
+! Last modified: 11 Sep 2022 01:25 UTC
+! Version: 2022.0911.0125.20
 ! Syntax: AdBlock
-! Domains: 342
+! Domains: 334
 !
 ||26sgmin39.de^
 ||2a4snhmtm.de^
 ||53244ds.xyz^
 ||7e1e8f3eba.com^
 ||997ad.xyz^
+||abbaspc.net^
 ||ad-cdn.name^
 ||shopify.admetrics.events^
 ||analytics.bit.admin.ch^
+||adnxs.com^
 ||adnxs-simple.com^
 ||ads4trk.com^
+||pixel.adsafeprotected.com^
 ||adsymptotic.com^
 ||aff-tracker.com^
 ||sentry.afreecatv.com^
@@ -29,6 +32,9 @@
 ||aloofvest.com^
 ||dav360analytics.alpenverein.de^
 ||alphaads.de^
+||afftrk.altex.ro^
+||device-metrics-us.amazon.com^
+||device-metrics-us-2.amazon.com^
 ||cmp-tracking-service-1636672816.eu-central-1.elb.amazonaws.com^
 ||tracker-loadbalancer-1440587428.eu-central-1.elb.amazonaws.com^
 ||prod-dub-beacon-1484770602.eu-west-1.elb.amazonaws.com^
@@ -44,6 +50,7 @@
 ||serverside-tracking.ew.r.appspot.com^
 ||sentry.archive.org^
 ||sentry.avira.net^
+||web.diagnostic.networking.aws.dev^
 ||sentry.awwwards.com^
 ||adv-cloudfilse.azureedge.net^
 ||cdnnwlive.azureedge.net^
@@ -64,13 +71,15 @@
 ||telemetry.bluedot.io^
 ||analytics.bomiv.com^
 ||borrelioseweb.de^
+||api2.branch.io^
 ||sentry.brandung-dev.de^
-||cdn.braze.eu^
+||braze.eu^
+||sdk.iad-01.braze.com^
 ||metrics.brightcove.com^
 ||bs-sentry.brl-server.de^
 ||pixel.bsmartdata.com^
-||notify.bugsnag.com^
-||sessions.bugsnag.com^
+||bugsnag.com^
+||analytics.bungie.net^
 ||gtrack.buzzerilla.com^
 ||track.buzzerilla.com^
 ||trklc.canadapetcare.com^
@@ -78,21 +87,24 @@
 ||tracking-sales-pop.carecart.io^
 ||childlikeform.com^
 ||amp-analytics.chip.de^
-||sentry.chip.de^
 ||smetrics.cinemaxx.de^
 ||clarity.ms^
-||production.cleverpush.com^
+||cleverpush.com^
 ||clicktut.site^
 ||realtimeanalytics.yext.com.cdn.cloudflare.net^
+||d3p8zr0ffa9t17.cloudfront.net^
+||dxz5jxhrrzigf.cloudfront.net^
 ||vsanalytics.visualsoft.co.uk^
 ||event-tracking-services.global.commerce-connector.com^
 ||metrics.cottonbird.de^
-||firebase-settings.crashlytics.com^
+||crashlytics.com^
 ||crossdevicetracking.com^
 ||sentry.deepl.com^
+||metrics.dertour.de^
 ||trx.dgtrk2.com^
 ||smetrics.dhl.de^
 ||frontend-tracking-infra-service.services.dmtech.com^
+||fls.doubleclick.net^
 ||googleads.g.doubleclick.net^
 ||googleads4.g.doubleclick.net^
 ||pubads.g.doubleclick.net^
@@ -128,10 +140,18 @@
 ||google-analytics.com^
 ||pagead2.googleadservices.com^
 ||androidtvchannels-pa.googleapis.com^
+||crashlyticsreports-pa.googleapis.com^
+||firebaselogging-pa.googleapis.com^
 ||googleoptimize.com^
 ||googlesyndication.com^
 ||gotrackier.com^
 ||gsadserver.de^
+||beacons.gvt2.com^
+||beacons2.gvt2.com^
+||beacons3.gvt2.com^
+||beacons4.gvt2.com^
+||beacons5.gvt2.com^
+||beacons.gcp.gvt2.com^
 ||beacons5.gvt3.com^
 ||tech-sentry.harpersbazaar.de^
 ||metrics2.data.hicloud.com^
@@ -149,7 +169,7 @@
 ||tracker.ihk-muenchen.de^
 ||telemetry.sdk.inmobi.com^
 ||instabug.com^
-||irqs.ioam.de^
+||ioam.de^
 ||isthereanythingleft.com^
 ||jadeepso.net^
 ||analytics.jjshouse.com^
@@ -168,7 +188,7 @@
 ||trk.lgw.io^
 ||metrics.lidl.com^
 ||f1tracks.lnk.to^
-||data.logentries.com^
+||logentries.com^
 ||sentry2.lynx-trader.com^
 ||trk.mail.ru^
 ||pixel.marin-emarketing.de^
@@ -177,6 +197,7 @@
 ||mc-scanner.com^
 ||discovery.meethue.com^
 ||livechat-metrics.messagebird.com^
+||telemetry.microsoft.com^
 ||mndtrk.com^
 ||mobvoi-analytics-transfer.mobvoi.com^
 ||ivwtracking.mopo.de^
@@ -187,12 +208,13 @@
 ||sanalytics.myspreadshop.net^
 ||nessainy.net^
 ||seated-canal.netlify.com^
-||insights-collector.newrelic.com^
-||metric-api.newrelic.com^
+||newrelic.com^
+||track.newtomoney.com^
 ||nextleveltracking.eu^
 ||nonfattoplike.com^
 ||bugs-notify.nordvpn.com^
 ||sentry.nousdigital.net^
+||telemetry.gfe.nvidia.com^
 ||sentry-api.nwse.io^
 ||cdn.ometria.com^
 ||trk.ometria.com^
@@ -205,6 +227,7 @@
 ||pixel.poptok.com^
 ||analytics.prensaiberica.es^
 ||analytics-cdn.prensaiberica.es^
+||track.productsup.com^
 ||tracking.projekte-leicht-gemacht.de^
 ||proxyrarbg.org^
 ||emirates-app.quantummetric.com^
@@ -244,55 +267,22 @@
 ||sanalytics.rundschau-online.de^
 ||pro-web-metrics.alias.s24cloud.net^
 ||scarfsmash.com^
-||udm.scorecardresearch.com^
+||scorecardresearch.com^
 ||selfishsnake.com^
 ||tmptrk.sensic.net^
 ||trk.sensic.net^
-||o101405.ingest.sentry.io^
-||o1048553.ingest.sentry.io^
-||o10564.ingest.sentry.io^
-||o1081198.ingest.sentry.io^
-||o108982.ingest.sentry.io^
-||o113111.ingest.sentry.io^
-||o1204820.ingest.sentry.io^
-||o120674.ingest.sentry.io^
-||o1248831.ingest.sentry.io^
-||o1337986.ingest.sentry.io^
-||o186545.ingest.sentry.io^
-||o211375.ingest.sentry.io^
-||o22381.ingest.sentry.io^
-||o23229.ingest.sentry.io^
-||o276434.ingest.sentry.io^
-||o278969.ingest.sentry.io^
-||o311478.ingest.sentry.io^
-||o311855.ingest.sentry.io^
-||o333253.ingest.sentry.io^
-||o375540.ingest.sentry.io^
-||o377622.ingest.sentry.io^
-||o38419.ingest.sentry.io^
-||o418887.ingest.sentry.io^
-||o441978.ingest.sentry.io^
-||o46187.ingest.sentry.io^
-||o472398.ingest.sentry.io^
-||o494922.ingest.sentry.io^
-||o508688.ingest.sentry.io^
-||o549342.ingest.sentry.io^
-||o58632.ingest.sentry.io^
-||o64374.ingest.sentry.io^
-||o814246.ingest.sentry.io^
-||o92392.ingest.sentry.io^
-||o925052.ingest.sentry.io^
-||o99668.ingest.sentry.io^
-||disney.my.sentry.io^
-||zendesk-eu.my.sentry.io^
+||sentry.io^
+||sentry-cdn.com^
 ||fgn.cdn.serverable.com^
 ||beacon.shazam.com^
 ||track.shoptopdeal.com^
 ||simptrack.com^
+||smartclip.net^
 ||web-analytics.smile.io^
 ||analytics.smp-it-media.de^
 ||web-tracker.smsbump.com^
 ||beacon.sojern.com^
+||press-tracking-api.sovendus.com^
 ||sparta-tracking.xyz^
 ||sentry.sport1dev.de^
 ||sqrt-5041.de^
@@ -311,11 +301,13 @@
 ||trackhit.net^
 ||trackier.net^
 ||trackingpages.com^
+||audit.trackverify.com^
 ||trackvrs.com^
 ||tradetracker.com^
 ||cdn.tradetracker.net^
 ||media.tradetracker.net^
 ||sc.tradetracker.net^
+||serviceschipotlecom.trafficmanager.net^
 ||analytics.trbna.com^
 ||trkkn.com^
 ||trknk.com^
@@ -334,7 +326,6 @@
 ||gtrack.wackojaco.com^
 ||track.wackojaco.com^
 ||analytics.wasserstand-niederoesterreich.at^
-||sentry.wdo.io^
 ||track.production.webgains.team^
 ||webroutetrk.com^
 ||sentry.wixpress.com^
@@ -345,6 +336,7 @@
 ||lg-channelplus-de-beacons.xumo.com^
 ||lg-channelplus-eu-beacons.xumo.com^
 ||lg-channelplus-mx-beacons.xumo.com^
+||mc.yandex.ru^
 ||analytics.ycdn.de^
 ||realtimeanalytics.yext.com^
 ||analytics.zephyrs-odem.de^
