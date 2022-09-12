@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 07 Sep 2022 01:05 UTC
-# Version: 2022.0907.0105.18
+# Last modified: 12 Sep 2022 01:03 UTC
+# Version: 2022.0912.0103.12
 # Syntax: Hosts
-# Domains: 947
+# Domains: 954
 #
 0.0.0.0 012proxy.ga
 0.0.0.0 12vpx.com
@@ -33,6 +33,7 @@
 0.0.0.0 dns.aaflalo.me
 0.0.0.0 dns-gcp.aaflalo.me
 0.0.0.0 dns-nyc.aaflalo.me
+0.0.0.0 doh.dns.apple.com.v.aaplimg.com
 0.0.0.0 ablevpn.info
 0.0.0.0 aceproxy.com
 0.0.0.0 acevpn.com
@@ -42,6 +43,9 @@
 0.0.0.0 dns-family.adguard.com
 0.0.0.0 dns-unfiltered.adguard.com
 0.0.0.0 adguard-dns.com
+0.0.0.0 dns.adguard-dns.com
+0.0.0.0 family.adguard-dns.com
+0.0.0.0 unfiltered.adguard-dns.com
 0.0.0.0 adguard-vpn.com
 0.0.0.0 ahadns.net
 0.0.0.0 doh.au.ahadns.net
@@ -220,10 +224,12 @@
 0.0.0.0 connectionvpn.com
 0.0.0.0 controld.com
 0.0.0.0 freedns.controld.com
+0.0.0.0 family.freedns.controld.com
 0.0.0.0 p0.freedns.controld.com
 0.0.0.0 p1.freedns.controld.com
 0.0.0.0 p2.freedns.controld.com
 0.0.0.0 p3.freedns.controld.com
+0.0.0.0 uncensored.freedns.controld.com
 0.0.0.0 doh.cox.net
 0.0.0.0 dot.cox.net
 0.0.0.0 dohdot.coxlab.net
@@ -496,6 +502,7 @@
 0.0.0.0 newipnow.com
 0.0.0.0 newvpn.ga
 0.0.0.0 dns.nextdns.io
+0.0.0.0 anycast.dns.nextdns.io
 0.0.0.0 chromium.dns.nextdns.io
 0.0.0.0 firefox.dns.nextdns.io
 0.0.0.0 ios.dns.nextdns.io
