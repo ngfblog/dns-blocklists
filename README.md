@@ -1,9 +1,25 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hagezi/dns-blocklists)![GitHub issues](https://img.shields.io/github/issues/hagezi/dns-blocklists)![GitHub closed issues](https://img.shields.io/github/issues-closed/hagezi/dns-blocklists)![visitors](https://visitor-badge.glitch.me/badge?page_id=hagezi.dns-blocklists&left_color=grey&right_color=blue)[![shields.io Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)
 ## DNS Blocklists - *For a better internet!*
-*Note: DNS blocklists offer a good protection of privacy by blocking tracking, metrics and telemetry. They can be used to block the vast majority of ads, malware, scam, fake and co, but not everything can be blocked at the DNS level!         
-Therefore, I recommend using a browser content blocker such as uBlock or AdGuard with the appropriate block lists (EasyList, AdGuard, uBlock) or the use of eBlocker with enabled pattern blocker as a network wide content blocker.*
+### Table of Contents
+1. [Overview](#overview)
+2. [Multi light](#light) - *Hand brush: Light protection*
+3. [Multi normal](#normal) - *Broom: All-round protection*
+4. [Multi pro](#pro) - *Big broom: Extended protection*
+5. [Multi pro++](#proplus) - *Sweeper: Maximum protection (aggressive)*
+6. [Fake](#fake) - *Protects against internet scams, traps & fakes!*
+7. [Threat Intelligence Feeds](#tif) - *Increases security significantly!*
+8. [DoH/VPN/TOR/Proxy Bypass](#bypass) - *Prevent methods to bypass your DNS!*
+9. [Safesearch not supported](#safesearch) - *Prevent the use of search engines that do not support safesearch!*
+10. [Dynamic DNS](#dyndns) - *Protects against the malicious use of dynamic DNS services!*
+11. [Personal](#personal) - *My manually maintained blacklist*
+12. [Credits](#credits)
+13. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
+14. [Recommendation](#recommendation)
+15. [About](#about)
+16. [Sources/Statistics](usedsources.md)
+17. [Raw data collection](https://github.com/hagezi/dns-data-collection) - *Data collection to generate the DNS blocklists*
 
-### ***Multi - Cleans the Internet and protects your privacy!***
+### ***Multi - Cleans the Internet and protects your privacy!*** <a name="overview"></a>
 *An all in one DNS blocklist in **various versions (light, normal, pro and pro++)**. It can be used as a stand alone blocklist. For every region. Blocks ads, affiliate, tracking, metrics, telemetry, fake, phishing, malware, scam, coins and other "crap". Based on [various blocklists](usedsources.md).*
 
 #### ***Multi blocklist version and size overview:***
@@ -11,16 +27,16 @@ Therefore, I recommend using a browser content blocker such as uBlock or AdGuard
 |:--------|---:|:------:|:-----:|:----:|:---:|:------:|:----------:|:--------:|:--------:|:--------:|
 | [Light](https://github.com/hagezi/dns-blocklists#multi-light---light-protection)             | 302690<br>142630     |   |   | = | X |   |   |   |   | X |
 | [Normal](https://github.com/hagezi/dns-blocklists#multi-normal---all-round-protection)       | 893814<br>298639     |   | = | X | X | P |   |   |   | X |
-| [Pro](https://github.com/hagezi/dns-blocklists#multi-pro---extended-protection)              | 1236236<br>453481         | = | X | X | X | P |   |   |   | X |
-| [Pro++](https://github.com/hagezi/dns-blocklists#multi-pro---maximum-protection)    | 1772681<br>697707 | + | X | X | X | X |   |   |   | X |
+| [Pro](https://github.com/hagezi/dns-blocklists#multi-pro---extended-protection)              | 1237102<br>453729         | = | X | X | X | P |   |   |   | X |
+| [Pro++](https://github.com/hagezi/dns-blocklists#multi-pro---maximum-protection)    | 1776271<br>698737 | ++ | X | X | X | X |   |   |   | X |
            
 *X = contains the named lists in the column header*       
 *P = partially contains the named list in the column header*       
-*+ = more sources, more aggressive*
+*++ = more sources, more aggressive*
               
 ---
          
-### ***Multi LIGHT*** - **Light protection**
+### ***Multi LIGHT*** - **Light protection** <a name="light"></a>
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
@@ -35,7 +51,7 @@ Therefore, I recommend using a browser content blocker such as uBlock or AdGuard
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/light.txt) | DNSMasq                                                              | 
 | Wildcard | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/light.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
 
-### ***Multi NORMAL*** - **All-round protection**
+### ***Multi NORMAL*** - **All-round protection** <a name="normal"></a>
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
@@ -50,11 +66,11 @@ Therefore, I recommend using a browser content blocker such as uBlock or AdGuard
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/multi.txt) | DNSMasq                                                              | 
 | Wildcard | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
 
-### ***Multi PRO*** - **Extended protection**
+### ***Multi PRO*** - **Extended protection** <a name="pro"></a>
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1236236 domains/hosts - 453481 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
+**Entries:** *1237102 domains/hosts - 453729 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#pro)        
            
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -65,13 +81,13 @@ Therefore, I recommend using a browser content blocker such as uBlock or AdGuard
 | DNSMasq  | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.txt) | DNSMasq                                                              | 
 | Wildcard | [RAW](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt) | DNSCrypt, DNSCloak, YogaDNS, ...                                               |
 
-### ***Multi PRO++*** - **Maximum protection**
+### ***Multi PRO++*** - **Maximum protection** <a name="proplus"></a>
 
 *Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
 *More aggressive version of the Multi PRO blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains.*
 
-**Entries:** *1772681 domains/hosts - 697707 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
+**Entries:** *1776271 domains/hosts - 698737 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus)    
                                                 
 | Format | Link | Can be used for |
 |:-------|:-----|:----------------|
@@ -86,7 +102,7 @@ Therefore, I recommend using a browser content blocker such as uBlock or AdGuard
 
 ---
 
-### ***Fake - Protects against internet scams, traps & fakes!***
+### ***Fake - Protects against internet scams, traps & fakes!*** <a name="fake"></a>
 *An blocklist for blocking fake stores, -news, -science, -streaming, rip-offs, cost traps and co.*         
         
 **Entries:** *12376 domains/hosts - 6473 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#fake)
@@ -104,7 +120,7 @@ Therefore, I recommend using a browser content blocker such as uBlock or AdGuard
 
 ---
 
-### ***Threat Intelligence Feeds - Increases security significantly!***
+### ***Threat Intelligence Feeds - Increases security significantly!*** <a name="tif"></a>
 *An blocklist for blocking malware, crypto, coin, scam, spam and phishing. Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.*         
         
 **Entries:** *389821 domains/hosts - 344219 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#tif)
@@ -122,7 +138,7 @@ Therefore, I recommend using a browser content blocker such as uBlock or AdGuard
 
 ---
 
-### ***DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS!***
+### ***DoH/VPN/TOR/Proxy Bypass - Prevent methods to bypass your DNS!*** <a name="bypass"></a>
 *An blocklist for blocking DNS over HTTPS, VPN, TOR, Proxies. Prevent method to bypass your DNS. To ensure the bootstrap is your DNS server you must redirect or block standard DNS outbound (TCP/UDP 53) and block all DNS over TLS (TCP 853) outbound.*         
         
 **Entries:** *955 domains/hosts - 858 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#doh-vpn-proxy-bypass)
@@ -140,7 +156,7 @@ Therefore, I recommend using a browser content blocker such as uBlock or AdGuard
 
 ---
 
-### ***Safesearch not supported - Prevent the use of search engines that do not support safesearch!***
+### ***Safesearch not supported - Prevent the use of search engines that do not support safesearch!*** <a name="safesearch"></a>
 *An blocklist for blocking search engines that do not support safesearch.*         
         
 **Entries:** *138 domains/hosts - 135 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#nosafesearch)
@@ -158,7 +174,7 @@ Therefore, I recommend using a browser content blocker such as uBlock or AdGuard
 
 ---
 
-### ***Dynamic DNS blocking - Protects against the malicious use of dynamic DNS services!***
+### ***Dynamic DNS blocking - Protects against the malicious use of dynamic DNS services!*** <a name="dyndns"></a>
 *An blocklist for blocking dynamic DNS services to protect against malicious use in phishing campaigns and others.*         
         
 **Entries:** *771 domains/hosts - 769 compressed domains* | [Sources/Statistics](https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#dyndns)
@@ -176,7 +192,7 @@ Therefore, I recommend using a browser content blocker such as uBlock or AdGuard
 
 ---
 
-### ***Personal - My manually maintained blacklist***
+### ***Personal - My manually maintained blacklist*** <a name="personal"></a>
 *Contains blockable hosts that I found during DNS monitoring. Ads, Tracking, Badware and more.*         
         
 **Entries:** *940 domains/hosts - 736 compressed domains*
@@ -194,13 +210,26 @@ Therefore, I recommend using a browser content blocker such as uBlock or AdGuard
 
 ---
 
-### ***Credits***
+### ***Credits*** <a name="credits"></a>
 
 **A huge thank you to the following list maintainers of the [sources used](usedsources.md), alphabetical order:**
 
 *abpindo, abpvn, abuse.ch, adaway, adguardteam, adroitadorkhan, amnestytech, anti-ad, anudeepnd, assoechap, azorult-tracker.net, badmojr, barbblock, bigdargon, bkrucarci, blahdns, bongochong, botvrij.eu, cert-agid.gov.it, cmiksche, craiu, d3ward, dandelionsprout, davidonzo, developerdan, digitalside.it, drsdavidsoft, durablenapkin, easylist, easylist-lithuania, easylist-thailand, elliotwutingfeng, fademind, fanboy, firebog.net, frogeye.fr, guardicore, hexxiumcreations, hole.cert.pl, hoshsadiq, hpthreatresearch, hufilter, iam-py-test, infinitytec, jawz101, jdlingyu, jkrejcha, joewein.net, kargig, kevinthomas0, kriskintel.com, laicure, laniksj, lassekongo83, latvian-list, logroid, malware-filter, marco-acorte, matomo-org, metamask, mitchellkrogza, mvps.org, netlab.360, nextdns, nitrohorse, notonmyshift, notracking, oisd.nl, olbat, oneoffdallas, ookangzheng, paulgb, perflyst, phishing.army, piperun, polishfiltersteam, prodaft, quidsup, rescure.me, scafroglia93, shadowwhisperer, shreyasminocha, sjhgvr, someonewhocares.org, stamparm, stanev.org, stevenblack, stopforumspam.com, systemjargon, t145, th3m3, tiuxo, tomasko126, ublockorigin, ultimate-hosts, velesila, wally3k, yous, yoyo.org, zerodot1, zoso.ro*
 
 ---
+
+### ***Recommendation*** <a name="recommendation"></a>
+
+*As a network-wide DNS blocker, I recommend using [Pi-Hole](https://pi-hole.net/), [Adguard Home](https://adguard.com) or [eBlocker](https://eblocker.org/).*
+        
+*DNS blocker offer a good protection of privacy by blocking tracking, metrics and telemetry. They can be used to block the vast majority of ads, malware, scam, fake and co, but not everything can be blocked at the DNS level!         
+Therefore, I* ***additionally*** *recommend the use of a browser content blocker such as [uBlock](https://ublockorigin.com) or [AdGuard](https://adguard.com) with the appropriate block lists (EasyList, AdGuard, uBlock, ...) or the use of [eBlocker](https://eblocker.org/) with enabled pattern blocker as a network wide content blocker.*
+         
+*On mobile devices, I recommend using [NextDNS](https://nextdns.io/?from=jvpyfdfc) if they are not connected to a home network with local DNS blocker.*
+
+---
+
+### ***About*** <a name="about"></a>
 
 <p align="center"><a href="https://github.com/hagezi/dns-blocklists/graphs/contributors"><img src="https://contrib.rocks/image?repo=hagezi/dns-blocklists" /></a></p>
 <p align="center"><i><b>"If the plan doesn‘t work, change the plan but never the goal."<br>There's no place like 127.0.0.1!</b></i></p>
