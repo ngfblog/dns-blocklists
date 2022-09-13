@@ -53,8 +53,9 @@ unagi.amazon.fr
 unagi.amazon.in
 unagi.amazon.it
 # CNAME fls-*.amazon.com
-gateway.prod.*.forester.a2z.com
-endpoint.prod.*.forester.a2z.com
+*.forester.a2z.com
+#gateway.prod.*.forester.a2z.com
+#endpoint.prod.*.forester.a2z.com
 
 # Amazon App
 mads-*.amazon.com
@@ -73,6 +74,8 @@ s3.amazonaws.com
 # Amazon Devices
 acsechocaptiveportal.com
 avs-alexa*.amazon.com
+# https://github.com/Perflyst/PiHoleBlocklist/issues/138
+mas-ext.amazon.com
 
 # Amazon Video
 *.aiv-cdn.net
@@ -404,10 +407,6 @@ videos.porndig.com
 s.youtube.com
 
 # ------------------------------------------------
-
-# Fixing generic issues
-# *.omtrdc.net
-# *.online-metrix.net
 
 # AdGuard
 *.adguard.com
@@ -1275,4 +1274,8 @@ tracker.scoober.com
 # Breaks some Android Apps (Images not loading, ...)
 # https://github.com/AdAway/adaway.github.io/issues/347
 res.cloudinary.com
+
+# urlaubsplus.de
+corona.urlaubsplus.de
+urlaubsplus.de
 
