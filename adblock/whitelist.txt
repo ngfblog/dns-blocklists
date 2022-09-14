@@ -94,10 +94,12 @@
 ! Apple
 ! https://support.apple.com/en-us/HT210060
 @@||apps.apple.com^
-@@||gc.fe.apple-dns.net ^
 @@||gc.apple.com^
+@@||gc.fe.apple-dns.net ^
+@@||news.apple-dns.net^
 @@||safebrowsing.apple^
 @@||smoot.apple.com^
+@@|*events.apple.com^
 @@|appleglobal.*.2o7.net^
 @@|cstat.apple.com^
 @@|doh.dns.apple.com^
@@ -115,6 +117,16 @@
 @@|stats.gc.apple.com^
 ! https://github.com/hagezi/dns-blocklists/issues/17
 @@|xp.apple.com^
+! iOS 16+
+@@|books-analytics-events.apple.com^
+@@|books-analytics-events.news.apple-dns.net^
+@@|notes-analytics-events.apple.com^
+@@|notes-analytics-events.news.apple-dns.net^
+@@|stocks-analytics-events.apple.com^
+@@|stocks-analytics-events.news.apple-dns.net^
+! Weatherdata sometimes not loading on iOS 16+
+@@|weather-analytics-events.apple.com^
+@@|weather-analytics-events.news.apple-dns.net^
 
 ! Certificates
 @@||digicert.com^
