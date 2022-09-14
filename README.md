@@ -238,8 +238,6 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
                         
 ***If you like the project and you can benefit from it, leave a star (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!***
          
-<a href="https://www.buymeacoffee.com/hagezi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="163"></a>
-         
 ***Thanks for your support!***
 
 ---
