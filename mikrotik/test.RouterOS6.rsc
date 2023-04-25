@@ -13,9 +13,9 @@
 # for RouterOS 6.x
 #
 /ip dns static
-/add address=127.0.0.1 name=1and1-dns.de
-/add address=127.0.0.1 name=233py.com
-/add address=127.0.0.1 name=dns.233py.com
-/add address=127.0.0.1 name=doh.233py.com
-/add address=127.0.0.1 name=edns.233py.com
-/add address=127.0.0.1 name=i.233py.com
+add address=127.0.0.1 name=1and1-dns.de
+add address=127.0.0.1 name=233py.com
+add address=127.0.0.1 name=dns.233py.com
+add address=127.0.0.1 name=doh.233py.com
+add address=127.0.0.1 name=edns.233py.com
+add address=127.0.0.1 name=i.233py.com
