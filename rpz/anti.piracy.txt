@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1692397860 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1692441060 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Aug 2023 22:31 UTC
-; Version: 2023.0818.2231.49
+; Last modified: 19 Aug 2023 10:31 UTC
+; Version: 2023.0819.1031.43
 ; Syntax: RPZ
-; Number of entries: 13950
+; Number of entries: 13954
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -198,6 +198,8 @@ cueclub.com.bd CNAME .
 *.cueclub.com.bd CNAME .
 digitalbroadband.com.bd CNAME .
 *.digitalbroadband.com.bd CNAME .
+www.e24.com.bd CNAME .
+*.www.e24.com.bd CNAME .
 fnet.com.bd CNAME .
 *.fnet.com.bd CNAME .
 fti.com.bd CNAME .
@@ -2566,6 +2568,8 @@ eprojectfreetv.com CNAME .
 *.eprojectfreetv.com CNAME .
 escalaenbernal.com CNAME .
 *.escalaenbernal.com CNAME .
+eshiel.com CNAME .
+*.eshiel.com CNAME .
 etorrentsmexico.com CNAME .
 *.etorrentsmexico.com CNAME .
 etproxy.com CNAME .

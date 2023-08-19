@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.native.tiktok.extended. hostmaster.hagezi.native.tiktok.extended. 1690840560 86400 3600 604800 30
+@ SOA rpz.hagezi.native.tiktok.extended. hostmaster.hagezi.native.tiktok.extended. 1692447600 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
@@ -7,11 +7,55 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 31 Jul 2023 21:56 UTC
-; Version: 2023.0731.2156.44
+; Last modified: 19 Aug 2023 12:20 UTC
+; Version: 2023.0819.1220.24
 ; Syntax: RPZ
-; Number of entries: 766
+; Number of entries: 810
 ;
+direct.quic-core-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+*.direct.quic-core-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+direct.quic-mix-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+*.direct.quic-mix-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+direct-tmp.quic-mix-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+*.direct-tmp.quic-mix-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+direct.quic-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+*.direct.quic-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+direct.quic-unicorn-sg-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+*.direct.quic-unicorn-sg-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+direct-tmp.quic-unicorn-sg-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+*.direct-tmp.quic-unicorn-sg-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+direct.quic-webcast-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+*.direct.quic-webcast-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+direct-http.quic-webcast-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+*.direct-http.quic-webcast-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+direct.quic-webcast-tob-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+*.direct.quic-webcast-tob-proxy-gcpsg-v3.gcpsg.byteglb.com CNAME .
+direct.quic-tiktok-core-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+*.direct.quic-tiktok-core-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+direct.quic-tiktok-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+*.direct.quic-tiktok-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+direct-http.quic-tiktok-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+*.direct-http.quic-tiktok-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+direct.quic-webcast-core-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+*.direct.quic-webcast-core-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+direct.quic-webcast-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+*.direct.quic-webcast-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+direct-http.quic-webcast-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+*.direct-http.quic-webcast-proxy-i18n-v3.useast2a.byteglb.com CNAME .
+direct.quic-core-proxy-useast4-v3.useast4.byteglb.com CNAME .
+*.direct.quic-core-proxy-useast4-v3.useast4.byteglb.com CNAME .
+direct-tmp.quic-mix-proxy-useast4-v3.useast4.byteglb.com CNAME .
+*.direct-tmp.quic-mix-proxy-useast4-v3.useast4.byteglb.com CNAME .
+direct.quic-proxy-useast4-v3.useast4.byteglb.com CNAME .
+*.direct.quic-proxy-useast4-v3.useast4.byteglb.com CNAME .
+direct-http.quic-proxy-useast4-v3.useast4.byteglb.com CNAME .
+*.direct-http.quic-proxy-useast4-v3.useast4.byteglb.com CNAME .
+direct.quic-webcast-core-proxy-useast4.useast4.byteglb.com CNAME .
+*.direct.quic-webcast-core-proxy-useast4.useast4.byteglb.com CNAME .
+direct.quic-webcast-proxy-useast4-v3.useast4.byteglb.com CNAME .
+*.direct.quic-webcast-proxy-useast4-v3.useast4.byteglb.com CNAME .
+direct-http.quic-webcast-proxy-useast4-v3.useast4.byteglb.com CNAME .
+*.direct-http.quic-webcast-proxy-useast4-v3.useast4.byteglb.com CNAME .
 cdnlog-va-useast2a.byteoversea.com CNAME .
 *.cdnlog-va-useast2a.byteoversea.com CNAME .
 docs-frontier-sg.byteoversea.com CNAME .
