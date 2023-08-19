@@ -14,4 +14,4 @@ jobs:
         uses: peter-evans/close-issue@v3
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: Thanks for your support, domain(s) has been added to the denylist and will be added in the next update. The update takes place at least every 24 hours. Updated list versions are usually available from 04:00 UTC at the latest.
+          comment: Thanks for your support, domain(s) has been added to the denylist and will be added in the next update. The update takes place every 12 hours. Updated list versions are usually available at 16:00 UTC and 04:00 UTC.
