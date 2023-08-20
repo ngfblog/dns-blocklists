@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Aug 2023 21:32 UTC
-# Version: 2023.0804.2132.07
+# Last modified: 19 Aug 2023 22:39 UTC
+# Version: 2023.0819.2239.15
 # Syntax: DNSMasq
-# Number of entries: 58
+# Number of entries: 61
 #
 address=/ubacollect-drcn.cloud.dbankcloud.cn/#
 address=/metrics-dre.data.dbankcloud.cn/#
@@ -35,6 +35,8 @@ address=/grs.platform.dbankcloud.ru/#
 address=/logservice-dre.platform.dbankcloud.cn/#
 address=/openlocation-drcn.platform.dbankcloud.com/#
 address=/events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn/#
+address=/events-dre-op-hicloud-com-dre.appacc.dbankedge.cn/#
+address=/events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn/#
 address=/adx-dre.op.dbankcloud.com.edgekey.net/#
 address=/atlas-emui-drcn.hicloud.com/#
 address=/data.hicloud.com/#
@@ -58,6 +60,7 @@ address=/logtransform.hicloud.com/#
 address=/adx-dra.op.hicloud.com/#
 address=/adx-dre.op.hicloud.com/#
 address=/events-dra.op.hicloud.com/#
+address=/events-dre.op.hicloud.com/#
 address=/sdkserver-dra.op.hicloud.com/#
 address=/opsdata.hicloud.com/#
 address=/osscach2023.hicloud.tw/#

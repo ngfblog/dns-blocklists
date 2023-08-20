@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.native.huawei. hostmaster.hagezi.native.huawei. 1691184720 86400 3600 604800 30
+@ SOA rpz.hagezi.native.huawei. hostmaster.hagezi.native.huawei. 1692484740 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Huawei Tracker DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 04 Aug 2023 21:32 UTC
-; Version: 2023.0804.2132.07
+; Last modified: 19 Aug 2023 22:39 UTC
+; Version: 2023.0819.2239.15
 ; Syntax: RPZ
-; Number of entries: 116
+; Number of entries: 122
 ;
 grs.dbankcloud.asia CNAME .
 *.grs.dbankcloud.asia CNAME .
@@ -44,6 +44,10 @@ logservice-dre.platform.dbankcloud.cn CNAME .
 *.logservice-dre.platform.dbankcloud.cn CNAME .
 events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn CNAME .
 *.events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn CNAME .
+events-dre-op-hicloud-com-dre.appacc.dbankedge.cn CNAME .
+*.events-dre-op-hicloud-com-dre.appacc.dbankedge.cn CNAME .
+events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn CNAME .
+*.events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn CNAME .
 dnkeeper.dbankcloud.com CNAME .
 *.dnkeeper.dbankcloud.com CNAME .
 hisearch-dra.dt.dbankcloud.com CNAME .
@@ -104,6 +108,8 @@ adx-dre.op.hicloud.com CNAME .
 *.adx-dre.op.hicloud.com CNAME .
 events-dra.op.hicloud.com CNAME .
 *.events-dra.op.hicloud.com CNAME .
+events-dre.op.hicloud.com CNAME .
+*.events-dre.op.hicloud.com CNAME .
 sdkserver-dra.op.hicloud.com CNAME .
 *.sdkserver-dra.op.hicloud.com CNAME .
 opsdata.hicloud.com CNAME .

@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1692441720 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1692484980 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Aug 2023 10:42 UTC
-; Version: 2023.0819.1042.27
+; Last modified: 19 Aug 2023 22:43 UTC
+; Version: 2023.0819.2243.11
 ; Syntax: RPZ
-; Number of entries: 28066
+; Number of entries: 28072
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1572,8 +1572,6 @@ hellovivi.ca CNAME .
 *.hellovivi.ca CNAME .
 meowcastle.ca CNAME .
 *.meowcastle.ca CNAME .
-syos-space.capital CNAME .
-*.syos-space.capital CNAME .
 mars-c.counterstrike.care CNAME .
 *.mars-c.counterstrike.care CNAME .
 mars-e.counterstrike.care CNAME .
@@ -9800,6 +9798,8 @@ looksynergy.com CNAME .
 *.looksynergy.com CNAME .
 loomzo.com CNAME .
 *.loomzo.com CNAME .
+looprita.com CNAME .
+*.looprita.com CNAME .
 looseknives.com CNAME .
 *.looseknives.com CNAME .
 loosepantsofficial.com CNAME .
@@ -11052,8 +11052,8 @@ navi1.com CNAME .
 *.navi1.com CNAME .
 navi10.com CNAME .
 *.navi10.com CNAME .
-store.navi17.com CNAME .
-*.store.navi17.com CNAME .
+navi17.com CNAME .
+*.navi17.com CNAME .
 navi18.com CNAME .
 *.navi18.com CNAME .
 navi21.com CNAME .
@@ -14360,8 +14360,6 @@ scoptal.com CNAME .
 *.scoptal.com CNAME .
 scribblepen.com CNAME .
 *.scribblepen.com CNAME .
-scrubellayyc.com CNAME .
-*.scrubellayyc.com CNAME .
 scurvefashion.com CNAME .
 *.scurvefashion.com CNAME .
 seasaltfashion.com CNAME .
@@ -21024,6 +21022,8 @@ lagunaspa.de CNAME .
 *.lagunaspa.de CNAME .
 lamario.de CNAME .
 *.lamario.de CNAME .
+lamena.de CNAME .
+*.lamena.de CNAME .
 lamusul.de CNAME .
 *.lamusul.de CNAME .
 lanetech.de CNAME .
@@ -21304,6 +21304,8 @@ megaflix.de CNAME .
 *.megaflix.de CNAME .
 megahood.de CNAME .
 *.megahood.de CNAME .
+megalomuseum.de CNAME .
+*.megalomuseum.de CNAME .
 mein-buch24.de CNAME .
 *.mein-buch24.de CNAME .
 mein-ferienhausurlaub.de CNAME .
@@ -21314,6 +21316,8 @@ mein-wegbegleiter.de CNAME .
 *.mein-wegbegleiter.de CNAME .
 meine-goldscheideanstalt.de CNAME .
 *.meine-goldscheideanstalt.de CNAME .
+meine-neue-brille.de CNAME .
+*.meine-neue-brille.de CNAME .
 meinflix.de CNAME .
 *.meinflix.de CNAME .
 meinkleinerbaum.de CNAME .
@@ -21416,6 +21420,8 @@ modenexus-berlin.de CNAME .
 *.modenexus-berlin.de CNAME .
 modoli.de CNAME .
 *.modoli.de CNAME .
+modovia.de CNAME .
+*.modovia.de CNAME .
 modplay.de CNAME .
 *.modplay.de CNAME .
 moebeleu.de CNAME .
@@ -24654,6 +24660,8 @@ oakdalerotary.org CNAME .
 *.oakdalerotary.org CNAME .
 oclegends.org CNAME .
 *.oclegends.org CNAME .
+ohne-rezept.org CNAME .
+*.ohne-rezept.org CNAME .
 packsracksbaskets.org CNAME .
 *.packsracksbaskets.org CNAME .
 peacefulexitsworldwide.org CNAME .
@@ -25690,6 +25698,8 @@ kbattian.shop CNAME .
 *.kbattian.shop CNAME .
 keepeoff.shop CNAME .
 *.keepeoff.shop CNAME .
+keithretail.shop CNAME .
+*.keithretail.shop CNAME .
 keithsiretail.shop CNAME .
 *.keithsiretail.shop CNAME .
 kellycain.shop CNAME .
@@ -25744,6 +25754,8 @@ leoclothing.shop CNAME .
 *.leoclothing.shop CNAME .
 leohome.shop CNAME .
 *.leohome.shop CNAME .
+leteles.shop CNAME .
+*.leteles.shop CNAME .
 lhow.shop CNAME .
 *.lhow.shop CNAME .
 liamsports.shop CNAME .
@@ -25768,6 +25780,8 @@ lskg.shop CNAME .
 *.lskg.shop CNAME .
 lucchesesale.shop CNAME .
 *.lucchesesale.shop CNAME .
+lufeipromo.shop CNAME .
+*.lufeipromo.shop CNAME .
 luiow.shop CNAME .
 *.luiow.shop CNAME .
 luxuryfashionbag.shop CNAME .
@@ -26172,8 +26186,6 @@ storagehome.shop CNAME .
 *.storagehome.shop CNAME .
 suilkg.shop CNAME .
 *.suilkg.shop CNAME .
-sundayliquid.shop CNAME .
-*.sundayliquid.shop CNAME .
 supejungleji.shop CNAME .
 *.supejungleji.shop CNAME .
 superbbuy.shop CNAME .
@@ -26236,14 +26248,10 @@ toddlerpants.shop CNAME .
 *.toddlerpants.shop CNAME .
 toddlershood.shop CNAME .
 *.toddlershood.shop CNAME .
-toddpromo.shop CNAME .
-*.toddpromo.shop CNAME .
 toko999.shop CNAME .
 *.toko999.shop CNAME .
 tomallcart.shop CNAME .
 *.tomallcart.shop CNAME .
-tomclothing.shop CNAME .
-*.tomclothing.shop CNAME .
 tomucir.shop CNAME .
 *.tomucir.shop CNAME .
 toolsboxes.shop CNAME .
@@ -27116,6 +27124,8 @@ outletkitchen.store CNAME .
 *.outletkitchen.store CNAME .
 outletmenswear.store CNAME .
 *.outletmenswear.store CNAME .
+outsale.store CNAME .
+*.outsale.store CNAME .
 petdiscountsale.store CNAME .
 *.petdiscountsale.store CNAME .
 petfashionhouse.store CNAME .
@@ -27162,8 +27172,6 @@ saleswimming.store CNAME .
 *.saleswimming.store CNAME .
 saletennis.store CNAME .
 *.saletennis.store CNAME .
-sallygarden.store CNAME .
-*.sallygarden.store CNAME .
 sanukoutlet.store CNAME .
 *.sanukoutlet.store CNAME .
 sellingcamp.store CNAME .
@@ -27184,8 +27192,6 @@ shoestopsell.store CNAME .
 *.shoestopsell.store CNAME .
 shop-menswear.store CNAME .
 *.shop-menswear.store CNAME .
-shop-women.store CNAME .
-*.shop-women.store CNAME .
 shoplyt.store CNAME .
 *.shoplyt.store CNAME .
 shopmallcamp.store CNAME .
