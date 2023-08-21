@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1692571440 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1692614400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 20 Aug 2023 22:44 UTC
-; Version: 2023.0820.2244.59
+; Last modified: 21 Aug 2023 10:40 UTC
+; Version: 2023.0821.1040.52
 ; Syntax: RPZ
-; Number of entries: 13956
+; Number of entries: 13950
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -656,8 +656,6 @@ tp.m-team.cc CNAME .
 *.tp.m-team.cc CNAME .
 tracker.m-team.cc CNAME .
 *.tracker.m-team.cc CNAME .
-mac-torrents.cc CNAME .
-*.mac-torrents.cc CNAME .
 movcr.cc CNAME .
 *.movcr.cc CNAME .
 movie4u.cc CNAME .
@@ -2208,8 +2206,6 @@ cracxsoftware.com CNAME .
 *.cracxsoftware.com CNAME .
 craftkeys.com CNAME .
 *.craftkeys.com CNAME .
-craiovatracker.com CNAME .
-*.craiovatracker.com CNAME .
 crazy4tv.com CNAME .
 *.crazy4tv.com CNAME .
 crazyctg.com CNAME .
@@ -12818,8 +12814,6 @@ hdfilme.top CNAME .
 *.hdfilme.top CNAME .
 tracker.hdpost.top CNAME .
 *.tracker.hdpost.top CNAME .
-highteahop.top CNAME .
-*.highteahop.top CNAME .
 hulkpop.top CNAME .
 *.hulkpop.top CNAME .
 kickass2.top CNAME .
