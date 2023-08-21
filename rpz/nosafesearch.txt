@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.nosafesearch. hostmaster.hagezi.nosafesearch. 1692311220 86400 3600 604800 30
+@ SOA rpz.hagezi.nosafesearch. hostmaster.hagezi.nosafesearch. 1692571080 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 17 Aug 2023 22:27 UTC
-; Version: 2023.0817.2227.42
+; Last modified: 20 Aug 2023 22:38 UTC
+; Version: 2023.0820.2238.17
 ; Syntax: RPZ
-; Number of entries: 530
+; Number of entries: 532
 ;
 searx.32bitflo.at CNAME .
 *.searx.32bitflo.at CNAME .
@@ -380,6 +380,8 @@ librex.nohost.network CNAME .
 *.librex.nohost.network CNAME .
 searx.ninja CNAME .
 *.searx.ninja CNAME .
+zoek.anchel.nl CNAME .
+*.zoek.anchel.nl CNAME .
 searx.doofpot.nl CNAME .
 *.searx.doofpot.nl CNAME .
 metasearch.nl CNAME .

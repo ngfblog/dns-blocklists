@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1692527940 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1692571440 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 20 Aug 2023 10:39 UTC
-; Version: 2023.0820.1039.21
+; Last modified: 20 Aug 2023 22:44 UTC
+; Version: 2023.0820.2244.59
 ; Syntax: RPZ
-; Number of entries: 13954
+; Number of entries: 13956
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -9342,6 +9342,8 @@ xdude.net CNAME .
 *.xdude.net CNAME .
 xenialbb.net CNAME .
 *.xenialbb.net CNAME .
+xthor.net CNAME .
+*.xthor.net CNAME .
 xtremespeeds.net CNAME .
 *.xtremespeeds.net CNAME .
 xtremewrestlingtorrents.net CNAME .
@@ -11016,6 +11018,8 @@ zelka.org CNAME .
 *.zelka.org CNAME .
 zinebytes.org CNAME .
 *.zinebytes.org CNAME .
+zionteam.org CNAME .
+*.zionteam.org CNAME .
 bt.zlofenix.org CNAME .
 *.bt.zlofenix.org CNAME .
 zlotracker.org CNAME .
@@ -11218,8 +11222,6 @@ thepiratebay.press CNAME .
 *.123movies4u.pro CNAME .
 123moviesto.pro CNAME .
 *.123moviesto.pro CNAME .
-123myflixer.pro CNAME .
-*.123myflixer.pro CNAME .
 animewarrior.pro CNAME .
 *.animewarrior.pro CNAME .
 atdhe.pro CNAME .

@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1692358080 86400 3600 604800 30
+@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1692571260 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Aug 2023 11:28 UTC
-; Version: 2023.0818.1128.46
+; Last modified: 20 Aug 2023 22:41 UTC
+; Version: 2023.0820.2241.03
 ; Syntax: RPZ
-; Number of entries: 1470
+; Number of entries: 1466
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -473,8 +473,6 @@ thanos.pleumkungz.com CNAME .
 *.thanos.pleumkungz.com CNAME .
 dns.porteii.com CNAME .
 *.dns.porteii.com CNAME .
-dns.pumplex.com CNAME .
-*.dns.pumplex.com CNAME .
 r1bnc.com CNAME .
 *.r1bnc.com CNAME .
 dns.api.rackspacecloud.com CNAME .
@@ -533,8 +531,6 @@ doh2.gslb2.xfinity.com CNAME .
 *.doh2.gslb2.xfinity.com CNAME .
 xorbiadns.com CNAME .
 *.xorbiadns.com CNAME .
-lion.yazilimatolye.com CNAME .
-*.lion.yazilimatolye.com CNAME .
 yovbak.com CNAME .
 *.yovbak.com CNAME .
 adguard.zachitect.com CNAME .

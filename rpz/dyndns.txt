@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1692358200 86400 3600 604800 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1692571320 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 18 Aug 2023 11:30 UTC
-; Version: 2023.0818.1130.15
+; Last modified: 20 Aug 2023 22:42 UTC
+; Version: 2023.0820.2242.30
 ; Syntax: RPZ
-; Number of entries: 3064
+; Number of entries: 3068
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -2332,6 +2332,8 @@ wildsurf.net CNAME .
 *.wildsurf.net CNAME .
 winconnection.net CNAME .
 *.winconnection.net CNAME .
+xpresit.net CNAME .
+*.xpresit.net CNAME .
 zanity.net CNAME .
 *.zanity.net CNAME .
 zverovich.net CNAME .
@@ -2794,6 +2796,8 @@ zaibar.ro CNAME .
 *.zaibar.ro CNAME .
 myddns.rocks CNAME .
 *.myddns.rocks CNAME .
+v6.rocks CNAME .
+*.v6.rocks CNAME .
 iz.rs CNAME .
 *.iz.rs CNAME .
 albertn.ru CNAME .
