@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1692614160 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1692657360 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 21 Aug 2023 10:36 UTC
-; Version: 2023.0821.1036.14
+; Last modified: 21 Aug 2023 22:36 UTC
+; Version: 2023.0821.2236.06
 ; Syntax: RPZ
-; Number of entries: 4820
+; Number of entries: 4826
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1349,6 +1349,8 @@ nowcache.com CNAME .
 *.nowcache.com CNAME .
 ns3.com CNAME .
 *.ns3.com CNAME .
+nsv4w.com CNAME .
+*.nsv4w.com CNAME .
 nur68cnnc5.com CNAME .
 *.nur68cnnc5.com CNAME .
 vpn.nvidia.com CNAME .
@@ -1875,6 +1877,8 @@ dns.syaifullah.com CNAME .
 *.dns.syaifullah.com CNAME .
 t-dz.com CNAME .
 *.t-dz.com CNAME .
+tailscale.com CNAME .
+*.tailscale.com CNAME .
 talk2m.com CNAME .
 *.talk2m.com CNAME .
 tbjr6.com CNAME .
@@ -2225,6 +2229,8 @@ wiksa.com CNAME .
 *.wiksa.com CNAME .
 windscribe.com CNAME .
 *.windscribe.com CNAME .
+wireguard.com CNAME .
+*.wireguard.com CNAME .
 wiseghostapp.com CNAME .
 *.wiseghostapp.com CNAME .
 wlvpn.com CNAME .
@@ -2291,6 +2297,8 @@ zenmate.com CNAME .
 *.zenmate.com CNAME .
 zenrows.com CNAME .
 *.zenrows.com CNAME .
+zerotier.com CNAME .
+*.zerotier.com CNAME .
 zerotunnel.com CNAME .
 *.zerotunnel.com CNAME .
 zippyproxy.com CNAME .
@@ -2613,8 +2621,6 @@ dns.k3nny.fr CNAME .
 *.dns.k3nny.fr CNAME .
 doh.lacontrevoie.fr CNAME .
 *.doh.lacontrevoie.fr CNAME .
-blockerads.multimediaconcept.fr CNAME .
-*.blockerads.multimediaconcept.fr CNAME .
 purevpn.fr CNAME .
 *.purevpn.fr CNAME .
 rayneau.fr CNAME .
