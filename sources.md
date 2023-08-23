@@ -493,6 +493,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-hp.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lookout.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lumen.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mandiant.txt
