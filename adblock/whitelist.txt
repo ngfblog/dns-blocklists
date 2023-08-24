@@ -399,6 +399,10 @@
 @@|tls12.eu01.nr-data.net.cdn.cloudflare.net^
 @@|fastly-tls12-bam.eu01.nr-data.net^
 
+! Revenaced
+@@|revanced.app^
+@@|www.revanced.app^
+
 ! SmartTVs
 ! osb*.samsungqbe.com
 @@|acr*.samsungcloudsolution.com^
@@ -4881,4 +4885,16 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/1464
 @@|xlate.dcard.tw^
+
+! Breaks memurlar.net
+@@|data.memurlar.net^
+
+! Xiaomi push in China cannot push messages
+@@|resolver.msg.xiaomi.net^
+
+! https://www.reddit.com/r/nextdns/comments/15xnk0r/costco_email_links_not_loaded/
+@@|data.digital.costco.com^
+
+! Images/Content in various newsletters
+@@|suite*.emarsys.net^
 

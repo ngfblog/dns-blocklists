@@ -49,11 +49,11 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Domains<br>Compressed | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | [Native](#native) |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----------:|
-| [Light](#light)             | 549905<br>75148     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Normal](#normal)       | 838084<br>234415     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro](#pro)              | 1051654<br>354810         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro++](#proplus)    | 1119740<br>368615 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
-| [Ultimate](#ultimate)    | 1493193<br>440446 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
+| [Light](#light)             | 548553<br>75074     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Normal](#normal)       | 836968<br>234315     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro](#pro)              | 1010359<br>335203         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro++](#proplus)    | 1085444<br>349042 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
+| [Ultimate](#ultimate)    | 1492489<br>440381 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
            
 :green_circle: contains the list named in the column caption       
 :yellow_square: partially contains the list named in the column caption       
@@ -64,7 +64,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *549905 domains/hosts - 75148 compressed domains*                    
+**Entries:** *548553 domains/hosts - 75074 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -82,7 +82,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *838084 domains/hosts - 234415 compressed domains*                   
+**Entries:** *836968 domains/hosts - 234315 compressed domains*                   
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -99,7 +99,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1051654 domains/hosts - 354810 compressed domains*                   
+**Entries:** *1010359 domains/hosts - 335203 compressed domains*                   
            
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -118,7 +118,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1119740 domains/hosts - 368615 compressed domains*               
+**Entries:** *1085444 domains/hosts - 349042 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -139,7 +139,7 @@
          
 ***NOTE:*** *META graph trackers are blocked in Ultimate. This restricts the use of Facebook/Instagram and Facebook Messenger. To use Facebook/Instagram with Ultimate, unblock the following domains: [META Tracker](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/share/facebook.txt)*
        
-**Entries:** *1493193 domains/hosts - 440446 compressed domains*               
+**Entries:** *1492489 domains/hosts - 440381 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -165,7 +165,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *14152 compressed domains*           
+**Entries:** *14160 compressed domains*           
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -189,7 +189,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1186260 domains/hosts - 687990 compressed domains*           
+**Entries:** *1187285 domains/hosts - 688802 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -220,7 +220,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *2413 compressed domains*           
+**Entries:** *2412 compressed domains*           
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -241,7 +241,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *858 domains/hosts - 732 compressed domains*           
+**Entries:** *857 domains/hosts - 731 compressed domains*           
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -359,7 +359,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *6975 compressed domains*                     
+**Entries:** *6976 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -407,7 +407,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *49896 compressed domains*                    
+**Entries:** *49687 compressed domains*                    
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
