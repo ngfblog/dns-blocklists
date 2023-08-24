@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1692786360 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1692829500 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 23 Aug 2023 10:26 UTC
-; Version: 2023.0823.1026.16
+; Last modified: 23 Aug 2023 22:25 UTC
+; Version: 2023.0823.2225.27
 ; Syntax: RPZ
 ; Number of entries: 4826
 ;
@@ -2255,8 +2255,6 @@ xitenow.com CNAME .
 *.xitenow.com CNAME .
 xitesite.com CNAME .
 *.xitesite.com CNAME .
-xorbiadns.com CNAME .
-*.xorbiadns.com CNAME .
 xperienc.com CNAME .
 *.xperienc.com CNAME .
 xvbelink.com CNAME .
@@ -3515,6 +3513,8 @@ dolopo.net CNAME .
 *.dolopo.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 ebumna.net CNAME .
