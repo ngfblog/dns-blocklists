@@ -193,6 +193,7 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_19_Annoyances_Popups/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_20_Annoyances_MobileApp/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_21_Annoyances_Other/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_22_Annoyances_Widgets/filter.txt
@@ -200,6 +201,7 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_5_Experimental/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
@@ -364,7 +366,18 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
 https://raw.githubusercontent.com/iam-py-test/vxvault_filter/main/domains_file.txt
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/malwaredomainlist_hostlist_cleaned.txt
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/Microsoft_Phishing_Collection
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/NextRay_AI_Domains
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/PhishTank/NextRay_AI_Domains
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/PhishTank/Online%20Banking%20Phishing%20URLs
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/PhishTank/Online%20Office365%20and%20other%20Microsoft%20Phishing%20URLs
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/pihole_emotet_clean.txt
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/Risk_React_Fake_Casino
 https://raw.githubusercontent.com/ihgalis/pihole_collection/master/Sinking_Yachts_Phishing
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/ThreatMiner/Farseer%20-%20Malware
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/ThreatMiner/Suspicious_Domains
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/ThreatMiner/Symantec_APT-C-23_IOC_Report
 https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/annoyances.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
