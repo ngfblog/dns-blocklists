@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1693089180 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1693132920 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 26 Aug 2023 22:33 UTC
-; Version: 2023.0826.2233.57
+; Last modified: 27 Aug 2023 10:42 UTC
+; Version: 2023.0827.1042.11
 ; Syntax: RPZ
-; Number of entries: 4930
+; Number of entries: 4936
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -185,6 +185,8 @@ proxify.cc CNAME .
 *.proxify.cc CNAME .
 seedboxes.cc CNAME .
 *.seedboxes.cc CNAME .
+toptip.cc CNAME .
+*.toptip.cc CNAME .
 topvpn.cc CNAME .
 *.topvpn.cc CNAME .
 xenergy.cc CNAME .
@@ -3477,6 +3479,8 @@ bestssh.net CNAME .
 *.bestssh.net CNAME .
 dns.bitdefender.net CNAME .
 *.dns.bitdefender.net CNAME .
+nimbus.bitdefender.net CNAME .
+*.nimbus.bitdefender.net CNAME .
 dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
 us1.blissdns.net CNAME .
@@ -3925,6 +3929,8 @@ switchvpn.net CNAME .
 *.switchvpn.net CNAME .
 tbjr6.net CNAME .
 *.tbjr6.net CNAME .
+thevpncompany.net CNAME .
+*.thevpncompany.net CNAME .
 thexite.net CNAME .
 *.thexite.net CNAME .
 torguard.net CNAME .

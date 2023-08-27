@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.native.apple. hostmaster.hagezi.native.apple. 1687418820 86400 3600 604800 30
+@ SOA rpz.hagezi.native.apple. hostmaster.hagezi.native.apple. 1693120620 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Apple Tracker DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Jun 2023 07:27 UTC
-; Version: 2023.0622.0727.35
+; Last modified: 27 Aug 2023 07:17 UTC
+; Version: 2023.0827.0717.26
 ; Syntax: RPZ
-; Number of entries: 30
+; Number of entries: 34
 ;
 api-adservices.apple.com CNAME .
 *.api-adservices.apple.com CNAME .
@@ -22,6 +22,8 @@ metrics.apple.com CNAME .
 *.metrics.apple.com CNAME .
 notes-analytics-events.apple.com CNAME .
 *.notes-analytics-events.apple.com CNAME .
+phonesubmissions.apple.com CNAME .
+*.phonesubmissions.apple.com CNAME .
 securemetrics.apple.com CNAME .
 *.securemetrics.apple.com CNAME .
 securemvt.apple.com CNAME .
@@ -32,6 +34,8 @@ supportmetrics.apple.com CNAME .
 *.supportmetrics.apple.com CNAME .
 weather-analytics-events.apple.com CNAME .
 *.weather-analytics-events.apple.com CNAME .
+xp.apple.com CNAME .
+*.xp.apple.com CNAME .
 acfeedbackws.icloud.com CNAME .
 *.acfeedbackws.icloud.com CNAME .
 feedbackws.icloud.com CNAME .
