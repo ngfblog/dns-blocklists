@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1692571320 86400 3600 604800 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1693218900 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 20 Aug 2023 22:42 UTC
-; Version: 2023.0820.2242.30
+; Last modified: 28 Aug 2023 10:35 UTC
+; Version: 2023.0828.1035.40
 ; Syntax: RPZ
-; Number of entries: 3068
+; Number of entries: 3074
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -166,6 +166,8 @@ voyez.ca CNAME .
 *.voyez.ca CNAME .
 3n.cc CNAME .
 *.3n.cc CNAME .
+cloudns.cc CNAME .
+*.cloudns.cc CNAME .
 fantasyleague.cc CNAME .
 *.fantasyleague.cc CNAME .
 ftpaccess.cc CNAME .
@@ -1576,6 +1578,8 @@ zzux.com CNAME .
 *.1337.cx CNAME .
 ath.cx CNAME .
 *.ath.cx CNAME .
+cloudns.cx CNAME .
+*.cloudns.cx CNAME .
 it.cx CNAME .
 *.it.cx CNAME .
 cpsnet.cz CNAME .
@@ -2768,6 +2772,8 @@ sexmistrz.pl CNAME .
 *.sexmistrz.pl CNAME .
 zza.pl CNAME .
 *.zza.pl CNAME .
+cloudns.pro CNAME .
+*.cloudns.pro CNAME .
 dyndns.pro CNAME .
 *.dyndns.pro CNAME .
 hmao.pro CNAME .

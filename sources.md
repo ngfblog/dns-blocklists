@@ -1,7 +1,6 @@
 ### All known sources, partially included
 *Sources that were investigated and partially used for compiling the block lists. Every source has its own license, for the individual licenses see the source files or source repositories:*
 ```
-
 https://abpvn.com/android/abpvn.txt
 https://adaway.org/hosts.txt
 https://adblock.ee/list.php
@@ -14,7 +13,6 @@ https://assets.windscribe.com/custom_blocklists/clickbait.txt
 https://azorult-tracker.net/api/list/domain?format=plain
 https://big.oisd.nl
 https://big.oisd.nl/domains
-https://big.oisd.nl/domainswild2
 https://blocklistproject.github.io/Lists/adguard/abuse-ags.txt
 https://blocklistproject.github.io/Lists/adguard/fraud-ags.txt
 https://blocklistproject.github.io/Lists/adguard/malware-ags.txt
@@ -230,7 +228,6 @@ https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.tx
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
@@ -369,7 +366,6 @@ https://raw.githubusercontent.com/iam-py-test/vxvault_filter/main/domains_file.t
 https://raw.githubusercontent.com/ihgalis/pihole_collection/master/malwaredomainlist_hostlist_cleaned.txt
 https://raw.githubusercontent.com/ihgalis/pihole_collection/master/Microsoft_Phishing_Collection
 https://raw.githubusercontent.com/ihgalis/pihole_collection/master/NextRay_AI_Domains
-https://raw.githubusercontent.com/ihgalis/pihole_collection/master/PhishTank/NextRay_AI_Domains
 https://raw.githubusercontent.com/ihgalis/pihole_collection/master/PhishTank/Online%20Banking%20Phishing%20URLs
 https://raw.githubusercontent.com/ihgalis/pihole_collection/master/PhishTank/Online%20Office365%20and%20other%20Microsoft%20Phishing%20URLs
 https://raw.githubusercontent.com/ihgalis/pihole_collection/master/pihole_emotet_clean.txt
@@ -611,12 +607,10 @@ https://secure.fanboy.co.nz/fanboy-social.txt
 https://secure.fanboy.co.nz/r/fanboy-ultimate.txt
 https://small.oisd.nl
 https://small.oisd.nl/domains
-https://small.oisd.nl/domainswild2
 https://smokingwheels.github.io/Pi-hole/multiedit
 https://someonewhocares.org/hosts/hosts
 https://someonewhocares.org/hosts/zero/hosts
 https://stanev.org/abp/adblock_bg.txt
-http://stanev.org/abp/adblock_bg.txt
 https://threatfox.abuse.ch/downloads/hostfile
 https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
 https://tor.taxi/avoid

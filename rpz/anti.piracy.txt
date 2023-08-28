@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1693089480 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1693222380 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 26 Aug 2023 22:38 UTC
-; Version: 2023.0826.2238.44
+; Last modified: 28 Aug 2023 11:33 UTC
+; Version: 2023.0828.1133.19
 ; Syntax: RPZ
-; Number of entries: 13940
+; Number of entries: 13956
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2456,6 +2456,8 @@ downpit.com CNAME .
 *.downpit.com CNAME .
 doxma.com CNAME .
 *.doxma.com CNAME .
+dr-farfar.com CNAME .
+*.dr-farfar.com CNAME .
 dragons-dungeon.com CNAME .
 *.dragons-dungeon.com CNAME .
 drakula-stream.com CNAME .
@@ -3644,6 +3646,8 @@ my-123movies.com CNAME .
 *.my-123movies.com CNAME .
 my-gamebox.com CNAME .
 *.my-gamebox.com CNAME .
+myabandonware.com CNAME .
+*.myabandonware.com CNAME .
 mybdix.com CNAME .
 *.mybdix.com CNAME .
 mybdplex.com CNAME .
@@ -3978,6 +3982,8 @@ pjointe.com CNAME .
 *.pjointe.com CNAME .
 bt.play-skill.com CNAME .
 *.bt.play-skill.com CNAME .
+playhydrax.com CNAME .
+*.playhydrax.com CNAME .
 playvidto.com CNAME .
 *.playvidto.com CNAME .
 playwarez.com CNAME .
@@ -7664,6 +7670,8 @@ because.moe CNAME .
 *.because.moe CNAME .
 tracker.cangku.moe CNAME .
 *.tracker.cangku.moe CNAME .
+catbox.moe CNAME .
+*.catbox.moe CNAME .
 tracker.doko.moe CNAME .
 *.tracker.doko.moe CNAME .
 git.fuwafuwa.moe CNAME .
@@ -8350,6 +8358,8 @@ flixhub.net CNAME .
 *.flixhub.net CNAME .
 flixpad.net CNAME .
 *.flixpad.net CNAME .
+fmhy.net CNAME .
+*.fmhy.net CNAME .
 fmnetworks.net CNAME .
 *.fmnetworks.net CNAME .
 fmoviefree.net CNAME .
@@ -8940,6 +8950,8 @@ seeingblind.net CNAME .
 *.seeingblind.net CNAME .
 mail.segso.net CNAME .
 *.mail.segso.net CNAME .
+selezen.net CNAME .
+*.selezen.net CNAME .
 serialnews.net CNAME .
 *.serialnews.net CNAME .
 seriesfilmestorrent.net CNAME .
@@ -9154,6 +9166,8 @@ torrent69.net CNAME .
 *.torrent69.net CNAME .
 torrentai.net CNAME .
 *.torrentai.net CNAME .
+torrentbd.net CNAME .
+*.torrentbd.net CNAME .
 torrentbit.net CNAME .
 *.torrentbit.net CNAME .
 torrentbytes.net CNAME .
@@ -10248,6 +10262,8 @@ learner.org CNAME .
 *.learner.org CNAME .
 tracker.ledreactor.org CNAME .
 *.tracker.ledreactor.org CNAME .
+leechers-paradise.org CNAME .
+*.leechers-paradise.org CNAME .
 tracker.leniter.org CNAME .
 *.tracker.leniter.org CNAME .
 leopard-raws.org CNAME .
