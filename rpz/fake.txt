@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1693219800 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1693262880 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,8 +7,8 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Aug 2023 10:50 UTC
-; Version: 2023.0828.1050.17
+; Last modified: 28 Aug 2023 22:48 UTC
+; Version: 2023.0828.2248.32
 ; Syntax: RPZ
 ; Number of entries: 28500
 ;
@@ -1578,8 +1578,8 @@ brivalls.cat CNAME .
 *.brivalls.cat CNAME .
 201365640.matarocultural.cat CNAME .
 *.201365640.matarocultural.cat CNAME .
-store.aadirone.cc CNAME .
-*.store.aadirone.cc CNAME .
+aadirone.cc CNAME .
+*.aadirone.cc CNAME .
 arkcoin.cc CNAME .
 *.arkcoin.cc CNAME .
 berghausoutlet.cc CNAME .
@@ -1954,6 +1954,8 @@ neespresso.coffee CNAME .
 *.123brennholz.com CNAME .
 168cyd.com CNAME .
 *.168cyd.com CNAME .
+1rx-pharmacy.com CNAME .
+*.1rx-pharmacy.com CNAME .
 1sportlabor.com CNAME .
 *.1sportlabor.com CNAME .
 1stireland.com CNAME .
@@ -2002,6 +2004,8 @@ neespresso.coffee CNAME .
 *.90sfootwear.com CNAME .
 a-a-jozefowski.com CNAME .
 *.a-a-jozefowski.com CNAME .
+a1apotheke.com CNAME .
+*.a1apotheke.com CNAME .
 a3review.com CNAME .
 *.a3review.com CNAME .
 aac667.com CNAME .
@@ -26742,8 +26746,6 @@ sweetair.shop CNAME .
 *.sweetair.shop CNAME .
 tablegame.shop CNAME .
 *.tablegame.shop CNAME .
-tabosep.shop CNAME .
-*.tabosep.shop CNAME .
 tastysnack.shop CNAME .
 *.tastysnack.shop CNAME .
 tavolini.shop CNAME .
@@ -26754,8 +26756,6 @@ techifyze.shop CNAME .
 *.techifyze.shop CNAME .
 technin.shop CNAME .
 *.technin.shop CNAME .
-tehasid.shop CNAME .
-*.tehasid.shop CNAME .
 terrifestival.shop CNAME .
 *.terrifestival.shop CNAME .
 terryjewelry.shop CNAME .

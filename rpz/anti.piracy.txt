@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1693222380 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1693262220 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 28 Aug 2023 11:33 UTC
-; Version: 2023.0828.1133.19
+; Last modified: 28 Aug 2023 22:37 UTC
+; Version: 2023.0828.2237.20
 ; Syntax: RPZ
-; Number of entries: 13956
+; Number of entries: 13960
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -6240,6 +6240,8 @@ lookmovie.guru CNAME .
 *.lookmovie.guru CNAME .
 thepiratebay.guru CNAME .
 *.thepiratebay.guru CNAME .
+123movies.gy CNAME .
+*.123movies.gy CNAME .
 ww5.movierulzlink.hair CNAME .
 *.ww5.movierulzlink.hair CNAME .
 123movies.haus CNAME .
@@ -11222,6 +11224,8 @@ thepiratebay.press CNAME .
 *.thepiratebay.press CNAME .
 123movies4u.pro CNAME .
 *.123movies4u.pro CNAME .
+123moviesfull.pro CNAME .
+*.123moviesfull.pro CNAME .
 123moviesto.pro CNAME .
 *.123moviesto.pro CNAME .
 animewarrior.pro CNAME .

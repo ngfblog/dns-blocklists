@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1693218720 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1693261920 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 28 Aug 2023 10:32 UTC
-; Version: 2023.0828.1032.10
+; Last modified: 28 Aug 2023 22:32 UTC
+; Version: 2023.0828.2232.43
 ; Syntax: RPZ
-; Number of entries: 4958
+; Number of entries: 4986
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -379,6 +379,8 @@ doh.dns.apple.com.v.aaplimg.com CNAME .
 *.doh.dns.apple.com.v.aaplimg.com CNAME .
 accessmeproxy.com CNAME .
 *.accessmeproxy.com CNAME .
+acdtop.com CNAME .
+*.acdtop.com CNAME .
 aceproxy.com CNAME .
 *.aceproxy.com CNAME .
 acevpn.com CNAME .
@@ -1029,6 +1031,8 @@ gotrusted.com CNAME .
 *.gotrusted.com CNAME .
 dot.libredns.gr.com CNAME .
 *.dot.libredns.gr.com CNAME .
+gracarno.com CNAME .
+*.gracarno.com CNAME .
 gratisvpn.com CNAME .
 *.gratisvpn.com CNAME .
 greatestfreeproxy.com CNAME .
@@ -1209,6 +1213,8 @@ jfalling.com CNAME .
 *.jfalling.com CNAME .
 opencdn.jomodns.com CNAME .
 *.opencdn.jomodns.com CNAME .
+jsmapper.com CNAME .
+*.jsmapper.com CNAME .
 juproxy.com CNAME .
 *.juproxy.com CNAME .
 dns.justinnetworkingsolutions.com CNAME .
@@ -1227,6 +1233,8 @@ kickassproxy.com CNAME .
 *.kickassproxy.com CNAME .
 kingsurfproxy.com CNAME .
 *.kingsurfproxy.com CNAME .
+klcknerrip.com CNAME .
+*.klcknerrip.com CNAME .
 kproxy.com CNAME .
 *.kproxy.com CNAME .
 kproxysite.com CNAME .
@@ -1341,6 +1349,8 @@ napps-2.com CNAME .
 *.napps-2.com CNAME .
 needunblock.com CNAME .
 *.needunblock.com CNAME .
+netaltr.com CNAME .
+*.netaltr.com CNAME .
 netsneak.com CNAME .
 *.netsneak.com CNAME .
 newads-cdn.com CNAME .
@@ -1767,6 +1777,8 @@ securitales.com CNAME .
 *.securitales.com CNAME .
 securitykiss.com CNAME .
 *.securitykiss.com CNAME .
+sedirepseh.com CNAME .
+*.sedirepseh.com CNAME .
 selfadserver.com CNAME .
 *.selfadserver.com CNAME .
 serverhoya.com CNAME .
@@ -1827,6 +1839,8 @@ speedify.com CNAME .
 *.speedify.com CNAME .
 speedssh.com CNAME .
 *.speedssh.com CNAME .
+speedyth.com CNAME .
+*.speedyth.com CNAME .
 spicevpn.com CNAME .
 *.spicevpn.com CNAME .
 spyoff.com CNAME .
@@ -3205,6 +3219,8 @@ njal.la CNAME .
 *.njal.la CNAME .
 proxify.la CNAME .
 *.proxify.la CNAME .
+vpn.lat CNAME .
+*.vpn.lat CNAME .
 doh.li CNAME .
 *.doh.li CNAME .
 flashvpn.li CNAME .
@@ -3501,6 +3517,8 @@ chromeproxy.net CNAME .
 *.chromeproxy.net CNAME .
 dns.233py.com.cdn.cloudflare.net CNAME .
 *.dns.233py.com.cdn.cloudflare.net CNAME .
+d101vabyweqq2v.cloudfront.net CNAME .
+*.d101vabyweqq2v.cloudfront.net CNAME .
 d11nlh9luc38sm.cloudfront.net CNAME .
 *.d11nlh9luc38sm.cloudfront.net CNAME .
 d135re68iqn9un.cloudfront.net CNAME .
@@ -3511,6 +3529,8 @@ d1bshntecis4nt.cloudfront.net CNAME .
 *.d1bshntecis4nt.cloudfront.net CNAME .
 d1cu1v8rtmkdap.cloudfront.net CNAME .
 *.d1cu1v8rtmkdap.cloudfront.net CNAME .
+d1d8t5xydfxgeo.cloudfront.net CNAME .
+*.d1d8t5xydfxgeo.cloudfront.net CNAME .
 d1dxafvkz5efdk.cloudfront.net CNAME .
 *.d1dxafvkz5efdk.cloudfront.net CNAME .
 d1llq9kjmh5kle.cloudfront.net CNAME .
@@ -3539,6 +3559,10 @@ d2bt0exxr0npbv.cloudfront.net CNAME .
 *.d2bt0exxr0npbv.cloudfront.net CNAME .
 d2j70jcgnynkmz.cloudfront.net CNAME .
 *.d2j70jcgnynkmz.cloudfront.net CNAME .
+d2lc4c1pqsbcnb.cloudfront.net CNAME .
+*.d2lc4c1pqsbcnb.cloudfront.net CNAME .
+d2s11oshv6yhsg.cloudfront.net CNAME .
+*.d2s11oshv6yhsg.cloudfront.net CNAME .
 d2t530yk5s6ixp.cloudfront.net CNAME .
 *.d2t530yk5s6ixp.cloudfront.net CNAME .
 d2xl5j5majlxvm.cloudfront.net CNAME .
@@ -3963,6 +3987,8 @@ torservers.net CNAME .
 *.torservers.net CNAME .
 touchvpn.net CNAME .
 *.touchvpn.net CNAME .
+vpn-discovery.trafficmanager.net CNAME .
+*.vpn-discovery.trafficmanager.net CNAME .
 travelvpn.net CNAME .
 *.travelvpn.net CNAME .
 tubeunblock.net CNAME .
@@ -4619,6 +4645,8 @@ s4m.tech CNAME .
 *.s4m.tech CNAME .
 dns.startupstack.tech CNAME .
 *.dns.startupstack.tech CNAME .
+toppal.tech CNAME .
+*.toppal.tech CNAME .
 dns.zfsystem.tech CNAME .
 *.dns.zfsystem.tech CNAME .
 dns.kawa.tf CNAME .
