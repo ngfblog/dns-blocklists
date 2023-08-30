@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1693305180 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1693348440 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Aug 2023 10:33 UTC
-; Version: 2023.0829.1033.28
+; Last modified: 29 Aug 2023 22:34 UTC
+; Version: 2023.0829.2234.10
 ; Syntax: RPZ
 ; Number of entries: 5024
 ;
@@ -2357,6 +2357,8 @@ yxorproxy.com CNAME .
 *.yxorproxy.com CNAME .
 zacebookpk.com CNAME .
 *.zacebookpk.com CNAME .
+adguard.zachitect.com CNAME .
+*.adguard.zachitect.com CNAME .
 zagbit.com CNAME .
 *.zagbit.com CNAME .
 zalmos.com CNAME .
@@ -2413,8 +2415,6 @@ dns.novali.date CNAME .
 *.4proxy.de CNAME .
 auto-aufladen.de CNAME .
 *.auto-aufladen.de CNAME .
-adguard.bitteeinbyte.de CNAME .
-*.adguard.bitteeinbyte.de CNAME .
 chaos-system.de CNAME .
 *.chaos-system.de CNAME .
 ciproxy.de CNAME .
