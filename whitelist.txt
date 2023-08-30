@@ -100,6 +100,7 @@ d25xi40x97liuc.cloudfront.net
 # https://support.apple.com/en-us/HT210060
 *.apple-dns.net
 *.apple.com.akadns.net
+*-apple.com.akadns.net
 *.apple.com.edgekey.net
 *.apps.apple.com
 *.apps.apple.com.edgekey.net
@@ -4558,4 +4559,16 @@ br.eml.walgreens.com
 
 # https://github.com/hagezi/dns-blocklists/issues/1500
 *.rackcdn.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1497
+c.webengage.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1503
+bitgrip.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1504
+assets-global.website-files.com
+
+# Blablacar - breaks chat between carpoolers
+bla.api.appboy.eu
 

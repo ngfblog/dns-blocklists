@@ -38,7 +38,7 @@
 18. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - *Leave a star (top right)!*
 19. [Recommendation](#recommendation)
 20. [Online DNS Services](#dnsservices) : [RethinkDNS](#rethinkdns) - [DNSforge](#dnsforge) - [DNSwarden](#dnswarden) - [AdGuardDNS](#adguarddns) - [ControlD](#controld) - [NextDNS](#nextdns)
-21. [About](#about) : [Contact](#contact) - [Groups](#groups) - [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support)
+21. [About](#about) : [Contact](#contact) - [Groups](#groups) - [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support) - [Sponsors](#sponsors)
 22. [Statistics](statistics.md) - [Sources](sources.md) 
 23. [Mirror](https://gitlab.com/hagezi/mirror/-/tree/main/dns-blocklists) - *Mirrored files of the block lists on GitLab*
 
@@ -48,11 +48,11 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Domains<br>Compressed | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | [Native](#native) |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----------:|
-| [Light](#light)             | 539450<br>73832     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Normal](#normal)       | 823353<br>226070     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro](#pro)              | 885239<br>258759         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro++](#proplus)    | 1023686<br>319752 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
-| [Ultimate](#ultimate)    | 1333711<br>358916 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
+| [Light](#light)             | 539380<br>73605     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Normal](#normal)       | 826578<br>232943     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro](#pro)              | 878790<br>258920         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro++](#proplus)    | 998392<br>302230 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
+| [Ultimate](#ultimate)    | 1311332<br>341865 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
            
 :green_circle: contains the list named in the column caption       
 :yellow_square: partially contains the list named in the column caption       
@@ -63,7 +63,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *539450 domains/hosts - 73832 compressed domains*                    
+**Entries:** *539380 domains/hosts - 73605 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -81,7 +81,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *823353 domains/hosts - 226070 compressed domains*                   
+**Entries:** *826578 domains/hosts - 232943 compressed domains*                   
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -98,7 +98,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *885239 domains/hosts - 258759 compressed domains*                   
+**Entries:** *878790 domains/hosts - 258920 compressed domains*                   
            
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -117,7 +117,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1023686 domains/hosts - 319752 compressed domains*               
+**Entries:** *998392 domains/hosts - 302230 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -138,7 +138,7 @@
          
 ***NOTE:*** *META graph trackers are blocked in Ultimate. This restricts the use of Facebook/Instagram and Facebook Messenger. To use Facebook/Instagram with Ultimate, unblock the following domains: [META Tracker](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/share/facebook.txt)*
        
-**Entries:** *1333711 domains/hosts - 358916 compressed domains*               
+**Entries:** *1311332 domains/hosts - 341865 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -164,7 +164,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *14247 compressed domains*           
+**Entries:** *14236 compressed domains*           
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -188,7 +188,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1199032 domains/hosts - 695623 compressed domains*           
+**Entries:** *1206843 domains/hosts - 698982 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -219,7 +219,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *2512 compressed domains*           
+**Entries:** *2510 compressed domains*           
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -240,7 +240,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *857 domains/hosts - 731 compressed domains*           
+**Entries:** *855 domains/hosts - 729 compressed domains*           
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -314,7 +314,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *2025 compressed domains*                     
+**Entries:** *2026 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -358,7 +358,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *6984 compressed domains*                     
+**Entries:** *6991 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -382,7 +382,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *168990 compressed domains*                     
+**Entries:** *169082 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -406,7 +406,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *50309 compressed domains*                    
+**Entries:** *50379 compressed domains*                    
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -563,7 +563,15 @@ If these are blocked, the first hit links from search results, for example, no l
 *Help and cooperation of any kind is welcome!*
          
 ***Thanks for your support!***
-           
+
+---
+
+#### Sponsors <a name="sponsors"></a>
+
+***[DerMAp](https://github.com/DerMAp)***
+
+#### Stargazers <a name="stargazers"></a>
+
 [![Stargazers repo roster for @hagezi/dns-blocklists](https://reporoster.com/stars/dark/hagezi/dns-blocklists)](https://github.com/hagezi/dns-blocklists/stargazers)
            
 [![Star History Chart](https://api.star-history.com/svg?repos=hagezi/dns-blocklists&type=Date)](https://star-history.com/#hagezi/dns-blocklists&Date)
@@ -574,6 +582,6 @@ If these are blocked, the first hit links from search results, for example, no l
 
 ---
 
-[![https://gafam.info](https://github.com/hagezi/dns-blocklists/assets/104343908/4eda6a64-ab1c-4866-b8fd-3676b694df3f)](https://gafam.info)
+[![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-en-color-5x1-2560x.png)](https://gafam.info)
 
 ---

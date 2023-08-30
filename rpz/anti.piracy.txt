@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1693348800 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1693392120 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Aug 2023 22:40 UTC
-; Version: 2023.0829.2240.15
+; Last modified: 30 Aug 2023 10:42 UTC
+; Version: 2023.0830.1042.40
 ; Syntax: RPZ
-; Number of entries: 13968
+; Number of entries: 13982
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2976,6 +2976,8 @@ tracker.hdcmct.com CNAME .
 *.tracker.hdcmct.com CNAME .
 tracker.hddolby.com CNAME .
 *.tracker.hddolby.com CNAME .
+hddown.com CNAME .
+*.hddown.com CNAME .
 hdencode.com CNAME .
 *.hdencode.com CNAME .
 hdfrench.com CNAME .
@@ -7426,6 +7428,8 @@ divxhunt.me CNAME .
 *.divxhunt.me CNAME .
 duboku.me CNAME .
 *.duboku.me CNAME .
+dup3.me CNAME .
+*.dup3.me CNAME .
 epider.me CNAME .
 *.epider.me CNAME .
 euromovies.me CNAME .
@@ -8432,6 +8436,8 @@ gigapurbalingga.net CNAME .
 *.gigapurbalingga.net CNAME .
 gk-network.net CNAME .
 *.gk-network.net CNAME .
+gm-realm.net CNAME .
+*.gm-realm.net CNAME .
 goldpravda.net CNAME .
 *.goldpravda.net CNAME .
 bittorrent.gongt.net CNAME .
@@ -10124,6 +10130,8 @@ gay-area.org CNAME .
 *.gay-area.org CNAME .
 torrent.genesis-movement.org CNAME .
 *.torrent.genesis-movement.org CNAME .
+genesis-sp.org CNAME .
+*.genesis-sp.org CNAME .
 genvideos.org CNAME .
 *.genvideos.org CNAME .
 gettorrents.org CNAME .
@@ -11162,6 +11170,8 @@ exsites.pl CNAME .
 *.exsites.pl CNAME .
 fileland.pl CNAME .
 *.fileland.pl CNAME .
+hdbt.pl CNAME .
+*.hdbt.pl CNAME .
 hdseans.pl CNAME .
 *.hdseans.pl CNAME .
 megatorrent.pl CNAME .
@@ -11634,6 +11644,8 @@ retracker.nn.ertelecom.ru CNAME .
 *.retracker.nn.ertelecom.ru CNAME .
 retracker.perm.ertelecom.ru CNAME .
 *.retracker.perm.ertelecom.ru CNAME .
+evro-stroj.ru CNAME .
+*.evro-stroj.ru CNAME .
 f5q.ru CNAME .
 *.f5q.ru CNAME .
 fashion-factory.ru CNAME .
@@ -12832,6 +12844,8 @@ hdfilme.top CNAME .
 *.hdfilme.top CNAME .
 tracker.hdpost.top CNAME .
 *.tracker.hdpost.top CNAME .
+highteahop.top CNAME .
+*.highteahop.top CNAME .
 hulkpop.top CNAME .
 *.hulkpop.top CNAME .
 kickass2.top CNAME .
