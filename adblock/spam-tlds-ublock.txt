@@ -7,8 +7,8 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 25 Aug 2023 10:38 UTC
-! Version: 2023.0825.1038.27
+! Last modified: 30 Aug 2023 22:43 UTC
+! Version: 2023.0830.2243.44
 ! Syntax: uBlock
 !
 ||agency^$doc,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
@@ -43,6 +43,7 @@
 ||life^$doc,domain=~digitalcitizen.life|~stepone.life|~circles.life|~loveinfaith.life
 ||loan^$doc
 ||loans^$doc
+||makeup^$doc
 ||market^$doc,domain=~otto.market
 ||ml^$doc,domain=~aire.ml|~amap.ml|~beatbump.ml|~birdkey.ml|~debula.ml|~dmml.ml|~esparrec.ml|~exp0.ml|~fedi.ml|~fmhy.ml|~ghostcloud.ml|~google.ml|~guya.ml|~info-matin.ml|~kawauso.ml|~leam.ml|~lemmy.ml|~lemmygrad.ml|~lingva.ml|~loma.ml|~masto.ml|~mastodon.ml|~mastodonte.ml|~melody.ml|~nothingprivate.ml|~precure.ml|~prompt.ml|~stilic.ml|~sumanko.ml|~we-moon.ml
 ||mom^$doc
@@ -60,7 +61,7 @@
 ||review^$doc
 ||sbs^$doc
 ||skin^$doc
-||space^$doc,domain=~searx.space
+||space^$doc,domain=~searx.space|~ippen.space
 ||surf^$doc,domain=~bloom.surf|~fedi.surf|~glowing.surf|~kayaking.surf|~nic.surf|~quran.surf|~s-wings.surf|~surfstation.surf
 ||tk^$doc,domain=~adistance.tk|~bloatcat.tk|~bonzibuddy.tk|~bryla.tk|~bstweaker.tk|~budterence.tk|~c-r-t.tk|~c0d3c.tk|~censurion.tk|~china996.tk|~cuso.tk|~devhonk.tk|~dlyang.tk|~google.tk|~goshujin.tk|~gotofap.tk|~graph.tk|~grazziecorp.tk|~handicapped.tk|~heggadrone.tk|~helene.tk|~kabi.tk|~lameni.tk|~leroymcqy.tk|~loveisgrief.tk|~msqtdn.tk|~pube.tk|~rainer-zufall.tk|~sironi.tk|~takiverse.tk|~tokelau-info.tk|~webdev189.tk|~xn--qubec-csa.tk|~zete.tk
 ||tokyo^$doc

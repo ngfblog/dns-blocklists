@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1693392120 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1693435140 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 30 Aug 2023 10:42 UTC
-; Version: 2023.0830.1042.40
+; Last modified: 30 Aug 2023 22:39 UTC
+; Version: 2023.0830.2239.40
 ; Syntax: RPZ
-; Number of entries: 13982
+; Number of entries: 13988
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -12568,6 +12568,8 @@ kickasstorrents.to CNAME .
 *.kickasstorrents.to CNAME .
 kimcartoon.to CNAME .
 *.kimcartoon.to CNAME .
+kinomax.to CNAME .
+*.kinomax.to CNAME .
 kinos.to CNAME .
 *.kinos.to CNAME .
 kinox.to CNAME .
@@ -13192,6 +13194,8 @@ skvtorrent.at.ua CNAME .
 *.skvtorrent.at.ua CNAME .
 hdclub.com.ua CNAME .
 *.hdclub.com.ua CNAME .
+lossless.com.ua CNAME .
+*.lossless.com.ua CNAME .
 tracker.novage.com.ua CNAME .
 *.tracker.novage.com.ua CNAME .
 tracker.ex.ua CNAME .
@@ -13834,6 +13838,8 @@ ligaxxi.xyz CNAME .
 *.ligaxxi.xyz CNAME .
 limetorrent.xyz CNAME .
 *.limetorrent.xyz CNAME .
+limetorrents.xyz CNAME .
+*.limetorrents.xyz CNAME .
 opentracker.lingyurouqing.xyz CNAME .
 *.opentracker.lingyurouqing.xyz CNAME .
 mamahd.xyz CNAME .
