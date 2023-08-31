@@ -1,14 +1,14 @@
-$TTL 30
-@ SOA rpz.hagezi.native.winoffice. hostmaster.hagezi.native.winoffice. 1687418880 86400 3600 604800 30
- NS localhost.
+$TTL 300
+@ SOA localhost. root.localhost. 1693482720 43200 3600 259200 300
+  NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
 ; Description: Blocks Windows/Office native broadband tracker that track your activity.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Jun 2023 07:28 UTC
-; Version: 2023.0622.0728.53
+; Last modified: 31 Aug 2023 11:52 UTC
+; Version: 2023.0831.1152.19
 ; Syntax: RPZ
 ; Number of entries: 164
 ;

@@ -1,14 +1,14 @@
-$TTL 30
-@ SOA rpz.hagezi.native.tiktok.extended. hostmaster.hagezi.native.tiktok.extended. 1692615000 86400 3600 604800 30
- NS localhost.
+$TTL 300
+@ SOA localhost. root.localhost. 1693483080 43200 3600 259200 300
+  NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
 ; Description: Aggressive verion, may interfere with functionality. Blocks TikTok fingerprinting/tracker that track your activity.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 21 Aug 2023 10:50 UTC
-; Version: 2023.0821.1050.49
+; Last modified: 31 Aug 2023 11:58 UTC
+; Version: 2023.0831.1158.49
 ; Syntax: RPZ
 ; Number of entries: 766
 ;

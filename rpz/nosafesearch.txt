@@ -1,14 +1,14 @@
-$TTL 30
-@ SOA rpz.hagezi.nosafesearch. hostmaster.hagezi.nosafesearch. 1692571080 86400 3600 604800 30
- NS localhost.
+$TTL 300
+@ SOA localhost. root.localhost. 1693481400 43200 3600 259200 300
+  NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
 ; Description: Prevents the use of search engines that do not support safesearch.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 20 Aug 2023 22:38 UTC
-; Version: 2023.0820.2238.17
+; Last modified: 31 Aug 2023 11:30 UTC
+; Version: 2023.0831.1130.07
 ; Syntax: RPZ
 ; Number of entries: 532
 ;

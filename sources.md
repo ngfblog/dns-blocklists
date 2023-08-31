@@ -364,6 +364,7 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/clickbait_domains.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
 https://raw.githubusercontent.com/iam-py-test/vxvault_filter/main/domains_file.txt
+https://raw.githubusercontent.com/ihgalis/pihole_collection/master/antimalwarephishing.txt
 https://raw.githubusercontent.com/ihgalis/pihole_collection/master/malwaredomainlist_hostlist_cleaned.txt
 https://raw.githubusercontent.com/ihgalis/pihole_collection/master/Microsoft_Phishing_Collection
 https://raw.githubusercontent.com/ihgalis/pihole_collection/master/NextRay_AI_Domains
@@ -509,6 +510,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malw
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mandiant.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-matomo.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mcafee.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-meta.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-microsoft.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-misc.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangecyber.txt

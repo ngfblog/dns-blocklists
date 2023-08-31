@@ -1,16 +1,16 @@
-$TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1693435140 86400 3600 604800 30
- NS localhost.
+$TTL 300
+@ SOA localhost. root.localhost. 1693482060 43200 3600 259200 300
+  NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
 ; Description: Blocks websites and services that are mainly used for illegal distribution of copyrighted content.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 30 Aug 2023 22:39 UTC
-; Version: 2023.0830.2239.40
+; Last modified: 31 Aug 2023 11:41 UTC
+; Version: 2023.0831.1141.39
 ; Syntax: RPZ
-; Number of entries: 13988
+; Number of entries: 14002
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -3930,6 +3930,8 @@ patchsoftwares.com CNAME .
 *.patchsoftwares.com CNAME .
 patup.com CNAME .
 *.patup.com CNAME .
+paulamues.com CNAME .
+*.paulamues.com CNAME .
 pbproxy.com CNAME .
 *.pbproxy.com CNAME .
 cn.pcfreetime.com CNAME .
@@ -6408,6 +6410,8 @@ mxplayer.in CNAME .
 *.mxplayer.in CNAME .
 ntrace.in CNAME .
 *.ntrace.in CNAME .
+nullednow.in CNAME .
+*.nullednow.in CNAME .
 toplist.oxyd.in CNAME .
 *.toplist.oxyd.in CNAME .
 pahe.in CNAME .
@@ -9606,6 +9610,8 @@ pelisplus.online CNAME .
 *.pelisplus.online CNAME .
 pirate-bay.online CNAME .
 *.pirate-bay.online CNAME .
+piratebaylive.online CNAME .
+*.piratebaylive.online CNAME .
 rarbg-torrent.online CNAME .
 *.rarbg-torrent.online CNAME .
 revenge-of-usenet.online CNAME .
@@ -10344,6 +10350,8 @@ megapeer.org CNAME .
 *.megapeer.org CNAME .
 megatorrents.org CNAME .
 *.megatorrents.org CNAME .
+megatorrentshd.org CNAME .
+*.megatorrentshd.org CNAME .
 mejortorrentt.org CNAME .
 *.mejortorrentt.org CNAME .
 mesfichiers.org CNAME .
@@ -10404,6 +10412,8 @@ mp4hdmovies.org CNAME .
 *.mp4hdmovies.org CNAME .
 mvgroup.org CNAME .
 *.mvgroup.org CNAME .
+mybadbits.org CNAME .
+*.mybadbits.org CNAME .
 mybite.org CNAME .
 *.mybite.org CNAME .
 f4cineplex.myftp.org CNAME .
@@ -10466,6 +10476,8 @@ nsw2u.org CNAME .
 *.nsw2u.org CNAME .
 nulledwarez.org CNAME .
 *.nulledwarez.org CNAME .
+nxtgn.org CNAME .
+*.nxtgn.org CNAME .
 nyaatorrents.org CNAME .
 *.nyaatorrents.org CNAME .
 nfo.nydus.org CNAME .
@@ -12634,6 +12646,8 @@ mp3juice.to CNAME .
 *.mp3juice.to CNAME .
 mp3juices.to CNAME .
 *.mp3juices.to CNAME .
+mp3skulls.to CNAME .
+*.mp3skulls.to CNAME .
 myauto.to CNAME .
 *.myauto.to CNAME .
 myflixer.to CNAME .

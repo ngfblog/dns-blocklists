@@ -1,14 +1,14 @@
-$TTL 30
-@ SOA rpz.hagezi.native.lgwebos. hostmaster.hagezi.native.lgwebos. 1688247300 86400 3600 604800 30
- NS localhost.
+$TTL 300
+@ SOA localhost. root.localhost. 1693483200 43200 3600 259200 300
+  NS  localhost.
 ;
 ; Title: HaGeZi's LG webOS Tracker DNS Blocklist
 ; Description: Blocks LG webOS native broadband tracker that track your activity.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 01 Jul 2023 21:35 UTC
-; Version: 2023.0701.2135.40
+; Last modified: 31 Aug 2023 12:00 UTC
+; Version: 2023.0831.1200.53
 ; Syntax: RPZ
 ; Number of entries: 20
 ;

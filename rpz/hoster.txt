@@ -1,16 +1,16 @@
-$TTL 30
-@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1693392000 86400 3600 604800 30
- NS localhost.
+$TTL 300
+@ SOA localhost. root.localhost. 1693481940 43200 3600 259200 300
+  NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
 ; Description: Blocks known free hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 30 Aug 2023 10:40 UTC
-; Version: 2023.0830.1040.55
+; Last modified: 31 Aug 2023 11:39 UTC
+; Version: 2023.0831.1139.03
 ; Syntax: RPZ
-; Number of entries: 4052
+; Number of entries: 4050
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1680,8 +1680,6 @@ wordpress.com CNAME .
 *.wordpress.com CNAME .
 worldblogged.com CNAME .
 *.worldblogged.com CNAME .
-wp.com CNAME .
-*.wp.com CNAME .
 wpengine.com CNAME .
 *.wpengine.com CNAME .
 wpenginepowered.com CNAME .

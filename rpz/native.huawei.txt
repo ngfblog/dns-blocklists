@@ -1,16 +1,16 @@
-$TTL 30
-@ SOA rpz.hagezi.native.huawei. hostmaster.hagezi.native.huawei. 1692484740 86400 3600 604800 30
- NS localhost.
+$TTL 300
+@ SOA localhost. root.localhost. 1693482780 43200 3600 259200 300
+  NS  localhost.
 ;
 ; Title: HaGeZi's Huawei Tracker DNS Blocklist
 ; Description: Blocks Huawei native broadband tracker that track your activity.
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 19 Aug 2023 22:39 UTC
-; Version: 2023.0819.2239.15
+; Last modified: 31 Aug 2023 11:53 UTC
+; Version: 2023.0831.1153.52
 ; Syntax: RPZ
-; Number of entries: 122
+; Number of entries: 124
 ;
 grs.dbankcloud.asia CNAME .
 *.grs.dbankcloud.asia CNAME .
@@ -124,6 +124,8 @@ logservice-dre.platform.hicloud.com CNAME .
 *.logservice-dre.platform.hicloud.com CNAME .
 servicesupport.hicloud.com CNAME .
 *.servicesupport.hicloud.com CNAME .
+grs.dbankcloud.eu CNAME .
+*.grs.dbankcloud.eu CNAME .
 adx-dre.op.dbankcloud.com.edgekey.net CNAME .
 *.adx-dre.op.dbankcloud.com.edgekey.net CNAME .
 datacollector-drru.dt.dbankcloud.ru CNAME .
