@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1693522320 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1693565520 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 31 Aug 2023 22:52 UTC
-; Version: 2023.0831.2252.14
+; Last modified: 01 Sep 2023 10:52 UTC
+; Version: 2023.0901.1052.30
 ; Syntax: RPZ
-; Number of entries: 14012
+; Number of entries: 14022
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -494,6 +494,8 @@ thegeeks.bz CNAME .
 *.thegeeks.bz CNAME .
 theoccult.bz CNAME .
 *.theoccult.bz CNAME .
+theplace.bz CNAME .
+*.theplace.bz CNAME .
 thevault.bz CNAME .
 *.thevault.bz CNAME .
 tracker.bz CNAME .
@@ -1028,6 +1030,8 @@ streamwoop.club CNAME .
 *.streamwoop.club CNAME .
 todori.club CNAME .
 *.todori.club CNAME .
+watchtvseries.unblckd.club CNAME .
+*.watchtvseries.unblckd.club CNAME .
 vod78d.club CNAME .
 *.vod78d.club CNAME .
 ytsyify.club CNAME .
@@ -4994,6 +4998,8 @@ torrentvalley.com CNAME .
 *.torrentvalley.com CNAME .
 torrentvery.com CNAME .
 *.torrentvery.com CNAME .
+torrentvibes.com CNAME .
+*.torrentvibes.com CNAME .
 torrentvideos.com CNAME .
 *.torrentvideos.com CNAME .
 torrentway.com CNAME .
@@ -9186,6 +9192,8 @@ torrent-damage.net CNAME .
 *.torrent-damage.net CNAME .
 torrent-team.net CNAME .
 *.torrent-team.net CNAME .
+torrent-tracks.net CNAME .
+*.torrent-tracks.net CNAME .
 torrent-windows.net CNAME .
 *.torrent-windows.net CNAME .
 torrent69.net CNAME .
@@ -13518,6 +13526,8 @@ rojadirecta.watch CNAME .
 *.rojadirecta.watch CNAME .
 www1.sflix.watch CNAME .
 *.www1.sflix.watch CNAME .
+vmovee.watch CNAME .
+*.vmovee.watch CNAME .
 123movies.website CNAME .
 *.123movies.website CNAME .
 fzmovies.website CNAME .
