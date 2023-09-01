@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1693482060 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1693522320 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 31 Aug 2023 11:41 UTC
-; Version: 2023.0831.1141.39
+; Last modified: 31 Aug 2023 22:52 UTC
+; Version: 2023.0831.2252.14
 ; Syntax: RPZ
-; Number of entries: 14002
+; Number of entries: 14012
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -378,6 +378,8 @@ t.overflow.biz CNAME .
 *.t.overflow.biz CNAME .
 sandrotracker.biz CNAME .
 *.sandrotracker.biz CNAME .
+soap2day.biz CNAME .
+*.soap2day.biz CNAME .
 stadium-live.biz CNAME .
 *.stadium-live.biz CNAME .
 telikas.biz CNAME .
@@ -7222,6 +7224,8 @@ rarbg.live CNAME .
 *.rarbg.live CNAME .
 realstation.live CNAME .
 *.realstation.live CNAME .
+s-flix.live CNAME .
+*.s-flix.live CNAME .
 fs.satrong.live CNAME .
 *.fs.satrong.live CNAME .
 sport365.live CNAME .
@@ -8904,6 +8908,8 @@ racinghd.net CNAME .
 *.racinghd.net CNAME .
 radiantbd.net CNAME .
 *.radiantbd.net CNAME .
+rahulenterprise.net CNAME .
+*.rahulenterprise.net CNAME .
 rapidgator.net CNAME .
 *.rapidgator.net CNAME .
 rarbgtorrent.net CNAME .
@@ -9612,6 +9618,8 @@ pirate-bay.online CNAME .
 *.pirate-bay.online CNAME .
 piratebaylive.online CNAME .
 *.piratebaylive.online CNAME .
+putlockerss.online CNAME .
+*.putlockerss.online CNAME .
 rarbg-torrent.online CNAME .
 *.rarbg-torrent.online CNAME .
 revenge-of-usenet.online CNAME .
@@ -10706,6 +10714,8 @@ seedler.org CNAME .
 *.seedler.org CNAME .
 bigfoot1942.sektori.org CNAME .
 *.bigfoot1942.sektori.org CNAME .
+soysta-fr1.dev.sercomkc.org CNAME .
+*.soysta-fr1.dev.sercomkc.org CNAME .
 serialkeysfree.org CNAME .
 *.serialkeysfree.org CNAME .
 serialnews.org CNAME .

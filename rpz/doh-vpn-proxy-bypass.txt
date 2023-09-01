@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1693481460 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1693522020 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 31 Aug 2023 11:31 UTC
-; Version: 2023.0831.1131.28
+; Last modified: 31 Aug 2023 22:47 UTC
+; Version: 2023.0831.2247.05
 ; Syntax: RPZ
-; Number of entries: 5024
+; Number of entries: 5030
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1831,6 +1831,8 @@ snowproxy.com CNAME .
 *.snowproxy.com CNAME .
 free-vpn.en.softonic.com CNAME .
 *.free-vpn.en.softonic.com CNAME .
+sourceproxy.com CNAME .
+*.sourceproxy.com CNAME .
 spanproxy.com CNAME .
 *.spanproxy.com CNAME .
 sparklabs.com CNAME .
@@ -3905,6 +3907,8 @@ protonvpn.net CNAME .
 *.protonvpn.net CNAME .
 proxify.net CNAME .
 *.proxify.net CNAME .
+proxii.net CNAME .
+*.proxii.net CNAME .
 proxite.net CNAME .
 *.proxite.net CNAME .
 proxy-hypo.net CNAME .
@@ -3945,6 +3949,8 @@ dns9.quad9.net CNAME .
 *.2.dnscrypt-cert.quad9.net CNAME .
 resolver.r0cket.net CNAME .
 *.resolver.r0cket.net CNAME .
+remotevpn.net CNAME .
+*.remotevpn.net CNAME .
 riseup.net CNAME .
 *.riseup.net CNAME .
 dns.rotunneling.net CNAME .

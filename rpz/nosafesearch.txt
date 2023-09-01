@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1693481400 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1693521900 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 31 Aug 2023 11:30 UTC
-; Version: 2023.0831.1130.07
+; Last modified: 31 Aug 2023 22:45 UTC
+; Version: 2023.0831.2245.48
 ; Syntax: RPZ
-; Number of entries: 532
+; Number of entries: 536
 ;
 searx.32bitflo.at CNAME .
 *.searx.32bitflo.at CNAME .
@@ -72,6 +72,8 @@ search.brave.com CNAME .
 *.search.brave.com CNAME .
 dogpile.com CNAME .
 *.dogpile.com CNAME .
+searx.dojocasts.com CNAME .
+*.searx.dojocasts.com CNAME .
 results.excite.com CNAME .
 *.results.excite.com CNAME .
 gibiru.com CNAME .
@@ -418,6 +420,8 @@ ecosia.org CNAME .
 *.ecosia.org CNAME .
 searx.everdot.org CNAME .
 *.searx.everdot.org CNAME .
+searx.feneas.org CNAME .
+*.searx.feneas.org CNAME .
 searx.fossencdi.org CNAME .
 *.searx.fossencdi.org CNAME .
 search.garudalinux.org CNAME .
