@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1693780860 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1693823640 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Sep 2023 22:41 UTC
-; Version: 2023.0903.2241.23
+; Last modified: 04 Sep 2023 10:34 UTC
+; Version: 2023.0904.1034.42
 ; Syntax: RPZ
-; Number of entries: 28740
+; Number of entries: 28746
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1636,6 +1636,8 @@ origin.tnail.cc CNAME .
 *.origin.tnail.cc CNAME .
 vatlab.cc CNAME .
 *.vatlab.cc CNAME .
+vetoro.cc CNAME .
+*.vetoro.cc CNAME .
 alfinanz.ch CNAME .
 *.alfinanz.ch CNAME .
 apotheke-rezeptfrei.ch CNAME .
@@ -2020,8 +2022,6 @@ neespresso.coffee CNAME .
 *.7-order.com CNAME .
 77unishop.com CNAME .
 *.77unishop.com CNAME .
-7laced.com CNAME .
-*.7laced.com CNAME .
 90sfootwear.com CNAME .
 *.90sfootwear.com CNAME .
 a-a-jozefowski.com CNAME .
@@ -2998,8 +2998,8 @@ azfancy.com CNAME .
 *.azfancy.com CNAME .
 azioniassets.com CNAME .
 *.azioniassets.com CNAME .
-store.azitecs.com CNAME .
-*.store.azitecs.com CNAME .
+azitecs.com CNAME .
+*.azitecs.com CNAME .
 azonicdentures.com CNAME .
 *.azonicdentures.com CNAME .
 azvclothing.com CNAME .
@@ -4404,8 +4404,8 @@ charmbean.com CNAME .
 *.charmbean.com CNAME .
 charmingpaul.com CNAME .
 *.charmingpaul.com CNAME .
-store.charmsection.com CNAME .
-*.store.charmsection.com CNAME .
+charmsection.com CNAME .
+*.charmsection.com CNAME .
 chartistake.com CNAME .
 *.chartistake.com CNAME .
 chaserclothes.com CNAME .
@@ -4808,6 +4808,8 @@ coin-masterpro.com CNAME .
 *.coin-masterpro.com CNAME .
 coinaps.com CNAME .
 *.coinaps.com CNAME .
+coinreq.com CNAME .
+*.coinreq.com CNAME .
 coinstuart.com CNAME .
 *.coinstuart.com CNAME .
 coleyz.com CNAME .
@@ -6878,8 +6880,6 @@ faze77.com CNAME .
 *.faze77.com CNAME .
 faze80.com CNAME .
 *.faze80.com CNAME .
-store.faze87.com CNAME .
-*.store.faze87.com CNAME .
 faze88.com CNAME .
 *.faze88.com CNAME .
 faze90.com CNAME .
@@ -10474,6 +10474,8 @@ lunabfashion.com CNAME .
 *.lunabfashion.com CNAME .
 smartphonepeak.lunakebe.com CNAME .
 *.smartphonepeak.lunakebe.com CNAME .
+lunapresent.com CNAME .
+*.lunapresent.com CNAME .
 lunia-store.com CNAME .
 *.lunia-store.com CNAME .
 lusibikini.com CNAME .
@@ -11410,8 +11412,6 @@ myfaifo.com CNAME .
 *.myfaifo.com CNAME .
 de.myfaktory.com CNAME .
 *.de.myfaktory.com CNAME .
-myfunfarm.com CNAME .
-*.myfunfarm.com CNAME .
 myglobalcheck.com CNAME .
 *.myglobalcheck.com CNAME .
 myhomica.com CNAME .
@@ -11668,8 +11668,6 @@ navi4.com CNAME .
 *.navi4.com CNAME .
 navi40.com CNAME .
 *.navi40.com CNAME .
-navi41.com CNAME .
-*.navi41.com CNAME .
 navi43.com CNAME .
 *.navi43.com CNAME .
 navi47.com CNAME .
@@ -11680,8 +11678,6 @@ navi50.com CNAME .
 *.navi50.com CNAME .
 navi54.com CNAME .
 *.navi54.com CNAME .
-navi55.com CNAME .
-*.navi55.com CNAME .
 navi56.com CNAME .
 *.navi56.com CNAME .
 navi6.com CNAME .
@@ -13408,8 +13404,8 @@ piaify.com CNAME .
 *.piaify.com CNAME .
 picboil.com CNAME .
 *.picboil.com CNAME .
-store.pickablegift.com CNAME .
-*.store.pickablegift.com CNAME .
+pickablegift.com CNAME .
+*.pickablegift.com CNAME .
 pickleball-selkirk.com CNAME .
 *.pickleball-selkirk.com CNAME .
 pickledfoodonline.com CNAME .
@@ -15354,6 +15350,8 @@ shiftbrakeleverde.com CNAME .
 *.shiftbrakeleverde.com CNAME .
 shimanopart.com CNAME .
 *.shimanopart.com CNAME .
+shinezily.com CNAME .
+*.shinezily.com CNAME .
 shingekishop.com CNAME .
 *.shingekishop.com CNAME .
 shinness.com CNAME .
@@ -17904,6 +17902,8 @@ trappingsnewfad.com CNAME .
 *.trappingsnewfad.com CNAME .
 travisscottofficial.com CNAME .
 *.travisscottofficial.com CNAME .
+treasurefan.com CNAME .
+*.treasurefan.com CNAME .
 treatstoreweb.com CNAME .
 *.treatstoreweb.com CNAME .
 treatysure.com CNAME .
@@ -19858,6 +19858,8 @@ zuseety.com CNAME .
 *.zuseety.com CNAME .
 zvfashions.com CNAME .
 *.zvfashions.com CNAME .
+zweirad-ws.com CNAME .
+*.zweirad-ws.com CNAME .
 zwillingmesserverkauf.com CNAME .
 *.zwillingmesserverkauf.com CNAME .
 money-sustemftd.cyou CNAME .
@@ -20876,8 +20878,6 @@ disneymode.de CNAME .
 *.disneymode.de CNAME .
 disnmarke.de CNAME .
 *.disnmarke.de CNAME .
-dius-institut.de CNAME .
-*.dius-institut.de CNAME .
 dj-kumo.de CNAME .
 *.dj-kumo.de CNAME .
 doc-hygiene.de CNAME .
@@ -21986,6 +21986,8 @@ kaufbrennholz.de CNAME .
 *.kaufbrennholz.de CNAME .
 kaufdisney.de CNAME .
 *.kaufdisney.de CNAME .
+kaufen-markt.de CNAME .
+*.kaufen-markt.de CNAME .
 kauflusts.de CNAME .
 *.kauflusts.de CNAME .
 kaufsnow.de CNAME .
@@ -23242,6 +23244,8 @@ rromaakt.de CNAME .
 *.rromaakt.de CNAME .
 rsf-services.de CNAME .
 *.rsf-services.de CNAME .
+rsshagen.de CNAME .
+*.rsshagen.de CNAME .
 rub-guben.de CNAME .
 *.rub-guben.de CNAME .
 rucksackedeuter.de CNAME .
@@ -24000,6 +24004,8 @@ ventatech.de CNAME .
 *.ventatech.de CNAME .
 veralo.de CNAME .
 *.veralo.de CNAME .
+verios-gaming.de CNAME .
+*.verios-gaming.de CNAME .
 verkauf-kaminholz.de CNAME .
 *.verkauf-kaminholz.de CNAME .
 verkaufre.de CNAME .
@@ -24664,6 +24670,8 @@ elektriker.fink24.info CNAME .
 *.elektriker.fink24.info CNAME .
 frest.info CNAME .
 *.frest.info CNAME .
+gload.info CNAME .
+*.gload.info CNAME .
 handlemylife.info CNAME .
 *.handlemylife.info CNAME .
 heyhome.info CNAME .
@@ -24714,8 +24722,6 @@ instant-e-app-for-campaign.github.io CNAME .
 *.instant-e-app-for-campaign.github.io CNAME .
 goldreward.io CNAME .
 *.goldreward.io CNAME .
-kielorelief.io CNAME .
-*.kielorelief.io CNAME .
 maller.io CNAME .
 *.maller.io CNAME .
 muskbot.io CNAME .
@@ -27306,6 +27312,8 @@ smartproduct.site CNAME .
 *.smartproduct.site CNAME .
 southeastern.site CNAME .
 *.southeastern.site CNAME .
+store.spacex-live.site CNAME .
+*.store.spacex-live.site CNAME .
 ttennr.site CNAME .
 *.ttennr.site CNAME .
 puma-tenisky.sk CNAME .
@@ -28414,8 +28422,6 @@ polkjy.co.uk CNAME .
 *.polkjy.co.uk CNAME .
 risingsunsheffield.co.uk CNAME .
 *.risingsunsheffield.co.uk CNAME .
-royalkingsmail.co.uk CNAME .
-*.royalkingsmail.co.uk CNAME .
 soluctech.co.uk CNAME .
 *.soluctech.co.uk CNAME .
 stylegift.co.uk CNAME .
