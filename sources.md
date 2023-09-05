@@ -2,6 +2,7 @@
 *Sources that were investigated and partially used for compiling the block lists. Every source has its own license, for the individual licenses see the source files or source repositories:*
 ```
 https://abpvn.com/android/abpvn.txt
+https://abpvn.com/filter/abpvn-6gNchG.txt
 https://adaway.org/hosts.txt
 https://adblock.ee/list.php
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1693823640 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1693866720 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Sep 2023 10:34 UTC
-; Version: 2023.0904.1034.42
+; Last modified: 04 Sep 2023 22:32 UTC
+; Version: 2023.0904.2232.03
 ; Syntax: RPZ
-; Number of entries: 28746
+; Number of entries: 28748
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -24694,6 +24694,8 @@ vndance.info CNAME .
 *.vndance.info CNAME .
 wormin.info CNAME .
 *.wormin.info CNAME .
+shre.ink CNAME .
+*.shre.ink CNAME .
 2xtsla.io CNAME .
 *.2xtsla.io CNAME .
 besteuhren.io CNAME .
