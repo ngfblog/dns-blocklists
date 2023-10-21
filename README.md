@@ -617,7 +617,7 @@ If these are blocked, the first hit links from search results, for example, no l
                                   
 *If you like the project and you can benefit from it, leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)!* 
                                 
-*Give feedback, show me your ideas, report domains to be blocked, report false positve domains and help to keep the internet safe and clean.*               
+*Give feedback, show me your ideas, report domains to be blocked, report false positive domains and help to keep the internet safe and clean.*               
 *Help and cooperation of any kind is welcome!*
          
 ***Thanks for your support!***
