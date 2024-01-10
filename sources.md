@@ -45,7 +45,6 @@ https://iosprivacy.com/ivoid/raw/iVOID.hosts
 https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
 https://malware-filter.gitlab.io/malware-filter/vn-badsite-filter-hosts.txt
-https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
