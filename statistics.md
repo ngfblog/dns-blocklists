@@ -1,10 +1,10 @@
 ### Statistics
 #### LIGHT
 ```
-218109 (87%) included | 9054 (4%) removed | 22419 (9%) dead
+216870 (88%) included | 6298 (3%) removed | 21945 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |      89% |   5% |      6% |  135179 | Personal
+  1 |      91% |   5% |      4% |  131919 | Personal
   2 |      66% |   8% |     26% |    4785 | Extracted Wildcard Rules
   3 |     100% |   0% |      0% |     927 | Threat Intelligence Feeds Light
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
@@ -13,16 +13,16 @@
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |      62% |   0% |     38% |     239 | Native Tracker TikTok (Fingerprinting)
   9 |      13% |   0% |     87% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      71% |   5% |     24% |    8728 | Denylist Base
+ 10 |      85% |   5% |     10% |    8728 | Denylist Base
  11 |      95% |   0% |      5% |    3785 | Basic Extension
 ```
 #### MULTI
 ```
-740371 (87%) included | 29468 (3%) removed | 77198 (9%) dead
+721191 (87%) included | 26990 (3%) removed | 76423 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  218109 | Predecessor: Multi Light
-  2 |      91% |   5% |      4% |  135179 | Personal
+  1 |     100% |   0% |      0% |  216870 | Predecessor: Multi Light
+  2 |      91% |   5% |      4% |  131919 | Personal
   3 |      66% |   8% |     26% |    4785 | Extracted Wildcard Rules
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      70% |   0% |     30% |     345 | Native Tracker Amazon (Devices, Shopping, Video)
@@ -38,7 +38,7 @@
  15 |      85% |  14% |      1% |    5350 | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% |    6496 | Threat Intelligence Feeds Medium
  17 |      79% |  16% |      5% |   30103 | Analytics/Metrics Extension
- 18 |      91% |   0% |      9% |   91749 | Balanced Extension
+ 18 |     100% |   0% |      0% |   40658 | Balanced Extension
 ```
 #### PRO
 ```
