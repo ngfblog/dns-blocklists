@@ -1,10 +1,10 @@
 ### Statistics
 #### LIGHT
 ```
-224008 (89%) included | 5470 (2%) removed | 22411 (9%) dead
+218109 (87%) included | 9054 (4%) removed | 22419 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |      91% |   5% |      4% |  135179 | Personal
+  1 |      89% |   5% |      6% |  135179 | Personal
   2 |      66% |   8% |     26% |    4785 | Extracted Wildcard Rules
   3 |     100% |   0% |      0% |     927 | Threat Intelligence Feeds Light
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
@@ -13,15 +13,15 @@
   7 |      93% |   0% |      7% |      59 | Native Tracker LG webOS
   8 |      62% |   0% |     38% |     239 | Native Tracker TikTok (Fingerprinting)
   9 |      13% |   0% |     87% |     191 | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      86% |   5% |      9% |    8728 | Denylist Base
+ 10 |      71% |   5% |     24% |    8728 | Denylist Base
  11 |      95% |   0% |      5% |    3785 | Basic Extension
 ```
 #### MULTI
 ```
-753942 (89%) included | 18241 (2%) removed | 77180 (9%) dead
+740371 (87%) included | 29468 (3%) removed | 77198 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  224008 | Predecessor: Multi Light
+  1 |     100% |   0% |      0% |  218109 | Predecessor: Multi Light
   2 |      91% |   5% |      4% |  135179 | Personal
   3 |      66% |   8% |     26% |    4785 | Extracted Wildcard Rules
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
@@ -33,12 +33,12 @@
  10 |      86% |   5% |      9% |    8728 | Denylist Base
  11 |      95% |   0% |      5% |    3785 | Basic Extension
  12 |     100% |   0% |      0% |    4907 | Fake Light
- 13 |      85% |  11% |      4% |  125000 | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
- 14 |      78% |  14% |      8% |  174914 | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 13 |      77% |  11% |     12% |  125000 | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
+ 14 |      72% |  14% |     14% |  174914 | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      85% |  14% |      1% |    5350 | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |     100% |   0% |      0% |    6496 | Threat Intelligence Feeds Medium
  17 |      79% |  16% |      5% |   30103 | Analytics/Metrics Extension
- 18 |      94% |   0% |      6% |   91749 | Balanced Extension
+ 18 |      91% |   0% |      9% |   91749 | Balanced Extension
 ```
 #### PRO
 ```
