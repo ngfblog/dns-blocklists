@@ -45,6 +45,7 @@ https://iosprivacy.com/ivoid/raw/iVOID.hosts
 https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
 https://malware-filter.gitlab.io/malware-filter/vn-badsite-filter-hosts.txt
+https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
@@ -53,9 +54,6 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites_justdomains.txt
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
