@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1704927480 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705013520 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 10 Jan 2024 22:58 UTC
-; Version: 2024.0110.2258.24
+; Last modified: 11 Jan 2024 22:52 UTC
+; Version: 2024.0111.2252.47
 ; Syntax: RPZ
-; Number of entries: 1660
+; Number of entries: 1654
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -343,8 +343,6 @@ dns.emiliyan.com CNAME .
 *.dns.emiliyan.com CNAME .
 gclouddns.com CNAME .
 *.gclouddns.com CNAME .
-dns.glorydns.com CNAME .
-*.dns.glorydns.com CNAME .
 doh-primary-pool.goodbyegambling.com CNAME .
 *.doh-primary-pool.goodbyegambling.com CNAME .
 dns.google.com CNAME .
@@ -1585,8 +1583,6 @@ adguard.shuting.idv.tw CNAME .
 *.adguard.shuting.idv.tw CNAME .
 dns.twnic.tw CNAME .
 *.dns.twnic.tw CNAME .
-dns.ha-dvin.pp.ua CNAME .
-*.dns.ha-dvin.pp.ua CNAME .
 lindung.pp.ua CNAME .
 *.lindung.pp.ua CNAME .
 virga.pp.ua CNAME .
@@ -1649,8 +1645,6 @@ ivnkn.xyz CNAME .
 *.ivnkn.xyz CNAME .
 tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
-adguard.kantinyoyok.xyz CNAME .
-*.adguard.kantinyoyok.xyz CNAME .
 dns.nixnet.xyz CNAME .
 *.dns.nixnet.xyz CNAME .
 lux1.nixnet.xyz CNAME .
