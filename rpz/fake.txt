@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705015140 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705102560 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Jan 2024 23:19 UTC
-; Version: 2024.0111.2319.40
+; Last modified: 12 Jan 2024 23:36 UTC
+; Version: 2024.0112.2336.53
 ; Syntax: RPZ
-; Number of entries: 28584
+; Number of entries: 28586
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -5656,8 +5656,6 @@ europatradecapital.com CNAME .
 *.europatradecapital.com CNAME .
 europe-electro-shop.com CNAME .
 *.europe-electro-shop.com CNAME .
-bmw.europe-moto.com CNAME .
-*.bmw.europe-moto.com CNAME .
 europe-solarstore.com CNAME .
 *.europe-solarstore.com CNAME .
 europeangeneric.com CNAME .
@@ -26374,6 +26372,8 @@ brandi-amsterdam.nl CNAME .
 *.brandi-amsterdam.nl CNAME .
 centralsport.nl CNAME .
 *.centralsport.nl CNAME .
+chantal-modehuis.nl CNAME .
+*.chantal-modehuis.nl CNAME .
 defianna.nl CNAME .
 *.defianna.nl CNAME .
 divingshop.nl CNAME .
@@ -26426,6 +26426,8 @@ modi-boutique.nl CNAME .
 *.modi-boutique.nl CNAME .
 modi-winkel.nl CNAME .
 *.modi-winkel.nl CNAME .
+montigusto.nl CNAME .
+*.montigusto.nl CNAME .
 morii.nl CNAME .
 *.morii.nl CNAME .
 mounh.nl CNAME .
