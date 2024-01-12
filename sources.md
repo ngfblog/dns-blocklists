@@ -54,6 +54,9 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites_justdomains.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
@@ -126,6 +129,9 @@ https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.tx
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt
 https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
 https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/tamago_filter.txt
@@ -212,7 +218,6 @@ https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/publici
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/vpn/domains
 https://raw.githubusercontent.com/paulgb/BarbBlock/main/blocklists/hosts-file.txt
 https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-domains.txt
 https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/master/Filters
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
@@ -360,7 +365,6 @@ https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-https://www.usom.gov.tr/url-list.txt
 https://www.void.gr/kargig/void-gr-filters.txt
 https://www.zoso.ro/pages/rolist2.txt
 https://www.zoso.ro/pages/rolist.txt
