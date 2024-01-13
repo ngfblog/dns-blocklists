@@ -105,7 +105,6 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-f
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
 https://raw.githubusercontent.com/braveinnovators/url-blocklist/main/filters/url-blocklist-domains.txt
-https://raw.githubusercontent.com/cats-team/adrules/main/ad-domains.txt
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/filehosting/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
@@ -318,6 +317,7 @@ https://raw.githubusercontent.com/SystemJargon/blocklists/main/lists/threats/agg
 https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
 https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
+https://raw.githubusercontent.com/ttc-cert/TTC-CERT_blocklist_recommended/master/domain_blocklist_recommended.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-others.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
@@ -365,6 +365,7 @@ https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+https://www.usom.gov.tr/url-list.txt
 https://www.void.gr/kargig/void-gr-filters.txt
 https://www.zoso.ro/pages/rolist2.txt
 https://www.zoso.ro/pages/rolist.txt
