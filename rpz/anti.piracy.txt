@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705013880 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705186860 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 11 Jan 2024 22:58 UTC
-; Version: 2024.0111.2258.55
+; Last modified: 13 Jan 2024 23:01 UTC
+; Version: 2024.0113.2301.10
 ; Syntax: RPZ
-; Number of entries: 21044
+; Number of entries: 21030
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1024,6 +1024,8 @@ eurostreaming.ca CNAME .
 *.eurostreaming.ca CNAME .
 filmstreaming.ca CNAME .
 *.filmstreaming.ca CNAME .
+r.l5.ca CNAME .
+*.r.l5.ca CNAME .
 respawn.ca CNAME .
 *.respawn.ca CNAME .
 members.shaw.ca CNAME .
@@ -2364,8 +2366,6 @@ zer0day.000webhostapp.com CNAME .
 *.0123456789nonexistent.com CNAME .
 0123movies.com CNAME .
 *.0123movies.com CNAME .
-01cinema.com CNAME .
-*.01cinema.com CNAME .
 0magnet.com CNAME .
 *.0magnet.com CNAME .
 0second.com CNAME .
@@ -2838,8 +2838,6 @@ astalavista.com CNAME .
 *.astalavista.com CNAME .
 astra-soft.com CNAME .
 *.astra-soft.com CNAME .
-astroddl.com CNAME .
-*.astroddl.com CNAME .
 astroeggs.com CNAME .
 *.astroeggs.com CNAME .
 astrostress.com CNAME .
@@ -3978,8 +3976,6 @@ duboku.com CNAME .
 *.duboku.com CNAME .
 ducktorrent.com CNAME .
 *.ducktorrent.com CNAME .
-dumpanimage.com CNAME .
-*.dumpanimage.com CNAME .
 dumparump.com CNAME .
 *.dumparump.com CNAME .
 dupefr.com CNAME .
@@ -7358,8 +7354,6 @@ topdocumentaryfilms.com CNAME .
 *.topdocumentaryfilms.com CNAME .
 topelite.com CNAME .
 *.topelite.com CNAME .
-topstoredownloads.com CNAME .
-*.topstoredownloads.com CNAME .
 topstreamfilm.com CNAME .
 *.topstreamfilm.com CNAME .
 topstressers.com CNAME .
@@ -9764,8 +9758,6 @@ tantifilm.golf CNAME .
 *.tantifilm.golf CNAME .
 apibay.gq CNAME .
 *.apibay.gq CNAME .
-tracker.btsync.gq CNAME .
-*.tracker.btsync.gq CNAME .
 hzzwly.gq CNAME .
 *.hzzwly.gq CNAME .
 123movies.gr CNAME .
@@ -12936,8 +12928,6 @@ ayu-tracker.enlist-a-distro.net CNAME .
 *.ayu-tracker.enlist-a-distro.net CNAME .
 enxf.net CNAME .
 *.enxf.net CNAME .
-adtv.ercdn.net CNAME .
-*.adtv.ercdn.net CNAME .
 erotixxx.net CNAME .
 *.erotixxx.net CNAME .
 esubmovie.net CNAME .
@@ -13650,8 +13640,6 @@ piratebayproxy.net CNAME .
 *.piratebayproxy.net CNAME .
 piratecity.net CNAME .
 *.piratecity.net CNAME .
-pirateday.net CNAME .
-*.pirateday.net CNAME .
 piratepirate.net CNAME .
 *.piratepirate.net CNAME .
 piratepiratepirate.net CNAME .
@@ -15524,8 +15512,6 @@ insmac.org CNAME .
 *.insmac.org CNAME .
 internetfiles.org CNAME .
 *.internetfiles.org CNAME .
-tracker.ipv6tracker.org CNAME .
-*.tracker.ipv6tracker.org CNAME .
 italia-film.org CNAME .
 *.italia-film.org CNAME .
 itmn.org CNAME .
