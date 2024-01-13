@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705108320 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705140180 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Jan 2024 01:12 UTC
-; Version: 2024.0113.0112.41
+; Last modified: 13 Jan 2024 10:03 UTC
+; Version: 2024.0113.1003.28
 ; Syntax: RPZ
-; Number of entries: 131164
+; Number of entries: 131146
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -10216,26 +10216,8 @@ adisfy.com CNAME .
 *.adisfy.com CNAME .
 adit-media.com CNAME .
 *.adit-media.com CNAME .
-ad.adition.com CNAME .
-*.ad.adition.com CNAME .
-dsp.adfarm1.adition.com CNAME .
-*.dsp.adfarm1.adition.com CNAME .
-dspcluster.adfarm1.adition.com CNAME .
-*.dspcluster.adfarm1.adition.com CNAME .
-match.adfarm1.adition.com CNAME .
-*.match.adfarm1.adition.com CNAME .
-mobile.adfarm1.adition.com CNAME .
-*.mobile.adfarm1.adition.com CNAME .
-static.adfarm1.adition.com CNAME .
-*.static.adfarm1.adition.com CNAME .
-cd.adition.com CNAME .
-*.cd.adition.com CNAME .
-imagesrv.adition.com CNAME .
-*.imagesrv.adition.com CNAME .
-track.adition.com CNAME .
-*.track.adition.com CNAME .
-vt.adition.com CNAME .
-*.vt.adition.com CNAME .
+adition.com CNAME .
+*.adition.com CNAME .
 aditsafeweb.com CNAME .
 *.aditsafeweb.com CNAME .
 aditserve.com CNAME .

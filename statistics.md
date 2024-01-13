@@ -1,7 +1,7 @@
 ### Statistics
 #### LIGHT
 ```
-216200 (88%) included | 6767 (3%) removed | 21829 (9%) dead
+216215 (88%) included | 6756 (3%) removed | 21829 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |      91% |   5% |      4% |  132179 | Personal
@@ -18,10 +18,10 @@
 ```
 #### MULTI
 ```
-716558 (87%) included | 27592 (3%) removed | 81473 (10%) dead
+716641 (87%) included | 27578 (3%) removed | 81473 (10%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  216200 | Predecessor: Multi Light
+  1 |     100% |   0% |      0% |  216215 | Predecessor: Multi Light
   2 |      91% |   5% |      4% |  132179 | Personal
   3 |      66% |   8% |     26% |    4808 | Extracted Wildcard Rules
   4 |      95% |   0% |      5% |      22 | Native Tracker Apple (iOS, macOS, tvOS)
