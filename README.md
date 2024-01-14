@@ -44,7 +44,7 @@
 | :blue_book:[Normal](#normal)       | 716297<br>152781     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :green_circle: | :yellow_square: | :yellow_square: | |
 | :ledger:[Pro](#pro)              | 983407<br>253904         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
 | :orange_book:[Pro++](#proplus)    | 1322885<br>362530 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
-| :closed_book:[Ultimate](#ultimate)    | 1496900<br>422654 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 1496899<br>422653 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
            
 :green_circle: contains the list named in the column caption       
 :yellow_square: partially contains the list named in the column caption       
@@ -145,7 +145,7 @@
          
 ***NOTE:*** *META graph trackers are blocked in Ultimate. This restricts the use of Facebook/Instagram and Facebook Messenger. To use Facebook/Instagram with Ultimate, unblock the following domains: [META Tracker](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/share/facebook.txt)*
        
-**Entries:** *1496900 domains/hosts - 422654 compressed domains*               
+**Entries:** *1496899 domains/hosts - 422653 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -219,7 +219,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1122895 domains/hosts - 632936 compressed domains*           
+**Entries:** *1122894 domains/hosts - 632935 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
