@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1705186860 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1705274580 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 13 Jan 2024 23:01 UTC
-; Version: 2024.0113.2301.10
+; Last modified: 14 Jan 2024 23:23 UTC
+; Version: 2024.0114.2323.03
 ; Syntax: RPZ
-; Number of entries: 21030
+; Number of entries: 21072
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -172,6 +172,8 @@ movie-web.app CNAME .
 *.movie-web.app CNAME .
 novatv.app CNAME .
 *.novatv.app CNAME .
+playmods.app CNAME .
+*.playmods.app CNAME .
 6.pocketnet.app CNAME .
 *.6.pocketnet.app CNAME .
 popcorntime.app CNAME .
@@ -1362,6 +1364,8 @@ tp.m-team.cc CNAME .
 *.tp.m-team.cc CNAME .
 tracker.m-team.cc CNAME .
 *.tracker.m-team.cc CNAME .
+modradar.cc CNAME .
+*.modradar.cc CNAME .
 movcr.cc CNAME .
 *.movcr.cc CNAME .
 movie4u.cc CNAME .
@@ -2666,6 +2670,10 @@ amineprogram.com CNAME .
 *.amineprogram.com CNAME .
 amrbd.com CNAME .
 *.amrbd.com CNAME .
+an1.com CNAME .
+*.an1.com CNAME .
+an1modapk.com CNAME .
+*.an1modapk.com CNAME .
 androidrookies.com CNAME .
 *.androidrookies.com CNAME .
 animatedchaos.com CNAME .
@@ -2768,6 +2776,8 @@ apkmb.com CNAME .
 *.apkmb.com CNAME .
 apkmirrorfull.com CNAME .
 *.apkmirrorfull.com CNAME .
+apkmody.com CNAME .
+*.apkmody.com CNAME .
 apkpure.com CNAME .
 *.apkpure.com CNAME .
 apksum.com CNAME .
@@ -3650,6 +3660,8 @@ cuevana2.com CNAME .
 *.cuevana2.com CNAME .
 cuevanagt.com CNAME .
 *.cuevanagt.com CNAME .
+curseforge.com CNAME .
+*.curseforge.com CNAME .
 cutedrive.com CNAME .
 *.cutedrive.com CNAME .
 cutercounter.com CNAME .
@@ -4742,6 +4754,8 @@ hakwara.com CNAME .
 *.hakwara.com CNAME .
 hanjutv2020.com CNAME .
 *.hanjutv2020.com CNAME .
+happymod.com CNAME .
+*.happymod.com CNAME .
 hardstresser.com CNAME .
 *.hardstresser.com CNAME .
 harleyquinnwidget.com CNAME .
@@ -5330,6 +5344,8 @@ torrents.linuxmint.com CNAME .
 *.torrents.linuxmint.com CNAME .
 linxdown.com CNAME .
 *.linxdown.com CNAME .
+liteapks.com CNAME .
+*.liteapks.com CNAME .
 livefilestore.com CNAME .
 *.livefilestore.com CNAME .
 liveiccworldcup.com CNAME .
@@ -5592,6 +5608,12 @@ mobiplanet4m.com CNAME .
 *.mobiplanet4m.com CNAME .
 modapkdown.com CNAME .
 *.modapkdown.com CNAME .
+modcombo.com CNAME .
+*.modcombo.com CNAME .
+moddedguru.com CNAME .
+*.moddedguru.com CNAME .
+moddroid.com CNAME .
+*.moddroid.com CNAME .
 modovideo.com CNAME .
 *.modovideo.com CNAME .
 modsofapk.com CNAME .
@@ -6268,6 +6290,8 @@ pl1.com CNAME .
 *.pl1.com CNAME .
 planete-lolo.com CNAME .
 *.planete-lolo.com CNAME .
+platinmods.com CNAME .
+*.platinmods.com CNAME .
 bt.play-skill.com CNAME .
 *.bt.play-skill.com CNAME .
 ip-booter-net.play3nvvip.com CNAME .
@@ -10540,12 +10564,16 @@ guardaserie.international CNAME .
 *.123putlocker.io CNAME .
 altadefinizione.io CNAME .
 *.altadefinizione.io CNAME .
+androidhackers.io CNAME .
+*.androidhackers.io CNAME .
 anicloud.io CNAME .
 *.anicloud.io CNAME .
 animeflix.io CNAME .
 *.animeflix.io CNAME .
 animesuge.io CNAME .
 *.animesuge.io CNAME .
+apktodo.io CNAME .
+*.apktodo.io CNAME .
 bitport.io CNAME .
 *.bitport.io CNAME .
 blokas.io CNAME .
@@ -10602,6 +10630,8 @@ futebolgratis.io CNAME .
 *.futebolgratis.io CNAME .
 gamestorrents.io CNAME .
 *.gamestorrents.io CNAME .
+getmod.io CNAME .
+*.getmod.io CNAME .
 abir0dev.github.io CNAME .
 *.abir0dev.github.io CNAME .
 istiak-tushar42.github.io CNAME .
@@ -13138,6 +13168,8 @@ gum-gum-streaming.net CNAME .
 *.gum-gum-streaming.net CNAME .
 gun-land.net CNAME .
 *.gun-land.net CNAME .
+hackerbot.net CNAME .
+*.hackerbot.net CNAME .
 halum.net CNAME .
 *.halum.net CNAME .
 torrent-tracker.hama3.net CNAME .
@@ -14890,6 +14922,8 @@ anzwers.org CNAME .
 *.anzwers.org CNAME .
 apk4free.org CNAME .
 *.apk4free.org CNAME .
+apkcap.org CNAME .
+*.apkcap.org CNAME .
 apptracker.org CNAME .
 *.apptracker.org CNAME .
 appzuniverse.org CNAME .
@@ -18116,6 +18150,8 @@ cpasbien.site CNAME .
 *.cpasbien.site CNAME .
 crackhub.site CNAME .
 *.crackhub.site CNAME .
+tracker.cubicview.site CNAME .
+*.tracker.cubicview.site CNAME .
 dodi-repacks.site CNAME .
 *.dodi-repacks.site CNAME .
 dramaqu.site CNAME .
@@ -19550,6 +19586,8 @@ mejortorrent.tv CNAME .
 *.mejortorrent.tv CNAME .
 miomio.tv CNAME .
 *.miomio.tv CNAME .
+modpure.tv CNAME .
+*.modpure.tv CNAME .
 moonline.tv CNAME .
 *.moonline.tv CNAME .
 movie-blog.tv CNAME .
@@ -19884,6 +19922,8 @@ animeland.us CNAME .
 *.animeland.us CNAME .
 animeshd.us CNAME .
 *.animeshd.us CNAME .
+appmods.us CNAME .
+*.appmods.us CNAME .
 arconaitv.us CNAME .
 *.arconaitv.us CNAME .
 b-h.us CNAME .
@@ -20104,6 +20144,8 @@ thepiratebay.vin CNAME .
 *.thepiratebay.vin CNAME .
 altadefinizione.vip CNAME .
 *.altadefinizione.vip CNAME .
+apkmody.vip CNAME .
+*.apkmody.vip CNAME .
 babytorrent.vip CNAME .
 *.babytorrent.vip CNAME .
 bmovies.vip CNAME .
