@@ -40,8 +40,8 @@
 #### ***Blocklist version and size overview:***
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Pers<br>onal](#personal) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | 216200<br>65579     |  |   |   |  |  | :yellow_square: | :green_circle: | :yellow_square: | | |
-| :blue_book:[Normal](#normal)       | 715571<br>152056     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :green_circle: | :yellow_square: | :yellow_square: | |
+| :green_book:[Light](#light)             | 215319<br>64818     |  |   |   |  |  | :yellow_square: | :green_circle: | :yellow_square: | | |
+| :blue_book:[Normal](#normal)       | 712008<br>150375     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :green_circle: | :yellow_square: | :yellow_square: | |
 | :ledger:[Pro](#pro)              | 982677<br>253176         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
 | :orange_book:[Pro++](#proplus)    | 1322154<br>361801 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
 | :closed_book:[Ultimate](#ultimate)    | 1448872<br>398172 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
@@ -68,7 +68,7 @@
           
 ***NOTE:*** *Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.*
 		  
-**Entries:** *216200 domains/hosts - 65579 compressed domains*                    
+**Entries:** *215319 domains/hosts - 64818 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -88,7 +88,7 @@
          
 ***NOTE:*** *Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.*
 		  
-**Entries:** *715571 domains/hosts - 152056 compressed domains*                   
+**Entries:** *712008 domains/hosts - 150375 compressed domains*                   
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -436,7 +436,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *46296 compressed domains*                    
+**Entries:** *45543 compressed domains*                    
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
