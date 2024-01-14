@@ -324,6 +324,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
