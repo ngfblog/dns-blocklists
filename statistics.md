@@ -98,7 +98,7 @@
 ```
 #### ULTIMATE
 ```
-1496900 (83%) included | 61547 (3%) removed | 237833 (13%) dead
+1449625 (83%) included | 61538 (4%) removed | 233459 (13%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
   1 |     100% |   0% |      0% | 1322885 | Predecessor: Multi Pro++
@@ -127,7 +127,6 @@
  24 |     100% |   0% |      0% |     406 | Native Tracker TikTok Extended (Fingerprinting)
  25 |     100% |   0% |      0% |      13 | META Graph Tracker (Facebook, Instagram)
  26 |      88% |  10% |      2% |  107503 | Ads/Tracking Extension
- 27 |     100% |   0% |      0% |   38281 | Malicious Extension
- 28 |      77% |  22% |      1% |  369752 | Ultimate Extension
- 29 |      89% |   0% |     11% |    4539 | Denylist Compression Optimisation
+ 27 |      77% |  22% |      1% |  369752 | Ultimate Extension
+ 28 |      89% |   0% |     11% |    4539 | Denylist Compression Optimisation
 ```
