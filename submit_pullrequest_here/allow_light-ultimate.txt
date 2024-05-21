@@ -11,6 +11,11 @@
 
 # BEGIN
 
+# DHL / Post (Germany) has updated their backend,
+# and the following tracking domain needs to be allowed
+# unfurtunately... Or login breaks in the app!
+quality.dpdhl.com
+
 # https://github.com/hagezi/dns-blocklists/issues/2747
 set.page
 
