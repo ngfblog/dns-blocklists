@@ -40,7 +40,7 @@ jobs:
           fetch-depth: 20
           fetch-tags: 'true'
       - name: Run jsDelivr-Purge
-        uses: List-KR/jsdelivr-purge@5.6.0
+        uses: List-KR/jsdelivr-purge@6.0.0
     needs: release
   workflowcleanup:
     name: Cleanup
